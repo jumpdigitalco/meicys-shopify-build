@@ -1,0 +1,322 @@
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "gallery_socical_QRe8hD": {
+      "type": "gallery-socical",
+      "blocks": {
+        "gallery_JzXt3e": {
+          "type": "gallery",
+          "settings": {
+
+            "text": "",
+            "link": ""
+          }
+        },
+        "gallery_h9Giqc": {
+          "type": "gallery",
+          "settings": {
+
+            "text": "",
+            "link": ""
+          }
+        },
+        "gallery_q8p6mK": {
+          "type": "gallery",
+          "settings": {
+
+            "text": "",
+            "link": ""
+          }
+        },
+        "gallery_HtBGeQ": {
+          "type": "gallery",
+          "settings": {
+
+            "text": "",
+            "link": ""
+          }
+        },
+        "gallery_BKmF4a": {
+          "type": "gallery",
+          "settings": {
+
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "gallery_JzXt3e",
+        "gallery_h9Giqc",
+        "gallery_q8p6mK",
+        "gallery_HtBGeQ",
+        "gallery_BKmF4a"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "FOLLOW  @ORGANIC",
+        "heading_size_section": "h2",
+        "description": "<p>FOR YOUR SOCIAL FIX</p>",
+        "layout": "vertical",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "layout_gallery": "carousel",
+        "image_size": "square",
+        "icon": "instagram",
+        "images_per_row": 5,
+        "gap": 0.5,
+        "columns_mobile": "2",
+        "gap_mobile": 1,
+        "swipe_on_mobile": true,
+        "bg_color": "#f4f4f8",
+        "text_color": "",
+        "padding_top": 100,
+        "padding_bottom": 24
+      }
+    },
+    "text_with_icons_jRiWNP": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon_NMwyTm": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble",
+            "title": "Customer service",
+            "text": "<p>Whatsapp on 965 84 13 07</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_HrU8T4": {
+          "type": "icon",
+          "settings": {
+            "icon": "truck",
+            "title": "Free shipping",
+            "text": "<p>Express delivery worldwide</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_Fxhc76": {
+          "type": "icon",
+          "settings": {
+            "icon": "box",
+            "title": "Free returns",
+            "text": "<p>Free return for 30 days</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_R39HWF": {
+          "type": "icon",
+          "settings": {
+            "icon": "sheild",
+            "title": "Secure payment",
+            "text": "<p>Visa, Mastercard, Amex, PayPal</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_NMwyTm",
+        "icon_HrU8T4",
+        "icon_Fxhc76",
+        "icon_R39HWF"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "item_type": "vertical",
+        "heading_size": "h6",
+        "column_alignment": "center",
+        "icon_background": "none",
+        "icon_width": 32,
+        "button_type": "underlined-white",
+        "show_icon": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_progress_bar": false,
+        "bg_color": "#f4f4f8",
+        "text_color": "rgba(0,0,0,0)",
+        "icon_bg_color": "#f4f4f8",
+        "icon_color": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter_GXJkHj": {
+          "type": "newsletter",
+          "settings": {
+            "heading": "",
+            "content": "<h4>Sign up for skincare tips & exclusive offers.</h4><h4></h4><p>Unlock Exclusive Offers and Giveaways When You Sign Up Today!</p>",
+            "term_policy": "<p>By subscribing you agree to the <a href=\"#\" title=\"#\">Terms of Use </a>& <a href=\"#\" title=\"#\">Privacy Policy</a>.</p>",
+            "show_social": true,
+            "order_first": false
+          }
+        },
+        "link_list_ymL6yn": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "menu": "",
+            "open_details": false
+          }
+        },
+        "link_list_7nmBjj": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Customer",
+            "menu": "customer",
+            "open_details": false
+          }
+        },
+        "link_list_4j8WJb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Collections",
+            "menu": "collections",
+            "open_details": false
+          }
+        },
+        "link_list_Nx4gLF": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Support",
+            "menu": "footer",
+            "open_details": false
+          }
+        },
+        "text_8P7CaD": {
+          "type": "text",
+          "settings": {
+            "heading": "Contact us",
+            "image_width": 550,
+            "subtext": "<p>Call us From 9am to 9pm ET Monday-Friday and 9am to 6pm ET Saturday:</p><ul><li>Email: clientcare@organic.com</li><li>Phone: 1-844-OLE-GLOW (653-4569)</li><li>Stores: <a href=\"#\" title=\"#\">1046 Springfield, IL 62704</a></li></ul>",
+            "show_social": false,
+            "open_details": true
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_GXJkHj",
+        "link_list_ymL6yn",
+        "link_list_7nmBjj",
+        "link_list_4j8WJb",
+        "link_list_Nx4gLF",
+        "text_8P7CaD"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "heading_size": "h6",
+        "enable_follow_on_shop": true,
+        "enable_country_selector": true,
+        "enable_country_flag": true,
+        "enable_country_name": false,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "border_color_newsletter": "#193a43",
+        "show_divider": false,
+        "show_bottom_border": true,
+        "show_bottom_border_mobile": true,
+        "padding_top": 64,
+        "padding_bottom": 32
+      }
+    },
+    "scrolling_text_PDqpPA": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_w6qXDd": {
+          "type": "text",
+          "settings": {
+            "text": "VEGAN",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_GgxerU": {
+          "type": "text",
+          "settings": {
+            "text": "▪",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_wFbBEM": {
+          "type": "text",
+          "settings": {
+            "text": "CRUELTY-FREE",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_8kXjkQ": {
+          "type": "text",
+          "settings": {
+            "text": "▪",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_Mef4db": {
+          "type": "text",
+          "settings": {
+            "text": "PARABEN-FREE",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_aaXBE7": {
+          "type": "text",
+          "settings": {
+            "text": "▪",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_w6qXDd",
+        "text_GgxerU",
+        "text_wFbBEM",
+        "text_8kXjkQ",
+        "text_Mef4db",
+        "text_aaXBE7"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "text_size": "size-base",
+        "pause_scroll_on_hover": false,
+        "spacing": 80,
+        "spacing_mobile": 30,
+        "image_width": 24,
+        "speed": 20,
+        "direction": "right",
+        "bg_color": "#193a43",
+        "text_color": "#d9ff43",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "gallery_socical_QRe8hD",
+    "text_with_icons_jRiWNP",
+    "footer",
+    "scrolling_text_PDqpPA"
+  ]
+}

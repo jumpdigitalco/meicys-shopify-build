@@ -1,0 +1,245 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "container",
+        "show_default_heading": true,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_overlay_44kDbk": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_JMt8xw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Customer Help",
+            "heading_size": "h1"
+          }
+        },
+        "text_Xpcwz3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If talking to a real-life human is more your thing, you can reach our Customer Happiness Team via email (below).<\/p>",
+            "large_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JMt8xw",
+        "text_Xpcwz3"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "link": "",
+        "desktop_height": "desktop-height-450",
+        "mobile_height": "mobile-height-400",
+        "desktop_content_position": "middle-center",
+        "mobile_content_position": "middle-center",
+        "content_width": "max-w-4xl",
+        "enable_parallax": false,
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 70,
+        "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5) 90%)"
+      }
+    },
+    "faq_gkrwUi": {
+      "type": "faq",
+      "blocks": {
+        "category_qfK9Mi": {
+          "type": "category",
+          "settings": {
+            "heading_row": "Orders"
+          }
+        },
+        "question_bBCyeK": {
+          "type": "question",
+          "settings": {
+            "heading": "Can I change or cancel my order?",
+            "icon": "none",
+            "row_content": "<p>Unfortunately we cannot change your order after you have placed it. If you want to change or cancel your order, please contact us <a href=\"\/pages\/contact\" title=\"Contact\">here.<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "question_TcLpfn": {
+          "type": "question",
+          "settings": {
+            "heading": "Can you exchange items?",
+            "icon": "none",
+            "row_content": "<p>Unfortunately, we cannot offer exchanges. If you need a different size or color of an item, you will need to place a new order and return the item that does not fit. If you order the same model again in a different color or size, we can ensure that you can keep any discount that may have been granted on the original order. The returned item will be refunded as soon as it arrives at our warehouse.<\/p>",
+            "page": ""
+          }
+        },
+        "category_9hGQLa": {
+          "type": "category",
+          "settings": {
+            "heading_row": "Shipping & Returns"
+          }
+        },
+        "question_Cwi7nV": {
+          "type": "question",
+          "settings": {
+            "heading": "Which countries are the products delivered to?",
+            "icon": "none",
+            "row_content": "<p>Orders placed on this shop can be sent to Europe and North America. For shipping to other countries, please contact us.<\/p>",
+            "page": ""
+          }
+        },
+        "question_iD9qCL": {
+          "type": "question",
+          "settings": {
+            "heading": "How much does the shipping cost?",
+            "icon": "none",
+            "row_content": "<p>Delivery is free in US for purchases over $70. Otherwise, delivery is $8.<\/p>",
+            "page": ""
+          }
+        },
+        "question_CaMVP8": {
+          "type": "question",
+          "settings": {
+            "heading": "Which shipping methods do you offer?",
+            "icon": "none",
+            "row_content": "<p>The dispatch takes place via the parcel service GLS. We offer delivery to your home address.<\/p>",
+            "page": ""
+          }
+        },
+        "category_8DqK4H": {
+          "type": "category",
+          "settings": {
+            "heading_row": "Account"
+          }
+        },
+        "question_ECf9GC": {
+          "type": "question",
+          "settings": {
+            "heading": "Do I necessarily have to create an account to order?",
+            "icon": "none",
+            "row_content": "<p>No it's not mandatory. But it is highly recommended. Indeed, it will allow you to find your history, edit your addresses and track your parcel online faster. You will also be notified of new products and special events.<\/p>",
+            "page": ""
+          }
+        },
+        "question_drfY7d": {
+          "type": "question",
+          "settings": {
+            "heading": "Do you save my bank details?",
+            "icon": "none",
+            "row_content": "<p>Absolutely not. We never have access to this information. It is the company Stripe that deals with it. Your data is completely safe.<\/p>",
+            "page": ""
+          }
+        },
+        "category_W7Aqw3": {
+          "type": "category",
+          "settings": {
+            "heading_row": "Payment"
+          }
+        },
+        "question_DUpBGC": {
+          "type": "question",
+          "settings": {
+            "heading": "What types of credit cards do you accept?",
+            "icon": "none",
+            "row_content": "<p>We accept Visa, MasterCard and American Express cards. Alternatively, you can finalize your order with PayPal payment service.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "category_qfK9Mi",
+        "question_bBCyeK",
+        "question_TcLpfn",
+        "category_9hGQLa",
+        "question_Cwi7nV",
+        "question_iD9qCL",
+        "question_CaMVP8",
+        "category_8DqK4H",
+        "question_ECf9GC",
+        "question_drfY7d",
+        "category_W7Aqw3",
+        "question_DUpBGC"
+      ],
+      "settings": {
+        "subheading": "",
+        "heading": "",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "heading_size_category": "h4",
+        "heading_size_question": "h6",
+        "bg_color": "",
+        "text_color": "",
+        "border_color": "",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "rich_text_arEzcN": {
+      "type": "rich-text",
+      "blocks": {
+        "icon_CXUfg9": {
+          "type": "icon",
+          "settings": {
+            "icon": "question_mark"
+          }
+        },
+        "heading_MwCUQC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in touch",
+            "heading_size": "h3"
+          }
+        },
+        "text_z3HkTV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?<\/p>",
+            "large_text": false
+          }
+        },
+        "separator_jbA7xj": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 2
+          }
+        },
+        "button_AeTPPE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "icon_CXUfg9",
+        "heading_MwCUQC",
+        "text_z3HkTV",
+        "separator_jbA7xj",
+        "button_AeTPPE"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "#f9f9f9",
+        "text_color": "",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_44kDbk",
+    "faq_gkrwUi",
+    "rich_text_arEzcN"
+  ]
+}

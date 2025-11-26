@@ -1,0 +1,41 @@
+{
+  "sections": {
+    "breadcrumbs_7cWMWV": {
+      "type": "breadcrumbs",
+      "settings": {
+        "section_width": "container-fluid",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-search",
+      "settings": {
+        "section_width": "container",
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "column_gap": "12",
+        "filter_type": "vertical",
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "show_filter_values_count": true,
+        "show_product_count": true,
+        "collapsible_state": "expanded",
+        "show_color_swatch": true,
+        "filter_color_type": "inline",
+        "show_date": true,
+        "show_author": true,
+        "show_category": true,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_7cWMWV",
+    "main"
+  ]
+}
