@@ -1,0 +1,11 @@
+node_modules
+package.json
+package-lock.json
+tsconfig.json
+settings_data.json
+config/settings_data.json
+templates/*.json
+templates/**/*.json
+sections/*.json
+.DS_Store
+.DS_Store?

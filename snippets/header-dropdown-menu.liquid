@@ -5,9 +5,32 @@
   {% render 'header-dropdown-menu' %}
 {% endcomment %}
 
+{%- liquid 
+assign active_brand = false
+assign page_menu = section.settings.menu
+
+if template == 'collection'
+    if  collection.metafields.custom.marca != blank
+      assign active_brand = collection.metafields.custom.marca
+    endif 
+elsif template == 'product'
+  if product.metafields.custom.marca != blank
+    assign active_brand = product.metafields.custom.marca
+  endif
+elsif template contains 'page'
+    if page.metafields.custom.marca != blank
+      assign active_brand = page.metafields.custom.marca
+    endif
+endif
+
+if active_brand != false and active_brand.value.id_menu != blank
+  assign page_menu = linklists[active_brand.value.id_menu]
+endif
+-%}
+
 <nav class="header__inline-menu h-full">
   <ul class="list-menu list-menu--inline flex h-full items-center" role="list">
-    {%- for link in section.settings.menu.links -%}
+    {%- for link in page_menu.links -%}
       {%- liquid
           assign has_mega = false
           assign use_label = false

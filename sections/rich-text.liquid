@@ -1,5 +1,5 @@
 {{ 'rich-text.css' | asset_url | stylesheet_tag }}
-<div class="isolate section-rich-text">
+<div class="isolate section-rich-text{% if section.settings.enable_horizontal_scroll_mobile %} horizontal-scroll{% endif %}">
   <div class="{{ section.settings.section_width }}">
     <div class=" section-padding section-bg {% if section.settings.section_width != 'w-full'  %} global-radius {% endif %}" {% render 'section-properties' %}>
       <div class="rich-text padding-x {{ section.settings.content_width }}">
@@ -119,7 +119,7 @@
                     <div class="rich-text__text-image"  {{ block.shopify_attributes }}>
                     {%- if block.settings.text != blank -%}
                       {% assign text = block.settings.text %}
-                      {% for index in (1..3) %}
+                      {% for index in (1..5) %}
                         {% liquid
                         assign width = 'image_width_' | append: index
                         assign url = 'url_' | append: index
@@ -273,6 +273,12 @@
       "unit": "px",
       "label": "Bottom padding",
       "default": 36
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_horizontal_scroll_mobile",
+      "label": "Horizontal Scroll Mobile",
+      "default": true
     }
   ],
   "blocks": [
@@ -728,7 +734,7 @@
             "id": "text",
             "label": "Text",
             "default": "Showcase products [img1], curate a collection [img2], or pair images with a compelling brand message [img3].",
-            "info": "Use [img1], [img2], [img3]... as placeholders for images"
+            "info": "Use [img1], [img2], [img3]... as placeholders for images, up to 5 images"
           },
           {
             "type": "select",
@@ -851,6 +857,48 @@
             "type": "url",
             "id": "url_3",
             "label": "Link image 3"
+          },
+          {
+            "type": "image_picker",
+            "id": "image_4",
+            "label": "Image 4",
+            "info": "Recommended 60 x 60 .png"
+          },
+          {
+            "type": "range",
+            "id": "image_width_4",
+            "min": 50,
+            "max": 200,
+            "default": 60,
+            "step": 2,
+            "unit": "px",
+            "label": "Width image 4"
+          },
+          {
+            "type": "url",
+            "id": "url_4",
+            "label": "Link image 4"
+          },
+          {
+            "type": "image_picker",
+            "id": "image_5",
+            "label": "Image 5",
+            "info": "Recommended 60 x 60 .png"
+          },
+          {
+            "type": "range",
+            "id": "image_width_5",
+            "min": 50,
+            "max": 200,
+            "default": 60,
+            "step": 2,
+            "unit": "px",
+            "label": "Width image 5"
+          },
+          {
+            "type": "url",
+            "id": "url_5",
+            "label": "Link image 5"
           }
         ]
       }

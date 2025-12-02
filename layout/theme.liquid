@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
     <meta name="theme-color" content="{{ settings.settings.body_bg }}">
+    <meta name="google-site-verification" content="VnB1-XVsn1sS47axfsE_pLOK1wCEPRcZnxK4gyRtpB8" />
     <link rel="canonical" href="{{ canonical_url }}">
 
     {%- if settings.favicon != blank -%}
@@ -35,6 +36,10 @@
 
     {% render 'css-variables' %}
     {{ 'theme.css' | asset_url | stylesheet_tag }}
+    
+    {% render 'css-variables-brand' %}
+    {{ 'custom.css' | asset_url | stylesheet_tag }}
+
     
     {% render 'scripts-tag' %} 
     <script>

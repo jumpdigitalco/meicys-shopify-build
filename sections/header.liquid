@@ -239,6 +239,14 @@
           </ul>
         {%- endif -%}
       {%- endfor -%}
+
+      {% if section.settings.additional_links_menu != blank and linklists[section.settings.additional_links_menu].links != blank %}
+      <ul class="additional-links-menu hidden md:flex pl-0 list-unstyled items-center gap-x-5 mr-4">
+        {% for add_link in linklists[section.settings.additional_links_menu].links limit: 3 %}
+          <a href="{{add_link.url}}" class="">{{ add_link.title }}</a>
+        {% endfor %}
+      </ul>
+      {% endif %}
       
       <div class="desktop-localization-wrapper pr-5">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
@@ -590,6 +598,11 @@ if (announcementScrollingHeight) {
       "id": "menu",
       "default": "main-menu",
       "label": "Menu"
+    },
+    {
+      "type": "text",
+      "id": "additional_links_menu",
+      "label": "Additional Links Menu Handle"
     },
     {
       "type": "select",

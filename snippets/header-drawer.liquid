@@ -5,6 +5,28 @@
   {% render 'header-drawer' %}
 {% endcomment %}
 
+{%- liquid 
+assign active_brand = false
+assign page_menu = section.settings.menu
+
+if template == 'collection'
+    if  collection.metafields.custom.marca != blank
+      assign active_brand = collection.metafields.custom.marca
+    endif 
+elsif template == 'product'
+  if product.metafields.custom.marca != blank
+    assign active_brand = product.metafields.custom.marca
+  endif
+elsif template contains 'page'
+    if page.metafields.custom.marca != blank
+      assign active_brand = page.metafields.custom.marca
+    endif
+endif
+
+if active_brand != false and active_brand.value.id_menu != blank
+  assign page_menu = linklists[active_brand.value.id_menu]
+endif
+-%}
 
 <header-drawer class="" data-breakpoint="{% if section.settings.menu_type_desktop == 'drawer' %}desktop{% else %}tablet{% endif %}">
   <details id="Details-menu-drawer-container" class="menu-drawer-container">
@@ -22,7 +44,7 @@
         <div class="menu-drawer__navigation-container">
           <nav class="menu-drawer__navigation">
             <ul class="menu-drawer__menu has-submenu list-menu" role="list">
-              {%- for link in section.settings.menu.links -%}
+              {%- for link in page_menu.links -%}
                 {%- liquid
                     assign has_mega = false
                     assign menu_title = link.title | strip | downcase

@@ -1,0 +1,869 @@
+{
+    "Colombia": {
+        "lat": 3.64458397243837,
+        "lng": -72.694454465282,
+        "cities": {
+            "Armenia": {
+                "lat":4.5341359,"lng": -75.6766794,
+                "stores": {
+                  "LA MINITA TIENDA DE BELLEZA":{
+                      "lat": 4.558574549291494,
+                      "lng": -75.65310872488178,
+                      "name": "LA MINITA TIENDA DE BELLEZA",
+                      "address": "CL 17 16 47 LC 7 Y 13, Armenia, Quindio, Colombia",
+                      "phone": "57 3004675257",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "SOCIEDAD CACHARRERIA LA FORTUNA DE LA 17 S.A.S":{
+                      "lat":4.5353519,"lng": -75.6725699,
+                      "name": "SOCIEDAD CACHARRERIA LA FORTUNA DE LA 17 S.A.S",
+                      "address": "CL 17 16 09, Armenia, Quindio, Colombia",
+                      "phone": "57 (604)2311687",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+                }
+            },
+            "Barrancabermeja": {
+              "lat":7.0593844,"lng": -73.8684501,
+              "stores": {
+                  "VARIEDADES EL GANGAZO.COM.CO SAS ":{
+                      "lat": 7.0617085,
+                      "lng": -73.8519319,
+                      "name": "VARIEDADES EL GANGAZO.COM.CO SAS ",
+                      "address": "CL 49 8 86, Barrancabermeja, Santander, Colombia",
+                      "phone": "57 320 6252756",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Barranquilla": {
+              "lat": 11.0035342630337,
+              "lng": -74.808786288462,
+              "stores": {
+                  "VELANDIA VELEZ SHIRLY KAROLAY":{
+                      "lat":10.9816272,"lng": -74.773876,
+                      "name": "VELANDIA VELEZ SHIRLY KAROLAY",
+                      "address": "CR 43 9 Y 10 LC 152, Barranquilla, Atlantico, Colombia",
+                      "phone": "57 3(604)2930640",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "GIRALDO LOPEZ GONZALO":{
+                      "lat":10.9810241,"lng": -74.7747093,
+                      "name": "GIRALDO LOPEZ GONZALO",
+                      "address": "CL 10 42D 61 LC 62, Barranquilla, Atlantico, Colombia",
+                      "phone": "57 (604)5317085",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "ACUÑA PABON YOHANDRA EDITH":{
+                      "lat":10.9817089,"lng": -74.77781,
+                      "name": "ACUÑA PABON YOHANDRA EDITH",
+                      "address": "CL 34 43 70 CC EL PASEO KIOSKO 5, Barranquilla, Atlantico, Colombia",
+                      "phone": "",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Bogotá": {
+              "lat": 4.70713327035187,
+              "lng": -74.0645714591545,
+              "stores": {
+                  "ESPINOSA ROA DEICY ESPERANZA":{
+                      "lat":4.7100303,"lng": -74.1034765,
+                      "name": "ESPINOSA ROA DEICY ESPERANZA",
+                      "address": "CL 83B 94F 22 -BRR QUIRIGUA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "Distribuidora Los Paisitas":{
+                      "lat":4.674899,"lng": -74.143055,
+                      "name": "Distribuidora Los Paisitas",
+                      "address": "CL 20 99 53 -BRR FONTIBON, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3196585690",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "Punto Rosa":{
+                      "lat":4.643697,"lng": -74.175691,
+                      "name": "Punto Rosa",
+                      "address": "Cra 95 #42a 42 sur Bella Vista, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3007436218",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "YELROY SAS":{
+                      "lat":4.625441,"lng": -74.179718,
+                      "name": "YELROY SAS",
+                      "address": "CR 86D 51B 84 SUR BRR BOSA BETANIA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3003959568",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "Cosméticos Yomasa":{
+                      "lat":4.509285,"lng": -74.110681,
+                      "name": "Cosméticos Yomasa",
+                      "address": "CL 81 SUR 8B 23 -BRR YOMASA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3107872296",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "Distribuidora Cosmos":{
+                      "lat":4.509367,"lng": -74.111964,
+                      "name": "Distribuidora Cosmos",
+                      "address": "CL 81 SUR 8D 43 -BRR YOMASA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3143053059",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "FAJARDO MONCALEANO MAURICIO":{
+                      "lat":4.6044213,"lng": -74.0886447,
+                      "name": "FAJARDO MONCALEANO MAURICIO",
+                      "address": "CL 9 BIS 19A 31 LC 114, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 2373731",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "CORTES CASTELLANOS EDUIN ":{
+                      "lat":4.604963,"lng": -74.0846248,
+                      "name": "CORTES CASTELLANOS EDUIN ",
+                      "address": "CR 18 11 62 IN 5 LC 109 110 CC PQ ESPAÑA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3103230021",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "AYALA MONDRAGON LEIDY CATALINA":{
+                      "lat":4.5805752,"lng": -74.1799166,
+                      "name": "AYALA MONDRAGON LEIDY CATALINA",
+                      "address": "CL 67 SUR 77A 69 -BRR SANTODOMINGO, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3123198163",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "BAYONA MOZO JACOBO":{
+                      "lat":4.5508955,"lng": -74.1401969,
+                      "name": "BAYONA MOZO JACOBO",
+                      "address": "CR 17G 67 SUR 29 -BRR LUCERO, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3203460684",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "BONILLA HURTADO EDGAR ENRIQUE":{
+                      "lat":4.5536737,"lng": -74.0919581,
+                      "name": "BONILLA HURTADO EDGAR ENRIQUE",
+                      "address": "CR 4 ESTE 37D 10 SUR -BRR LA VICTORIA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3209042610",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "UNIVERSAL DE BELLEZA COMERCIALIZADORA SAS ":{
+                      "lat":4.587646,"lng": -74.095157,
+                      "name": "UNIVERSAL DE BELLEZA COMERCIALIZADORA SAS ",
+                      "address": "CL 10 SUR 14A 65, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3107446241",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "RAMIREZ PUERTA JHONATAN ARBEY":{
+                      "lat":4.7418226,"lng": -74.124269,
+                      "name": "RAMIREZ PUERTA JHONATAN ARBEY",
+                      "address": "CR 154 132 13 -BRR LISBOA SUBA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3114699029",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "RAMIREZ DUQUE MARIO DE JESUS":{
+                      "lat":4.7431152,"lng": -74.1227987,
+                      "name": "RAMIREZ DUQUE MARIO DE JESUS",
+                      "address": "CL 132D 152 10 BRR SUBA LISBOA, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3187969240",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "A&T INGENIERIAS S.A.S ":{
+                      "lat":4.652772,"lng": -74.159522,
+                      "name": "A&T INGENIERIAS S.A.S ",
+                      "address": "CR 94 6C 30 LC 20 -BRR TINTAL, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3132627691",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "ALBARRACIN ALBARRACIN LUZ MARLENY ":{
+                      "lat":4.6454974,"lng": -74.1766265,
+                      "name": "ALBARRACIN ALBARRACIN LUZ MARLENY ",
+                      "address": "CL 42A SUR 97A BIS 15, Bogotá D.C., Bogotá D.C., Colombia",
+                      "phone": "57 3202358070",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Cali": {
+              "lat": 3.45742348300005,
+              "lng": -76.5366734154099,
+              "stores": {
+                "ARDILA LOPEZ NORBERTO":{
+                      "lat":3.444534,"lng": -76.507217,
+                      "name": "ARDILA LOPEZ NORBERTO",
+                      "address": "CR 15 36 58, Cali, Valle del Cauca, Colombia",
+                      "phone": "57 3014550338",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "HOLE COSMETICS SAS":{
+                      "lat":3.4524335,"lng": -76.5300475,
+                      "name": "HOLE COSMETICS SAS",
+                      "address": "CR 5 14 04 P4 -BRR SAN PEDRO, Cali, Valle del Cauca, Colombia",
+                      "phone": "57 4013849",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Cartagena": {
+              "lat": 10.3910706861972,
+              "lng": -75.4779754300219,
+              "stores": {
+                "CACHARRERIA LOS MARINILLOS CARTAGENA LIMITADA": {
+                      "lat":10.4232278,"lng": -75.537177,
+                      "name": "CACHARRERIA LOS MARINILLOS CARTAGENA LIMITADA",
+                      "address": "CL 32 59D 08 AV PEDRO DE HEREDIA -BRR PIE DE POPA, Cartagena, Bolivar, Colombia",
+                      "phone": "57 3013227353",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "MARTINEZ LOPEZ MATILDE YOLANDA": {
+                      "lat":10.4071337,"lng": -75.5228317,
+                      "name": "MARTINEZ LOPEZ MATILDE YOLANDA",
+                      "address": "TV 34 19 39 -BRR MARTINEZ MARTELO, Cartagena, Bolivar, Colombia",
+                      "phone": "57 3235806586",
+                      "email": "",
+                      "whatsapp": ""
+                }
+              }
+            },
+            "Chía": {
+              "lat": 4.8626039,
+              "lng": -74.0559882,
+              "stores": {
+                "GRUPO KOZMETIKA SAS":{
+                      "lat":4.8622724,"lng": -74.0601559,
+                      "name": "GRUPO KOZMETIKA SAS",
+                      "address": "CL 11 12 60, Chía, Cundinamarca, Colombia",
+                      "phone": "57 3016883226",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Cúcuta": {
+              "lat": 7.895446114147131, 
+              "lng": -72.5027858933551, 
+              "stores": {
+                "COSMÉTICOS LAS LLL":{
+                      "lat":7.8886537,"lng": -72.5064304,
+                      "name": "COSMÉTICOS LAS LLL",
+                      "address": "AV 7 7 88 -BRR CENTRO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3148736030",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "DISTRIBUIDORA Y COMERCIALIZADORA BELLA COSMETICOS SAS":{
+                      "lat":7.8882866,"lng": -72.5018569,
+                      "name": "DISTRIBUIDORA Y COMERCIALIZADORA BELLA COSMETICOS SAS",
+                      "address": "CL 9 2 99 -BRR CENTRO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3135455951",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "COMERCIALIZADORA MAYORISTA DE BELLEZA A & Y SAS":{
+                      "lat":7.8887877,"lng": -72.5085831,
+                      "name": "COMERCIALIZADORA MAYORISTA DE BELLEZA A & Y SAS",
+                      "address": "AV 9 7 34 AP 204 ED BELTRÁN TRIADA BRR EL LLANO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 4215510",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "DELGADO NELLY TERESA":{
+                      "lat":7.8887877,"lng": -72.5085831, 
+                      "name": "DELGADO NELLY TERESA ",
+                      "address": "AV 9 7 34 AP 204 ED BELTRAN TRIADA BRR EL LLANO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3004249592",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "COSMÉTICOS Y FANTASÍAS TATY":{
+                      "lat":7.8887877,"lng": -72.5085831,
+                      "name": "COSMÉTICOS Y FANTASÍAS TATY",
+                      "address": "AV 9 7 34 AP 204 ED BELTRAN TRIADA BRR EL LLANO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3206441058",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "MELO GALVIS YUDDY PAOLA":{
+                      "lat":7.8887877,"lng": -72.5085831,
+                      "name": "MELO GALVIS YUDDY PAOLA",
+                      "address": "AV 7 9 34 AP 204 ED BELTRAN TRIANA -BRR EL LLANO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3006585811",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "MACHUCA GARCIA ANDREA MILENA":{
+                      "lat":7.8885459,"lng": -72.5067313,
+                      "name": "MACHUCA GARCIA ANDREA MILENA",
+                      "address": "CL 8 7 28 LC 4 -BRR CENTRO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3207102971",
+                      "email": "",
+                      "whatsapp": ""
+                },
+                "MACHUCA MENESES DORIS MARIA":{
+                      "lat":7.8887877,"lng": -72.5085831,
+                      "name": "MACHUCA MENESES DORIS MARIAA",
+                      "address": "AV 9 7 34 AP 204 ED BELTRAN TRIADA BRR EL LLANO, Cúcuta, Norte de Santander, Colombia",
+                      "phone": "57 3007024169",
+                      "email": "",
+                      "whatsapp": ""
+                }
+              }
+            },
+            "Florencia": {
+              "lat":1.6136295,"lng": -75.6152522,
+              "stores": {
+                  "DIAZ PARRA ZULMA LEONIA ":{
+                      "lat":1.6136295,"lng": -75.6152522,
+                      "name": "DIAZ PARRA ZULMA LEONIA ",
+                      "address": "CR 14 14 09, Florencia, Caqueta, Colombia",
+                      "phone": "57 3215400845",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Funza": {
+              "lat":4.7151665,"lng": -74.21172,
+              "stores": {
+                  "DUQUE ARCILA ELIZABETH":{
+                      "lat":4.7151665,"lng": -74.21172,
+                      "name": "DUQUE ARCILA ELIZABETH",
+                      "address": "CR 12 13 50, Funza, Cundinamarca, Colombia",
+                      "phone": "57 3012796158",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Fusagasugá": {
+              "lat": 4.3435194,
+              "lng": -74.3630625,
+              "stores": {
+                  "VALBUENA ROA CARLOS JULIO ":{
+                      "lat":4.3433634,"lng": -74.3629608,
+                      "name": "VALBUENA ROA CARLOS JULIO",
+                      "address": "CL 7 7 80 LC 02 CC VALENTIN, Fusagasugá, Cundinamarca, Colombia",
+                      "phone": "57 3016160585",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "EL TITÁN DE LAS PROMOCIONES":{
+                      "lat":4.3421893,"lng": -74.3644437,
+                      "name": "EL TITÁN DE LAS PROMOCIONES",
+                      "address": "CL 7B 9 62 -BRR CENTRO, Fusagasugá, Cundinamarca, Colombia",
+                      "phone": "57 3218920168",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Girón": {
+              "lat": 7.0730084,
+              "lng": -73.1696515,
+              "stores": {
+                  "MARTINEZ ROMERO LUZ MELBA":{
+                      "lat":7.0729869,"lng": -73.1695677,
+                      "name": "MARTINEZ ROMERO LUZ MELBA",
+                      "address": "CC POBLADO PLAZA 1 LC 105 -BRR EL POBLADO, Girón, Santander, Colombia",
+                      "phone": "57 3205656137",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "CARRILLO URIBE FABIOLA ALCIRA ":{
+                      "lat":7.0725021,"lng": -73.1676932,
+                      "name": "CARRILLO URIBE FABIOLA ALCIRA ",
+                      "address": "CR 23 40 08 -BRR POBLADO SANTANDER, Girón, Santander, Colombia",
+                      "phone": "57 3134565546",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "Ibagué": {
+              "lat": 4.4403221,
+              "lng": -75.238899,
+              "stores": {
+                  "SIERRA FRESNEDA LAURA PATRICIA ":{
+                      "lat":4.4403221,"lng": -75.238899,
+                      "name": "SIERRA FRESNEDA LAURA PATRICIA ",
+                      "address": "CR 1 15 63 -BRR CENTRO, Ibagué, Tolima, Colombia",
+                      "phone": "57 3115310341",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "VEGA ZAMBRANO LILIA KATHERINE ":{
+                      "lat":4.4555341,"lng": -75.2019636,
+                      "name": "VEGA ZAMBRANO LILIA KATHERINE ",
+                      "address": "CR 28 67 32 -BRR LOS CIRUELOS, Ibagué, Tolima, Colombia",
+                      "phone": "57 3183597216",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
+            "La Vega, Cundinamarca": {
+              "lat":4.9999166,"lng": -74.3400608,
+              "stores": {
+                  "QUINTERO ALZATE JESUS FERNANDO": {
+                    "lat":4.9999166,"lng": -74.3400608,
+                    "name": "QUINTERO ALZATE JESUS FERNANDO",
+                    "address": "CR 3 20 06, La Vega, Cundinamarca, Colombia",
+                    "phone": "3107263943",
+                    "email": "",
+                    "whatsapp": ""
+                  }
+              }
+            },
+            "Madrid, Cundinamarca": {
+              "lat":4.7338715,"lng": -74.2785898,
+              "stores": {
+                  "Loxel": {
+                    "lat":4.7338715,"lng": -74.2785898,
+                    "name": "LOXEL",
+                    "address": "CR 23 1 52, Madrid, Cundinamarca, Colombia",
+                    "phone": "3158556177",
+                    "email": "",
+                    "whatsapp": ""
+                  }
+              }
+            },
+            "Maicao, Guajira": {
+              "lat":11.378671,"lng": -72.23938,
+              "stores": {
+                  "JOBYS TIENDA DE BELLEZA": {
+                    "lat":11.378204,"lng": -72.2394643,
+                    "name": "JOBYS TIENDA DE BELLEZA",
+                    "address": "CR 12 13 07, Maicao, Guajira, Colombia",
+                    "phone": "3112223053",
+                    "email": "",
+                    "whatsapp": ""
+                  },
+                  "DON BARATÓN ECONOMÍA POR MONTÓN SAS": {
+                    "lat":11.378671,"lng": -72.23938,
+                    "name": "DON BARATÓN ECONOMÍA POR MONTÓN SAS",
+                    "address": "CR 12 13 30 -BRR CENTRO, Maicao, Guajira, Colombia",
+                    "phone": "3124932800",
+                    "email": "",
+                    "whatsapp": ""
+                  }
+              }
+            },
+            "Manizales": {
+              "lat":5.063916,"lng": -75.510158,
+              "stores": {
+                "MARTINEZ ZULUAGA SANTIAGO": {
+                    "lat":5.063916,"lng": -75.510158, 
+                    "name": "MARTINEZ ZULUAGA SANTIAGO",
+                    "address": "CL 33 23A 32, Manizales, Caldas, Colombia",
+                    "phone": "3143977617",
+                    "email": "",
+                    "whatsapp": ""
+                }
+              }
+            },
+            "Medellín": {
+              "lat": 6.24931631896006,
+              "lng": -75.5661110467595,
+              "stores": {
+                "SURTIMOS COSMETICOS S.A.S": {
+              "lat":6.249191,"lng": -75.5727197,
+                  "name": "SURTIMOS COSMETICOS S.A.S",
+                  "address": "CR 54 #46 - 071 P5 - BRR CC GUAYAQUIL CENTRO, Medellín, Antioquia, Colombia",
+                  "phone": "3104609605",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "ARISTIZABAL BOTERO MARIA LUZMILA": {
+              "lat":6.169658,"lng": -75.6076496,
+                  "name": "ARISTIZABAL BOTERO MARIA LUZMILA",
+                  "address": "CL 51 #46 - 37 -BRR CENTRO, Medellín, Antioquia, Colombia",
+                  "phone": "3126975280",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "Tienda de belleza - Natural look la 80": {
+              "lat":6.2750694,"lng": -75.565198,
+                  "name": "Tienda de belleza - Natural look la 80",
+                  "address": "CR 54 80B 02 -EL BOSQUE, Medellín, Antioquia, Colombia",
+                  "phone": "3155517582",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "Distribuidora Centro Japón": {
+              "lat":6.2489844,"lng": -75.5713993,
+                  "name": "Distribuidora Centro Japón",
+                  "address": "CL 48 53 17 -BRR CENTRO, Medellín, Antioquia, Colombia",
+                  "phone": "3113499585",
+                    "email": "",
+                    "whatsapp": ""
+                }
+              }
+            },
+            "Monteria": {
+              "lat": 8.764697022460046, 
+              "lng": -75.87475697791247, 
+              "stores": {
+                "LOS CACHARREROS PAISAS S.A.S": {
+                  "lat":8.7611706,"lng": -75.882444,
+                  "name": "LOS CACHARREROS PAISAS S.A.S",
+                  "address": "MZ F LT 10 BG 20 SAN JERONIMO, Montería, Cordoba, Colombia",
+                  "phone": "3223510284",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "Distribuidora Sólo Variedad": {
+              "lat": 8.764697022460046, 
+              "lng": -75.87475697791247, 
+                  "name": "Distribuidora Sólo Variedad",
+                  "address": "MZ 22 LT 14 BRR CANTA CLARO, Montería, Cordoba, Colombia",
+                  "phone": "3212121217",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "RIZOS & MELIUS CORDOBA SAS": {
+                  "lat":8.7589236,"lng": -75.8828579,
+                  "name": "RIZOS & MELIUS CORDOBA SAS",
+                  "address": "CR 4 34 26 -BRR CENTRO, Montería, Cordoba, Colombia",
+                  "phone": "3146902953",
+                    "email": "",
+                    "whatsapp": ""
+                }
+              }
+            },
+            "Neiva": {
+              "lat": 2.9344837, 
+              "lng": -75.2809001,  
+              "stores": {
+                "INVERSIONES BAHARU SAS": {
+                  "lat":2.928538,"lng": -75.2905399,
+                  "name": "INVERSIONES BAHARU SAS",
+                  "address": "CR 4 9 97, Neiva, Huila, Colombia",
+                  "phone": "3132107662",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "VEGA ROMERO CESAR ALFREDO": {
+                  "lat":2.928114,"lng": -75.290406,
+                  "name": "VEGA ROMERO CESAR ALFREDO",
+                  "address": "CR 4 9 43 LC 01 -BRR CENTRO, Neiva, Huila, Colombia",
+                  "phone": "3142995126",
+                    "email": "",
+                    "whatsapp": ""
+                }
+              }
+            },
+            "Palmira": {
+              "lat": 3.5378587, 
+              "lng": -76.297237,  
+              "stores": {
+                "COMERCIALIZADORA EL PELUQUERO S.A.S": {
+                  "lat":3.5285823,"lng": -76.2969216,
+                  "name": "COMERCIALIZADORA EL PELUQUERO S.A.S",
+                  "address": "CL 32 26 20 -BRR CENTRO, Palmira, Valle del Cauca, Colombia",
+                  "phone": "3112150135",
+                    "email": "",
+                    "whatsapp": ""
+                },
+                "CASTAÑO TORRES LUIS FERNANDO": {
+                  "lat": 3.5378587, 
+                  "lng": -76.297237,  
+                  "name": "CASTAÑO TORRES LUIS FERNANDO",
+                  "address": "AV 9 10 89 C ROZO, Palmira, Valle del Cauca, Colombia",
+                  "phone": "3246200555 / 6075500762",
+                    "email": "",
+                    "whatsapp": ""
+                }
+              }
+            },
+            "Pereira": {
+              "lat":4.8147929,"lng": -75.703675,
+              "stores": {
+                "BELLEZA M&C SAS": {
+                  "lat":4.8147929,"lng": -75.703675,
+                  "name": "BELLEZA M&C SAS",
+                  "address": "CL 30 8 24 NIVEL 1 LC 38-39, Pereira, Risaralda, Colombia",
+                  "phone": "3156703765",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Pitalito": {
+              "lat": 1.8563309, 
+              "lng": -76.0461611,  
+              "stores": {
+                "GUAÑARITA SCARPETTA LUZ DARY": {
+                  "lat":1.8532136,"lng": -76.0463788,
+                  "name": "GUAÑARITA SCARPETTA LUZ DARY",
+                  "address": "CL 7 5 38 -BRR CENTRO, Pitalito, Huila, Colombia",
+                  "phone": "3504891343",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "CHAVEZ GOMEZ SANDRA LILIANA": {
+                  "lat":1.8538935,"lng": -76.0443471,
+                  "name": "CHAVEZ GOMEZ SANDRA LILIANA",
+                  "address": "CR 4 9 35, Pitalito, Huila, Colombia",
+                  "phone": "3506035013",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Popayán": {
+              "lat":2.50012,"lng": -76.55883, 
+              "stores": {
+                "JIMENEZ MARTINEZ HILDA MARY": {
+                  "lat":2.50012,"lng": -76.55883,
+                  "name": "JIMENEZ MARTINEZ HILDA MARY",
+                  "address": "PARQUE INDUSTRIAL BG 59, Popayán, Cauca, Colombia",
+                  "phone": "3102713279",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Riohacha": {
+              "lat": 11.5384151, 
+              "lng": -72.9167838,  
+              "stores": {
+                "YENIS PINTO INNOVACIÓN": {
+                  "lat": 11.5384151, 
+                  "lng": -72.9167838,
+                  "name": "YENIS PINTO INNOVACIÓN",
+                  "address": "CR 7 6 08 -BRR CENTRO, Riohacha, Guajira, Colombia",
+                  "phone": "3105684996",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "BONILLA BRITO JOSE LUIS": {
+                  "lat":11.547142,"lng": -72.9082726,
+                  "name": "BONILLA BRITO JOSE LUIS",
+                  "address": "CL 12 7 30 SEC ANTIGUO MERCADO, Riohacha, Guajira, Colombia",
+                  "phone": "3504891343",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Rionegro, Antioquia": {
+              "lat": 6.1490188, 
+              "lng": -75.3789523,  
+              "stores": {
+                "ARISTIZABAL GOMEZ FRANCISCO JAVIER": {
+                  "lat":6.1554667,"lng": -75.370336, 
+                  "name": "ARISTIZABAL GOMEZ FRANCISCO JAVIER",
+                  "address": "CL 52 45 60 LC 102, Rionegro, Antioquia, Colombia",
+                  "phone": "3102713279",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "ORTEGA VALENCIA WILLIAM ARLEX": {
+                  "lat":6.1569886,"lng": -75.3743065,
+                  "name": "ORTEGA VALENCIA WILLIAM ARLEX",
+                  "address": "CL 54 54 30 SEC 3 ESQ, Rionegro, Antioquia, Colombia",
+                  "phone": "7273815",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "San José del Guaviare": {
+              "lat": 2.5677606, 
+              "lng": -72.6396535,  
+              "stores": {
+                "DISTRIBUIDORA TODO EN BELLEZA ROSSY SAS ZOMAC": {
+                  "lat":2.570704,"lng": -72.642846, 
+                  "name": "DISTRIBUIDORA TODO EN BELLEZA ROSSY SAS ZOMAC",
+                  "address": "CR 23 9 26 -BRR EL CENTRO, San José del Guaviare, Guaviare, Colombia",
+                  "phone": "3104125579",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Santa Marta": {
+              "lat": 11.200911588442162, 
+              "lng": -74.22552240680885, 
+              "stores": {
+                "COMERCIALIZADORA BEDOYA GIRALDO S.A": {
+                  "lat":11.2457187,"lng": -74.2069706,
+                  "name": "COMERCIALIZADORA BEDOYA GIRALDO S.A",
+                  "address": "CL 11 N 8 100 -BRR MERCADO, Santa Marta, Magdalena, Colombia",
+                  "phone": "3187145670",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "COMERCIALIZADORA GIRALDO DEL CARIBE S.A.S": {
+                  "lat":11.2453148,"lng": -74.2080971, 
+                  "name": "COMERCIALIZADORA GIRALDO DEL CARIBE S.A.S",
+                  "address": "CL 11 8 80 P2, Santa Marta, Magdalena, Colombia",
+                  "phone": "3135987322",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Sincelejo": {
+              "lat": 9.3045773, 
+              "lng": -75.3905567, 
+              "stores": {
+                "TIENDA DE BELLEZA SANDRA EXPRESS": {
+                  "lat":9.3035062,"lng": -75.3935702,
+                  "name": "TIENDA DE BELLEZA SANDRA EXPRESS",
+                  "address": "CL 21 20 37 -BRR CENTRO, Sincelejo, Sucre, Colombia",
+                  "phone": "3146434131",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "RIZOS & MELIUS SAS": {
+                  "lat":9.2998927,"lng": -75.3933195,
+                  "name": "RIZOS & MELIUS SAS",
+                  "address": "CR 20 25 03 -BRR CENTRO, Sincelejo, Sucre, Colombia",
+                  "phone": "3148935238",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Soacha": {
+              "lat": 4.5827227, 
+              "lng": -74.2117465, 
+              "stores": {
+                "RUIZ MARTINEZ MARTHA ROCIO": {
+                  "lat":4.5824334,"lng": -74.2163451,
+                  "name": "RUIZ MARTINEZ MARTHA ROCIO",
+                  "address": "CR 7 16 15 -BRR LINCON, Soacha, Cundinamarca, Colombia",
+                  "phone": "3103232584",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "SOTO CHALA ASTRID CAROLINA": {
+                  "lat":4.582206,"lng": -74.2305423,
+                  "name": "SOTO CHALA ASTRID CAROLINA",
+                  "address": "CL 6 SUR 16A 150 LC 19 CC PARQUE CAMPESTRE, Soacha, Cundinamarca, Colombia",
+                  "phone": "6531404",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Tumaco, Nariño": {
+              "lat": 1.8086735, 
+              "lng": -78.7666995, 
+              "stores": {
+                "CAICEDO DIAZ JORGE ABDON": {
+                  "lat": 1.8086735, 
+                  "lng": -78.7666995, 
+                  "name": "CAICEDO DIAZ JORGE ABDON",
+                  "address": "CL OBANDO CS 30 DIV 1, Tumaco, Nariño, Colombia",
+                  "phone": "3157825443",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },            
+            "Villavicencio": {
+              "lat": 4.128921595883452, 
+              "lng": -73.62436420905297, 
+              "stores": {
+                "ALFEREZ TRIVIÑO LUISA FERNANDA": {
+                  "lat":4.15199,"lng": -73.6356356,
+                  "name": "ALFEREZ TRIVIÑO LUISA FERNANDA",
+                  "address": "CR 30 37 61 LC 117 219 CC MARANDUA, Villavicencio, Meta, Colombia",
+                  "phone": "3204794426",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "VELASQUEZ ROJAS CRISTIAN CAMILO": {
+                  "lat":4.1481241,"lng": -73.6190057,
+                  "name": "VELASQUEZ ROJAS CRISTIAN CAMILO",
+                  "address": "CR 18B ESTE 35A 32 -BRR MORICHAL, Villavicencio, Meta, Colombia",
+                  "phone": "3148210707",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Villeta": {
+              "lat": 5.011706, 
+              "lng": -74.470362, 
+              "stores": {
+                "BASILIO MERCADO YONAIDA ANDREA": {
+                  "lat":5.010538,"lng": -74.471169,
+                  "name": "BASILIO MERCADO YONAIDA ANDREA",
+                  "address": "CR 7 4 13, Villeta, Cundinamarca, Colombia",
+                  "phone": "2737781",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Yopal": {
+              "lat": 5.348903, 
+              "lng": -72.400523, 
+              "stores": {
+                "LA CASA DISTRIBUIDORA SAS": {
+                  "lat":5.3446059,"lng": -72.3995455,
+                  "name": "LA CASA DISTRIBUIDORA SAS",
+                  "address": "CR 19 12 31, Yopal, Casanare, Colombia",
+                  "phone": "3114473201",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "GRUPO EMPRESARIAL E INVERSIONES ALFONSO CORTES S.A.S": {
+                  "lat":5.341481,"lng": -72.3971642,
+                  "name": "GRUPO EMPRESARIAL E INVERSIONES ALFONSO CORTES S.A.S",
+                  "address": "CR 20 16 34 -BRR CENTRO, Yopal, Casanare, Colombia",
+                  "phone": "3112237283",
+                  "email": "",
+                  "whatsapp": ""
+                },
+                "COMERCIALIZADORA CASA DE REINAS SAS": {
+                  "lat":5.3486334,"lng": -72.399127,
+                  "name": "COMERCIALIZADORA CASA DE REINAS SAS",
+                  "address": "CL 9 21 09, Yopal, Casanare, Colombia",
+                  "phone": "3116081270",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            },
+            "Zipaquirá": {
+              "lat":5.0242383,"lng": -74.0022831,
+              "stores": {
+                "RODRIGUEZ GOMEZ MYRIAM YOLANDA": {
+                  "lat":5.0242383,"lng": -74.0022831,
+                  "name": "RODRIGUEZ GOMEZ MYRIAM YOLANDA",
+                  "address": "CR 9 6 21, Zipaquirá, Cundinamarca, Colombia",
+                  "phone": "3187354717",
+                  "email": "",
+                  "whatsapp": ""
+                }
+              }
+            }
+        }
+    }
+}

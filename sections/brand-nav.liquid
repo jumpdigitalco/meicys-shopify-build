@@ -1,0 +1,90 @@
+{%- assign brand_items = shop.metafields.custom.menu_de_marcas.value -%}
+
+{%- if brand_items and shop.metafields.custom.menu_de_marcas.list? -%}
+<div class="brand-nav-wrapper section-bg overflow-hidden scroll-trigger animate--fade-in"  {% render 'section-properties' %}>
+  <div class="container flex mx-auto padding-x">
+      <ul
+        class="brand-nav list-menu list-menu--inline flex h-full items-center justify-center lg:justify-start w-full" role="list"
+        aria-label="{{ 'sections.header.announcement' | t }}"
+      >
+        {%- for item in brand_items -%}
+            {% liquid
+                assign brand_link = '/'
+                if item.pagina_principal != blank
+                    assign brand_link = pages[item.pagina_principal].url
+                endif
+            %}
+        <li class="brand-selector__item{% if activate_item %} active{% endif %}">
+          <a
+            href="{{ brand_link }}"
+            class="brand-selector__link"
+          >
+            <span class="sr-only brand-title">{{ item.titulo }}</span>
+            {%- if item.logo -%}
+              <img src="{{ item.logo | image_url: width: 160 }}" alt="{{ item.titulo }}" width="80">
+            {%- endif -%}
+          </a>
+        </li>
+        {%- endfor -%}
+        </ul>
+  </div>
+</div>
+<style>
+    .brand-nav.list-menu {
+        padding: 0;
+    }
+    .brand-nav li{
+        height: 100%;
+        padding: 0 6px;
+        display: inline-flex;
+    }
+    .brand-nav li:not(:first-child){
+        border-left: 1px solid #F7F7F7;
+    }
+    .brand-nav li a{
+        display: inline-block;
+    }
+    .brand-nav img{
+        filter: grayscale(1);
+        opacity: 0.7;
+        transition: all 0.2s;
+        max-width: 60px;
+    }
+    .brand-nav a:hover img{
+        filter: grayscale(0);
+        opacity: 1;
+    }
+</style>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Brand Nav",
+  "class": "brand-nav-section",
+  "limit": 1,
+  "enabled_on": {
+    "groups": ["header"]
+  },
+  "settings": [
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Brand Nav"
+    }
+  ]
+}
+{% endschema %}

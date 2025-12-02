@@ -1,0 +1,62 @@
+{%- liquid 
+    assign active_brand = false
+
+    if template == 'collection'
+        if  collection.metafields.custom.marca != blank
+          assign active_brand = collection.metafields.custom.marca
+        endif 
+    elsif template == 'product'
+      if product.metafields.custom.marca != blank
+        assign active_brand = product.metafields.custom.marca
+      endif
+    elsif template contains 'page'
+        if page.metafields.custom.marca != blank
+          assign active_brand = page.metafields.custom.marca
+        endif
+    endif
+
+    if active_brand != false
+      assign color_principal_rgb = active_brand.value.color_principal | upcase | color_to_rgb | replace: 'rgb(', '' | replace: ')', ''
+      assign color_del_texto_rgb = active_brand.value.color_del_texto | upcase | color_to_rgb | replace: 'rgb(', '' | replace: ')', ''
+      assign color_secundario_rgb = active_brand.value.color_secundario | upcase | color_to_rgb | replace: 'rgb(', '' | replace: ')', ''
+      assign color_del_texto_en_botones_rgb = active_brand.value.color_del_texto_en_botones | upcase | color_to_rgb | replace: 'rgb(', '' | replace: ')', ''
+    endif
+-%}
+{% if active_brand != false %}
+{% comment %} Redefine colors {% endcomment %}
+<style>
+:root{
+        /*Color*/
+        --color-foreground: {{ color_del_texto_rgb }};
+        --color-heading: {{ color_principal_rgb }};
+        --color-accent: {{ color_principal_rgb }};
+        
+        --color-header-background: {{ color_principal_rgb }};
+        --color-header-text: {{ color_del_texto_en_botones_rgb }};
+        --color-header-link-hover: {{ color_del_texto_en_botones_rgb }};
+
+        --color-stars: var(--color-accent);
+       
+        /*Button*/
+        --btn-solid-bg: {{ color_principal_rgb }};
+        --btn-solid-border: {{ color_principal_rgb }};
+        --btn-solid-bg-hover: {{ color_secundario_rgb }};
+        --btn-solid-border-hover: {{ color_secundario_rgb }};
+        --btn-solid-text: {{ color_del_texto_en_botones_rgb }};
+        --btn-solid-text-hover: {{ color_del_texto_en_botones_rgb }};
+        --btn-solid-text-white: {{ color_secundario_rgb }};
+        --btn-solid-white-bg: {{ settings.body_text_color.rgb }};
+        --btn-secondary-solid-bg: {{ color_secundario_rgb }};
+        --btn-secondary-solid-border: {{ color_secundario_rgb }};
+        --btn-secondary-solid-text: {{ color_del_texto_en_botones_rgb }};
+        --btn-secondary-solid-text-hover: {{ color_del_texto_en_botones_rgb }};
+        --btn-secondary-solid-bg-hover: {{ settings.button_secondary_solid_bg_hover.rgb }};
+        --btn-secondary-solid-border-hover: {{ settings.button_secondary_solid_bg_hover.rgb }};
+        --btn-outline-border: {{ color_principal_rgb }};
+        --btn-outline-text: {{ color_principal_rgb }};
+        --btn-outline-text-white-hover: {{ settings.button_outline_text_color.rgb }};
+        --btn-underlined-text: {{ color_principal_rgb }};
+        --btn-underlined-bg: {{ settings.button_outline_border_color.rgb }};
+}
+</style>
+{% endif %}
