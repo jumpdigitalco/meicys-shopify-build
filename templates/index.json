@@ -1,1 +1,1840 @@
-{"sections":{"slideshow_bDT8rN":{"type":"slideshow","blocks":{"slide_9pyT8r":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-principal-meicys-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-meicys-mobile.jpg","slide_link":"","video_background":false,"content_width":600,"content_position":"middle-center","mobile_content_position":"bottom-right","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#ffffff","overlay_color":"#000000","overlay_opacity":0,"overlay_gradient":"linear-gradient(194deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%)","button_text_1":"","button_link_1":"shopify:\/\/collections\/kits-capilares","button_type_1":"primary-white","button_text_2":"","button_link_2":"","button_type_2":"outline-white"}},"slide_maKEtc":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-principal-30_-DESKTOPmeicys.jpg","mobile_image":"shopify:\/\/shop_images\/Banner-principal-30_-mobile-meicys.jpg","slide_link":"shopify:\/\/collections\/meicys","video_background":false,"content_width":500,"content_position":"middle-center","mobile_content_position":"middle-center","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":70,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"","button_link_1":"","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}},"slide_Cg8TUR":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/banner-principal-guajira-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-guajira-mobile.jpg","slide_link":"shopify:\/\/pages\/guajira","video_background":false,"content_width":500,"content_position":"middle-center","mobile_content_position":"middle-center","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":70,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"","button_link_1":"","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}},"slide_d6693m":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/banner-principal-keraton-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-keraton-mobile.jpg","slide_link":"shopify:\/\/pages\/keraton","video_background":false,"content_width":500,"content_position":"middle-center","mobile_content_position":"bottom-center","content_space":"gap-y-2","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":70,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"Compra ahora","button_link_1":"shopify:\/\/collections\/tintes-keraton","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}},"slide_pFCkbU":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/banner-principal-vizio-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-vizio-mobile.jpg","slide_link":"shopify:\/\/pages\/vizio","video_background":false,"content_width":500,"content_position":"bottom-center","mobile_content_position":"bottom-center","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":70,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"","button_link_1":"shopify:\/\/collections\/tratamientos-vizio","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}}},"block_order":["slide_9pyT8r","slide_maKEtc","slide_Cg8TUR","slide_d6693m","slide_pFCkbU"],"settings":{"slide_width":"w-full","desktop_height":"desktop-height-image","mobile_height":"mobile-height-image","auto_rotate":true,"change_slides_speed":8,"transition":"fade","controls":"filled-arrows","accessibility_info":"Slideshow about our brand","bg_color":"","controls_color":"#ffffff","controls_color_arrows":"#000000","padding_top":0,"padding_bottom":0}},"featured_collection_qhmndB":{"type":"featured-collection","name":"Featured collection","settings":{"section_width":"container","subheading":"","heading":"Tintes","heading_tag":"h2","heading_size_section":"h3","description":"","layout":"horizontal","collection":"tintes-meicys","products":[],"link_url":"shopify:\/\/collections\/kits-capilares","link_text":"","button_type":"primary","show_icon":false,"enable_stack_products":true,"show_progress_bar":false,"enable_overflow_visible":false,"products_to_show":4,"columns_desktop":4,"column_gap":3,"columns_mobile":"2","column_gap_mobile":2,"swipe_on_mobile":false,"bg_color":"","text_color":"","padding_top":36,"padding_bottom":36}},"rich_text_MywzLf":{"type":"rich-text","blocks":{"button_YnJYBh":{"type":"button","settings":{"button_label":"Ver más","button_link":"shopify:\/\/collections\/tintes-meicys","button_type":"primary","show_icon":true}}},"block_order":["button_YnJYBh"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"max-w-4xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":0,"padding_bottom":36}},"featured_collection_atTfjK":{"type":"featured-collection","name":"Featured collection","settings":{"section_width":"container","subheading":"","heading":"KITS","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"horizontal","collection":"","products":["ritual-cpc-21-anticaida-meicys","ritual-ajo-vitalizante-energizante-meicys","ritual-estabilizador-ph-meicys","kit-crece-pelo-meicys","kit-antipolucion-meicys","kit-anticaida-meicys","kit-difinicion-rizos-meicys","kit-reanimador-meicys","kit-restaurador-meicys","kit-tratamiento-post-color-meicys"],"link_url":"shopify:\/\/collections\/kits-capilares","link_text":"Ver todos","button_type":"primary","show_icon":true,"enable_stack_products":true,"show_progress_bar":false,"enable_overflow_visible":false,"products_to_show":4,"columns_desktop":4,"column_gap":3,"columns_mobile":"2","column_gap_mobile":2,"swipe_on_mobile":false,"bg_color":"","text_color":"","padding_top":36,"padding_bottom":36}},"rich_text_dfVGq3":{"type":"rich-text","blocks":{"text_with_image_xRn9Yb":{"type":"text_with_image","settings":{"text":"[img1] HECHO EN COLOMBIA  [img2]  LIBRE DE MALTRATO [img5] APROBADO POR PROFESIONALES [img3] INGREDIENTES DE ALTA CALIDAD","heading_size":"h6","line_height":4,"enable_rounded":true,"image_1":"shopify:\/\/shop_images\/hecho-en-colombia.jpg","image_width_1":60,"url_1":"","image_2":"shopify:\/\/shop_images\/cruelty-free.jpg","image_width_2":60,"url_2":"","image_3":"shopify:\/\/shop_images\/ingredientes-alta-calidad.jpg","image_width_3":60,"url_3":"","image_width_4":60,"url_4":"","image_5":"shopify:\/\/shop_images\/aprobado-profesional_34e52a53-e675-40df-87bc-dd7e77d5f943.jpg","image_width_5":60,"url_5":""}}},"block_order":["text_with_image_xRn9Yb"],"settings":{"section_width":"w-full","content_width":"container","content_alignment":"center","bg_color":"rgba(0,0,0,0)","text_color":"","padding_top":20,"padding_bottom":40}},"collection_tabs_wThRhf":{"type":"collection-tabs","blocks":{"collection_zWgQjq":{"type":"collection","settings":{"collection":"shampoo-meicys","tab_heading":"Shampoo"}},"collection_bEYwhA":{"type":"collection","settings":{"collection":"cabello-con-frizz-meicys","tab_heading":"Control frizz"}},"collection_deHF9R":{"type":"collection","settings":{"collection":"color-meicys","tab_heading":"Cuidado color"}},"collection_FhMg7W":{"type":"collection","disabled":true,"settings":{"collection":"decolorante-meicys","tab_heading":"Decolorantes"}}},"block_order":["collection_zWgQjq","collection_bEYwhA","collection_deHF9R","collection_FhMg7W"],"settings":{"section_width":"container","subheading":"","heading":"Los más vendidos","heading_tag":"h2","heading_size_section":"h3","description":"","enable_uppercase":true,"tabs_font_family":"headings_font","layout":"horizontal","enable_stack_products":false,"show_progress_bar":true,"enable_overflow_visible":true,"products_to_show":10,"columns_desktop":3,"column_gap":3,"columns_mobile":"2","column_gap_mobile":2,"swipe_on_mobile":true,"bg_color":"","text_color":"","padding_top":36,"padding_bottom":4}},"rich_text_zB4cRC":{"type":"rich-text","blocks":{"button_GFng3a":{"type":"button","settings":{"button_label":"Ver todo","button_link":"shopify:\/\/collections\/meicys","button_type":"primary","show_icon":true}}},"block_order":["button_GFng3a"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"max-w-4xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":36,"padding_bottom":36}},"featured_collection_dDFbQC":{"type":"featured-collection","name":"Últimos lanzamientos","settings":{"section_width":"container","subheading":"","heading":"Últimos lanzamientos","heading_tag":"h2","heading_size_section":"h3","description":"","layout":"horizontal","collection":"lanzamientos","products":["pre-shampoo-250ml","shampoo-reanimador-keratina-550ml","shampoo-restaurador-gusano-de-seda-550ml","shampoo-antipolucion-detox-550ml","shampoo-crece-pelo-equino-550ml","balsamo-acondicionador-antiquiebre-550ml","tonico-anticaida-y-control-caspa-x150ml"],"link_url":"","link_text":"","button_type":"primary","show_icon":false,"enable_stack_products":true,"show_progress_bar":false,"enable_overflow_visible":false,"products_to_show":4,"columns_desktop":4,"column_gap":3,"columns_mobile":"2","column_gap_mobile":2,"swipe_on_mobile":false,"bg_color":"","text_color":"","padding_top":36,"padding_bottom":36}},"rich_text_T43zQ7":{"type":"rich-text","blocks":{"button_XhjawH":{"type":"button","settings":{"button_label":"Ver más","button_link":"shopify:\/\/collections\/lanzamientos","button_type":"primary","show_icon":false}}},"block_order":["button_XhjawH"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"max-w-4xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":0,"padding_bottom":36}},"collection_list_Xi8cjB":{"type":"collection-list","blocks":{"featured_collection_bhW4NC":{"type":"featured_collection","settings":{"collection":"romero","image":"shopify:\/\/shop_images\/ingredientes-romero_1.jpg","title":"Romero","url":"shopify:\/\/collections\/romero"}},"featured_collection_FbBAGf":{"type":"featured_collection","settings":{"collection":"acido-hialuronico","image":"shopify:\/\/shop_images\/ingredientes-acido-hialuronico_1.jpg","title":"Ácido Hialurónico","url":"shopify:\/\/collections\/acido-hialuronico"}},"featured_collection_iLW78E":{"type":"featured_collection","settings":{"collection":"aceite-de-argan","image":"shopify:\/\/shop_images\/ingredientes-argan_1.jpg","title":"Aceite de Argán","url":"shopify:\/\/collections\/aceite-de-argan"}},"featured_collection_8LgwgG":{"type":"featured_collection","settings":{"collection":"keratina","image":"shopify:\/\/shop_images\/ingredientes-keratina_1.jpg","title":"Keratina","url":"shopify:\/\/collections\/keratina"}},"featured_collection_9BmLNW":{"type":"featured_collection","settings":{"collection":"miel-de-abejas","image":"shopify:\/\/shop_images\/ingredientes-miel_1.jpg","title":"Miel de abejas","url":"shopify:\/\/collections\/miel-de-abejas"}},"featured_collection_fYN4Kj":{"type":"featured_collection","settings":{"collection":"aminoacidos","image":"shopify:\/\/shop_images\/ingredientes-aminoacidos_1.jpg","title":"Aminoácidos","url":"shopify:\/\/collections\/aminoacidos"}},"featured_collection_Tjh4RF":{"type":"featured_collection","settings":{"collection":"aceite-de-oliva","image":"shopify:\/\/shop_images\/ingredientes-oliva_1.jpg","title":"Aceite de Oliva","url":"shopify:\/\/collections\/aceite-de-oliva"}}},"block_order":["featured_collection_bhW4NC","featured_collection_FbBAGf","featured_collection_iLW78E","featured_collection_8LgwgG","featured_collection_9BmLNW","featured_collection_fYN4Kj","featured_collection_Tjh4RF"],"custom_css":[".responsive-image img,.collection-card__media {--media-radius: 50%;}"],"settings":{"section_width":"container-fluid","subheading":"","heading":"Compra por ingrediente","heading_tag":"h2","heading_size_section":"h3","description":"","layout":"horizontal","link_url":"","link_text":"","button_type":"primary","show_icon":false,"card_type":"standard","image_ratio":"adapt","show_collection_count":false,"show_button_arrow":false,"show_zoom_on_hover":true,"heading_size":"body-1","content_alignment":"center","title_color":"rgba(0,0,0,0)","overlay_color":"rgba(0,0,0,0)","enable_gradient":true,"overlay_opacity":12,"enable_stack_collections":false,"show_progress_bar":false,"enable_overflow_visible":false,"columns_desktop":7,"column_gap":7,"columns_mobile":"2","column_gap_mobile":2.5,"swipe_on_mobile":true,"bg_color":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)","padding_top":44,"padding_bottom":68}},"collection_list_BTc3rm":{"type":"collection-list","blocks":{"featured_collection_HYYGPz":{"type":"featured_collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/hecho-en-colombia.jpg","title":"Hecho en Colombia","url":"shopify:\/\/pages\/sobre-nosotros"}},"featured_collection_KYjzbB":{"type":"featured_collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/cruelty-free.jpg","title":"Libre del maltrato","url":"shopify:\/\/pages\/sobre-nosotros"}},"featured_collection_7iFFHg":{"type":"featured_collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/aprobado-profesional.jpg","title":"Aprobado por profesionales","url":"shopify:\/\/pages\/sobre-nosotros"}},"featured_collection_aGGBwM":{"type":"featured_collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/ingredientes-alta-calidad.jpg","title":"Ingredientes de calidad","url":"shopify:\/\/pages\/sobre-nosotros"}},"featured_collection_pRT7gp":{"type":"featured_collection","disabled":true,"settings":{"collection":"aging-skin","title":"","url":""}},"featured_collection_hRA8yD":{"type":"featured_collection","disabled":true,"settings":{"collection":"dryness","title":"","url":""}},"featured_collection_NiDKtT":{"type":"featured_collection","disabled":true,"settings":{"collection":"dullness","title":"","url":""}},"featured_collection_h433Qr":{"type":"featured_collection","disabled":true,"settings":{"collection":"best-sellers","title":"","url":""}},"featured_collection_n9TgB3":{"type":"featured_collection","disabled":true,"settings":{"collection":"new-arrivals","title":"","url":""}},"view_all_X4Nncp":{"type":"view_all","disabled":true,"settings":{"title":"All Ingredients","url":""}}},"block_order":["featured_collection_HYYGPz","featured_collection_KYjzbB","featured_collection_7iFFHg","featured_collection_aGGBwM","featured_collection_pRT7gp","featured_collection_hRA8yD","featured_collection_NiDKtT","featured_collection_h433Qr","featured_collection_n9TgB3","view_all_X4Nncp"],"disabled":true,"settings":{"section_width":"container-fluid","subheading":"","heading":"","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"horizontal","link_url":"","link_text":"","button_type":"primary","show_icon":false,"card_type":"standard","image_ratio":"adapt","show_collection_count":false,"show_button_arrow":false,"show_zoom_on_hover":true,"heading_size":"sub-heading","content_alignment":"center","title_color":"rgba(0,0,0,0)","overlay_color":"rgba(0,0,0,0)","enable_gradient":true,"overlay_opacity":0,"enable_stack_collections":false,"show_progress_bar":false,"enable_overflow_visible":false,"columns_desktop":8,"column_gap":5,"columns_mobile":"2","column_gap_mobile":2.5,"swipe_on_mobile":true,"bg_color":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)","padding_top":48,"padding_bottom":64}},"before_after_image_mAMhFX":{"type":"before-after-image","blocks":{"image_papDVN":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/modelo-meicys-antes-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/modelo-meicys-antes-mobile.jpg","label_text":"Antes"}},"image_mbmfbQ":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/modelo-meicys-despues-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/modelo-meicys-despues-mobile.jpg","label_text":"Después"}}},"block_order":["image_papDVN","image_mbmfbQ"],"settings":{"section_width":"container-fluid","subheading":"","heading":"Tintes Meicys","heading_tag":"h2","heading_size_section":"h3","description":"","layout":"vertical","image_placement":"bottom","desktop_height":"desktop-height-550","mobile_height":"mobile-height-400","bg_color":"","text_color":"","padding_top":0,"padding_bottom":20}},"rich_text_w63qhW":{"type":"rich-text","blocks":{"text_mrpWVE":{"type":"text","settings":{"text":"<p>Descubre los tintes profesionales, oxigentas y tratamientos Meicy’s para un color duradero, vibrante y protegido. Encuentra tu tono ideal y cuida tu cabello.<\/p>","large_text":false}},"button_rRwFUg":{"type":"button","settings":{"button_label":"Ver tintes","button_link":"shopify:\/\/collections\/color-meicys","button_type":"primary","show_icon":true}}},"block_order":["text_mrpWVE","button_rRwFUg"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"max-w-4xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":0,"padding_bottom":36}},"layer_image_with_text_mJ3bVT":{"type":"layer-image-with-text","blocks":{"image_fqKCrj":{"type":"image","settings":{"width_image":188,"image_size":"portrait","offset_config":200,"top_position":20,"left_position":4,"top_position_mobile":20,"left_position_mobile":-26}},"image_h3WVyE":{"type":"image","settings":{"width_image":300,"image_size":"landscape","offset_config":250,"top_position":74,"left_position":-8,"top_position_mobile":80,"left_position_mobile":-38}},"image_g4Ajmy":{"type":"image","settings":{"width_image":232,"image_size":"wide","offset_config":300,"top_position":64,"left_position":94,"top_position_mobile":64,"left_position_mobile":84}},"image_7fy9E3":{"type":"image","settings":{"width_image":300,"image_size":"adapt","offset_config":200,"top_position":100,"left_position":70,"top_position_mobile":100,"left_position_mobile":68}},"image_yHrKw9":{"type":"image","settings":{"width_image":140,"image_size":"adapt","offset_config":-1000,"top_position":-40,"left_position":76,"top_position_mobile":-16,"left_position_mobile":68}}},"block_order":["image_fqKCrj","image_h3WVyE","image_g4Ajmy","image_7fy9E3","image_yHrKw9"],"disabled":true,"settings":{"content_alignment":"center","content_width":"max-w-5xl","subheading":"Glowy Routine","heading":"🌿 Tailored for Every Skin – Universally crafted to meet diverse needs 🌀.","heading_size":"h1","text":"","button_label":"Shop makeup","button_link":"","button_type":"primary","show_icon":false,"type_animation":"parallax","bg_color":"#f8ede7","text_color":""}},"banner_with_product_JwMD94":{"type":"banner-with-product","blocks":{"product_GXkMfd":{"type":"product","settings":{"product":["aceite-miel-almendras-x400ml","balsamo-acondicionador-x1000ml","bronceador-x300ml","doypack-cpc12-doy-pack-x-90ml-x-12-und"],"columns_desktop":"2","column_gap":3,"columns_mobile":"2","column_gap_mobile":2,"swipe_on_mobile":false}},"image_N8hjVp":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Rectangle_130_2x_4618c6f7-92d4-4231-a4e7-283f9cc0de6c.png","use_video":false,"media_size":"portrait","subheading":"KEY INGREDIENTS","heading":"Ectoin® Natural","heading_size":"h2","text":"<p>Showed significant improvement on skin hydration<\/p>","button_label":"Shop now","button_link":"","button_type":"primary","show_icon":false,"desktop_content_position":"bottom-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0,"overlay_gradient":""}}},"block_order":["product_GXkMfd","image_N8hjVp"],"disabled":true,"settings":{"section_width":"container","subheading":"","heading":"Exclusively for you","heading_tag":"h2","heading_size_section":"h2","description":"<p>For naturally resilient skin now and healthy skin in the long run<\/p>","layout":"horizontal","link_url":"","link_text":"Shop all","button_type":"outline","show_icon":true,"bg_color":"","text_color":"","column_gap":6,"column_gap_mobile":4,"padding_top":80,"padding_bottom":100}},"image_with_text_fzgEY4":{"type":"image-with-text","blocks":{"subheading_B9KR6E":{"type":"subheading","settings":{"subheading":"Gentle and safe"}},"separator_43GaLt":{"type":"separator","settings":{"show_border":false,"space":0}},"heading_rUDkYb":{"type":"heading","settings":{"heading":"Get the glow !","heading_tag":"h2","heading_size":"h0"}},"text_biKq7g":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","large_text":false}},"separator_fgKnEE":{"type":"separator","settings":{"show_border":false,"space":8}},"button_3t3nMf":{"type":"button","settings":{"button_label":"Shop now","button_link":"","button_type":"primary-white","show_icon":false}}},"block_order":["subheading_B9KR6E","separator_43GaLt","heading_rUDkYb","text_biKq7g","separator_fgKnEE","button_3t3nMf"],"disabled":true,"settings":{"section_width":"container-fluid","media_size":"landscape","show_image_2":false,"position_image_2":"middle-right","media_size_2":"adapt","desktop_image_width":"50","use_video":true,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":true,"video_controls":false,"layout":"left","column_gap":"4","vertical_alignment":"center","content_alignment":"center","bg_color":"","text_color":"#d63937","bg_column":"#f7e4e4","padding_top":0,"padding_bottom":0}},"scrolling_text_hgqaYM":{"type":"scrolling-text","blocks":{"text_TmyBEh":{"type":"text","settings":{"text":"90 DAY GUARANTEE","link":"","outline_text":false}},"text_TzthHd":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_qpt9GQ":{"type":"text","settings":{"text":"CLINICALLY TESTED","link":"","outline_text":false}},"text_FBJftR":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_TxwcUJ":{"type":"text","settings":{"text":"MADE IN FRANCE","link":"","outline_text":false}},"text_y6hWjk":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_RCdHqN":{"type":"text","settings":{"text":"VEGAN","link":"","outline_text":false}},"text_LGK7cp":{"type":"text","settings":{"text":"","link":"","outline_text":false}}},"block_order":["text_TmyBEh","text_TzthHd","text_qpt9GQ","text_FBJftR","text_TxwcUJ","text_y6hWjk","text_RCdHqN","text_LGK7cp"],"disabled":true,"custom_css":[".responsive-image img {--media-radius: 50%;}"],"settings":{"section_width":"container-fluid","text_size":"size-base","pause_scroll_on_hover":true,"spacing":80,"spacing_mobile":30,"image_width":60,"speed":24,"direction":"left","bg_color":"","text_color":"","padding_top":28,"padding_bottom":28}},"custom_content_JjzzRm":{"type":"custom-content","blocks":{"lookbook_card_agzVKD":{"type":"lookbook_card","settings":{"block_width":"25","vertical_alignment":"start","image_size":"portrait","product_1":"just-breathe-clarifying-serum","enable_image_1":false,"horizontal_position_1":47,"vertical_position_1":53,"product_2":"","enable_image_2":true,"horizontal_position_2":60,"vertical_position_2":34,"product_3":"","enable_image_3":true,"horizontal_position_3":45,"vertical_position_3":45,"hotspot_color":"#ffffff","hotspot_color_after":"#000000"}},"text_iH4PRz":{"type":"text","settings":{"block_width":"25","subheading":"BEAUTY ROUTINES","heading":"The Key to 🫧 Transformative 🧴 Skincare.💕","heading_size":"h3","text":"","vertical_alignment":"center","text_alignment":"center","button_label":"Ingredient focus","button_link":"","button_type":"primary","show_icon":false,"bg_color":"#fff1a6","text_color":"#044d49","padding_top":34,"padding_bottom":34,"padding_left":34,"padding_right":34,"padding_top_mobile":40,"padding_bottom_mobile":40,"padding_left_mobile":24,"padding_right_mobile":24}},"lookbook_card_tdQWKB":{"type":"lookbook_card","settings":{"block_width":"25","vertical_alignment":"start","image_size":"portrait","product_1":"blemish-busters-clear-skin-regimen","enable_image_1":false,"horizontal_position_1":44,"vertical_position_1":34,"product_2":"","enable_image_2":true,"horizontal_position_2":60,"vertical_position_2":34,"product_3":"","enable_image_3":true,"horizontal_position_3":45,"vertical_position_3":45,"hotspot_color":"#ffffff","hotspot_color_after":"#000000"}},"text_Rj9KBL":{"type":"text","settings":{"block_width":"25","subheading":"Pure 3otany™","heading":"The Science 💄 behind our 💖 formulas 💅","heading_size":"h3","text":"","vertical_alignment":"center","text_alignment":"center","button_label":"Ingredient focus","button_link":"","button_type":"primary-white","show_icon":false,"bg_color":"#f95726","text_color":"#fff2a7","padding_top":34,"padding_bottom":34,"padding_left":34,"padding_right":34,"padding_top_mobile":40,"padding_bottom_mobile":40,"padding_left_mobile":24,"padding_right_mobile":24}}},"block_order":["lookbook_card_agzVKD","text_iH4PRz","lookbook_card_tdQWKB","text_Rj9KBL"],"disabled":true,"settings":{"section_width":"container-fluid","subheading":"","heading":"","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"vertical","column_gap":"8","row_gap":"8","bg_color":"","text_color":"","padding_top":0,"padding_bottom":8}},"scrolling_text_EFD6yt":{"type":"scrolling-text","blocks":{"text_QGHztg":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_BbdcTA":{"type":"text","settings":{"text":"furtured in","link":"","outline_text":false}},"text_KAAHBG":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_eXKVxk":{"type":"text","settings":{"text":"furtured in","link":"","outline_text":false}},"text_TVWa9L":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_PwyYHg":{"type":"text","settings":{"text":"furtured in","link":"","outline_text":false}},"text_3HFEqV":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_aiyMLb":{"type":"text","settings":{"text":"furtured in","link":"","outline_text":false}},"text_ptK74g":{"type":"text","settings":{"text":"","link":"","outline_text":false}},"text_yhUJ6C":{"type":"text","settings":{"text":"furtured in","link":"","outline_text":false}}},"block_order":["text_QGHztg","text_BbdcTA","text_KAAHBG","text_eXKVxk","text_TVWa9L","text_PwyYHg","text_3HFEqV","text_aiyMLb","text_ptK74g","text_yhUJ6C"],"disabled":true,"custom_css":[".responsive-image img {--media-radius: 0px;}"],"settings":{"section_width":"w-full","text_size":"size-base","pause_scroll_on_hover":true,"spacing":80,"spacing_mobile":40,"image_width":190,"speed":30,"direction":"left","bg_color":"rgba(0,0,0,0)","text_color":"#ffffff","padding_top":100,"padding_bottom":100}},"multicolumn_DW7qDr":{"type":"multicolumn","blocks":{"column_VdyMt3":{"type":"column","settings":{"link":"","title":"Body Cream","text":"<p>Revitalize your skin with our luxurious body creams. Infused with nourishing ingredients for a radiant, healthy glow.<\/p>","button_label":"Shop now","button_link":"","button_type":"outline","show_icon":false}},"column_hxL8Nf":{"type":"column","settings":{"link":"","title":"Skincare","text":"<p>Discover the science behind our skincare products. Expertly formulated with proven ingredients for effective results.<\/p>","button_label":"Shop now","button_link":"","button_type":"outline","show_icon":false}},"column_WpPzJy":{"type":"column","settings":{"link":"","title":"Performance","text":"<p>Unlock the potential of your skin with our performance skincare products. Scientifically formulated<\/p>","button_label":"Shop now","button_link":"","button_type":"outline","show_icon":false}}},"block_order":["column_VdyMt3","column_hxL8Nf","column_WpPzJy"],"disabled":true,"settings":{"section_width":"container","subheading":"","heading":"Your Skin, Body, Planet","heading_tag":"h2","heading_size_section":"h2","description":"<p>Looking for love in all the wrong places?<\/p>","layout":"vertical","image_width":"full","image_ratio":"square","heading_size":"h4","column_alignment":"center","link_url":"","link_text":"About Us","button_type":"underlined","show_icon":false,"enable_stack_columns":false,"show_progress_bar":false,"enable_overflow_visible":false,"columns_desktop":3,"column_gap":3,"column_gap_mobile":3,"columns_mobile":"2","swipe_on_mobile":true,"bg_color":"","text_color":"","padding_top":80,"padding_bottom":80}},"testimonials_agXwmk":{"type":"testimonials","blocks":{"quote_RApQ8c":{"type":"quote","settings":{"product":"all-star-lineup-everyday-essentials-regimen","rating":4.5,"text":"Fantastic clothes. I wasn't sure when I ordered them but I have to say it's without any doubts the best purchase of this year. So comfy and stylish ❤️.","media_size":"adapt","name":"Mc Box","position":"― CEO"}},"quote_beKkw7":{"type":"quote","settings":{"product":"buff-it-out-aha-exfoliating-body-scrub","rating":3.5,"text":"Omg! These are adorable. Very comfortable while and fashionable. Brilliant customer support helping with sizing and again with tracking","media_size":"wide","name":"Lunar Shoc","position":"― Designer"}},"quote_AzEDLf":{"type":"quote","settings":{"product":"clear-the-way-breakout-control-bundle","rating":5,"text":"My fav online clothing purchase this year! Cute, comfortable and handy pockets. I wasn't sure what size to buy so erred in the side of caution and bought XL","media_size":"wide","name":"Dinor Billy","position":"― Keep shopper"}}},"block_order":["quote_RApQ8c","quote_beKkw7","quote_AzEDLf"],"disabled":true,"settings":{"section_width":"w-full","subheading":"","heading":"","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"vertical","testimonial_type":"focused","content_alignment":"center","vertical_alignment":"center","content_size":"h4","show_rating":true,"show_arrows":true,"auto_rotate":true,"change_slides_speed":5,"bg_color":"#183e38","text_color":"#f2fcc5","padding_top":100,"padding_bottom":100}},"custom_content_6BwLY7":{"type":"custom-content","blocks":{"image_aiMPgz":{"type":"image","settings":{"block_width":"50","image_size":"adapt","link":"","vertical_alignment":"center"}},"text_zntxpH":{"type":"text","settings":{"block_width":"50","subheading":"About Claire.","heading":"Give a little love & joy this christmas.","heading_size":"h1","text":"<p>Receive the ethical and Fair Trade By Sarah Love & Joy Bag (worth £7.95) completely FREE with any By Sarah Bundle or any 2 products. Add Bag to cart and use code GIFTJOY.<\/p>","vertical_alignment":"start","text_alignment":"start","button_label":"Read more","button_link":"","button_type":"primary","show_icon":false,"bg_color":"","text_color":"","padding_top":40,"padding_bottom":0,"padding_left":60,"padding_right":0,"padding_top_mobile":0,"padding_bottom_mobile":0,"padding_left_mobile":0,"padding_right_mobile":0}}},"block_order":["image_aiMPgz","text_zntxpH"],"disabled":true,"settings":{"section_width":"container","subheading":"","heading":"","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"vertical","column_gap":"24","row_gap":"24","bg_color":"","text_color":"","padding_top":100,"padding_bottom":36}},"custom_content_JTY9jk":{"type":"custom-content","blocks":{"text_C9fbbe":{"type":"text","settings":{"block_width":"33","subheading":"","heading":"","heading_size":"h2","text":"","vertical_alignment":"center","text_alignment":"start","button_label":"","button_link":"","button_type":"primary","show_icon":false,"bg_color":"","text_color":"","padding_top":0,"padding_bottom":0,"padding_left":0,"padding_right":0,"padding_top_mobile":0,"padding_bottom_mobile":0,"padding_left_mobile":0,"padding_right_mobile":0}},"text_LFnJQV":{"type":"text","settings":{"block_width":"33","subheading":"New skincare","heading":"Neroli 👄 Pepper Whipped Body Butter 🌝 • 100% Organic  💅","heading_size":"h4","text":"","vertical_alignment":"center","text_alignment":"center","button_label":"Discover now","button_link":"","button_type":"primary-white","show_icon":false,"bg_color":"#f95726","text_color":"#ffffff","padding_top":90,"padding_bottom":90,"padding_left":80,"padding_right":80,"padding_top_mobile":80,"padding_bottom_mobile":80,"padding_left_mobile":24,"padding_right_mobile":24}},"image_wBdfXB":{"type":"image","settings":{"block_width":"33","image_size":"portrait","link":"","vertical_alignment":"center"}}},"block_order":["text_C9fbbe","text_LFnJQV","image_wBdfXB"],"disabled":true,"custom_css":["@media (min-width: 1024px) {#custom-block-image_wBdfXB {margin-top: -400px; }}","@media (max-width: 749px) {.section-custom-content {overflow: hidden; }}"],"settings":{"section_width":"container","subheading":"","heading":"","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"vertical","column_gap":"80","row_gap":"24","bg_color":"","text_color":"","padding_top":36,"padding_bottom":100}},"shoppable_video_AMVKEN":{"type":"shoppable-video","blocks":{"video_kbgYCp":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/AhaTok_meicyscolombia_34d36aaf-03d2-4a28-99c1-0d0c2591bfff_.mp4","product":"coctel-capilar-maravilloso-duo-iluminador-display-50ml"}},"video_daUxkQ":{"type":"video","disabled":true,"settings":{"product":"dew-point-moisturizing-gel-cream"}},"video_CziycE":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/OCTUBRE 2025 - MEICYS-SELLANTE.mp4","product":"sellante-de-cuticula-350ml"}},"video_bjjwLe":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/TINTE MEICYS COLORS (1).mp4","product":"tinte-meicys-professional-colors-9_8-rubio-muy-claro-irisado-75ml"}},"video_iLpRtM":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/AhaTok_meicyscolombia_9f4b8317-51a3-43d9-8891-7588989197cc_.mp4","product":"kit-keraton-supreme-aliss-1200ml"}},"video_nzz3XA":{"type":"video","disabled":true,"settings":{"product":"all-star-lineup-everyday-essentials-regimen"}}},"block_order":["video_kbgYCp","video_daUxkQ","video_CziycE","video_bjjwLe","video_iLpRtM","video_nzz3XA"],"settings":{"section_width":"container-fluid","subheading":"","heading":"Productos destacados","heading_tag":"h2","heading_size_section":"h3","description":"<p>Encuentra el producto ideal, según tu necesidad<\/p>","layout":"vertical","card_type":"product-in","show_play_button":true,"show_mute_button":true,"show_progress_bar":true,"play_all_videos":false,"same_height_videos":false,"ratio_videos":0.6,"width_videos":400,"show_arrows":true,"column_gap":3,"column_gap_mobile":2,"bg_color":"#d895eb","text_color":"#ffffff","padding_top":56,"padding_bottom":80}},"rich_text_kxYe7g":{"type":"rich-text","blocks":{"heading_jWLcbV":{"type":"heading","settings":{"heading":"Witness the amazing transformation of your skin with our skincare products 💆‍♀️✨. From dull to glowing, see the real, visible results before and after 🌟. Experience the change for yourself! 💖","heading_tag":"h2","heading_size":"h5"}},"separator_tDVHVH":{"type":"separator","settings":{"show_border":false,"space":1}},"button_bgqNUK":{"type":"button","settings":{"button_label":"Our products","button_link":"","button_type":"underlined","show_icon":true}}},"block_order":["heading_jWLcbV","separator_tDVHVH","button_bgqNUK"],"disabled":true,"settings":{"section_width":"w-full","content_width":"max-w-7xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":32,"padding_bottom":80}}},"order":["slideshow_bDT8rN","featured_collection_qhmndB","rich_text_MywzLf","featured_collection_atTfjK","rich_text_dfVGq3","collection_tabs_wThRhf","rich_text_zB4cRC","featured_collection_dDFbQC","rich_text_T43zQ7","collection_list_Xi8cjB","collection_list_BTc3rm","before_after_image_mAMhFX","rich_text_w63qhW","layer_image_with_text_mJ3bVT","banner_with_product_JwMD94","image_with_text_fzgEY4","scrolling_text_hgqaYM","custom_content_JjzzRm","scrolling_text_EFD6yt","multicolumn_DW7qDr","testimonials_agXwmk","custom_content_6BwLY7","custom_content_JTY9jk","shoppable_video_AMVKEN","rich_text_kxYe7g"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_bDT8rN": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_9pyT8r": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-meicys-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-meicys-mobile.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 600,
+            "content_position": "middle-center",
+            "mobile_content_position": "bottom-right",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(194deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%)",
+            "button_text_1": "",
+            "button_link_1": "shopify://collections/kits-capilares",
+            "button_type_1": "primary-white",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "outline-white"
+          }
+        },
+        "slide_maKEtc": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-30_-DESKTOPmeicys.jpg",
+            "mobile_image": "shopify://shop_images/Banner-principal-30_-mobile-meicys.jpg",
+            "slide_link": "shopify://collections/meicys",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
+        "slide_Cg8TUR": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-guajira-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-guajira-mobile.jpg",
+            "slide_link": "shopify://pages/guajira",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
+        "slide_d6693m": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-keraton-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-keraton-mobile.jpg",
+            "slide_link": "shopify://pages/keraton",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "bottom-center",
+            "content_space": "gap-y-2",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "Compra ahora",
+            "button_link_1": "shopify://collections/tintes-keraton",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
+        "slide_pFCkbU": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-vizio-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-vizio-mobile.jpg",
+            "slide_link": "shopify://pages/vizio",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "bottom-center",
+            "mobile_content_position": "bottom-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "shopify://collections/tratamientos-vizio",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "slide_9pyT8r",
+        "slide_maKEtc",
+        "slide_Cg8TUR",
+        "slide_d6693m",
+        "slide_pFCkbU"
+      ],
+      "settings": {
+        "slide_width": "w-full",
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-image",
+        "auto_rotate": true,
+        "change_slides_speed": 8,
+        "transition": "fade",
+        "controls": "filled-arrows",
+        "accessibility_info": "Slideshow about our brand",
+        "bg_color": "",
+        "controls_color": "#ffffff",
+        "controls_color_arrows": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_qhmndB": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Tintes",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "horizontal",
+        "collection": "tintes-meicys",
+        "products": [],
+        "link_url": "shopify://collections/kits-capilares",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_MywzLf": {
+      "type": "rich-text",
+      "blocks": {
+        "button_YnJYBh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver más",
+            "button_link": "shopify://collections/tintes-meicys",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "button_YnJYBh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "featured_collection_atTfjK": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "KITS",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "horizontal",
+        "collection": "",
+        "products": [
+          "ritual-cpc-21-anticaida-meicys",
+          "ritual-ajo-vitalizante-energizante-meicys",
+          "ritual-estabilizador-ph-meicys",
+          "kit-crece-pelo-meicys",
+          "kit-antipolucion-meicys",
+          "kit-anticaida-meicys",
+          "kit-difinicion-rizos-meicys",
+          "kit-reanimador-meicys",
+          "kit-restaurador-meicys",
+          "kit-tratamiento-post-color-meicys"
+        ],
+        "link_url": "shopify://collections/kits-capilares",
+        "link_text": "Ver todos",
+        "button_type": "primary",
+        "show_icon": true,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_dfVGq3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_with_image_xRn9Yb": {
+          "type": "text_with_image",
+          "settings": {
+            "text": "[img1] HECHO EN COLOMBIA  [img2]  LIBRE DE MALTRATO [img5] APROBADO POR PROFESIONALES [img3] INGREDIENTES DE ALTA CALIDAD",
+            "heading_size": "h6",
+            "line_height": 4,
+            "enable_rounded": true,
+            "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
+            "image_width_1": 60,
+            "url_1": "",
+            "image_2": "shopify://shop_images/cruelty-free.jpg",
+            "image_width_2": 60,
+            "url_2": "",
+            "image_3": "shopify://shop_images/ingredientes-alta-calidad.jpg",
+            "image_width_3": 60,
+            "url_3": "",
+            "image_width_4": 60,
+            "url_4": "",
+            "image_5": "shopify://shop_images/aprobado-profesional_34e52a53-e675-40df-87bc-dd7e77d5f943.jpg",
+            "image_width_5": 60,
+            "url_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_with_image_xRn9Yb"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "container",
+        "content_alignment": "center",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "",
+        "padding_top": 20,
+        "padding_bottom": 40,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "collection_tabs_wThRhf": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_zWgQjq": {
+          "type": "collection",
+          "settings": {
+            "collection": "shampoo-meicys",
+            "tab_heading": "Shampoo"
+          }
+        },
+        "collection_bEYwhA": {
+          "type": "collection",
+          "settings": {
+            "collection": "cabello-con-frizz-meicys",
+            "tab_heading": "Control frizz"
+          }
+        },
+        "collection_deHF9R": {
+          "type": "collection",
+          "settings": {
+            "collection": "color-meicys",
+            "tab_heading": "Cuidado color"
+          }
+        },
+        "collection_FhMg7W": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "decolorante-meicys",
+            "tab_heading": "Decolorantes"
+          }
+        }
+      },
+      "block_order": [
+        "collection_zWgQjq",
+        "collection_bEYwhA",
+        "collection_deHF9R",
+        "collection_FhMg7W"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Los más vendidos",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "enable_uppercase": true,
+        "tabs_font_family": "headings_font",
+        "layout": "horizontal",
+        "enable_stack_products": false,
+        "show_progress_bar": true,
+        "enable_overflow_visible": true,
+        "products_to_show": 10,
+        "columns_desktop": 3,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": true,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "rich_text_zB4cRC": {
+      "type": "rich-text",
+      "blocks": {
+        "button_GFng3a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver todo",
+            "button_link": "shopify://collections/meicys",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "button_GFng3a"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "featured_collection_dDFbQC": {
+      "type": "featured-collection",
+      "name": "Últimos lanzamientos",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Últimos lanzamientos",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "horizontal",
+        "collection": "lanzamientos",
+        "products": [
+          "pre-shampoo-250ml",
+          "shampoo-reanimador-keratina-550ml",
+          "shampoo-restaurador-gusano-de-seda-550ml",
+          "shampoo-antipolucion-detox-550ml",
+          "shampoo-crece-pelo-equino-550ml",
+          "balsamo-acondicionador-antiquiebre-550ml",
+          "tonico-anticaida-y-control-caspa-x150ml"
+        ],
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_T43zQ7": {
+      "type": "rich-text",
+      "blocks": {
+        "button_XhjawH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver más",
+            "button_link": "shopify://collections/lanzamientos",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "button_XhjawH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "collection_list_Xi8cjB": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_bhW4NC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "romero",
+            "image": "shopify://shop_images/ingredientes-romero_1.jpg",
+            "title": "Romero",
+            "url": "shopify://collections/romero"
+          }
+        },
+        "featured_collection_FbBAGf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "acido-hialuronico",
+            "image": "shopify://shop_images/ingredientes-acido-hialuronico_1.jpg",
+            "title": "Ácido Hialurónico",
+            "url": "shopify://collections/acido-hialuronico"
+          }
+        },
+        "featured_collection_iLW78E": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aceite-de-argan",
+            "image": "shopify://shop_images/ingredientes-argan_1.jpg",
+            "title": "Aceite de Argán",
+            "url": "shopify://collections/aceite-de-argan"
+          }
+        },
+        "featured_collection_8LgwgG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "keratina",
+            "image": "shopify://shop_images/ingredientes-keratina_1.jpg",
+            "title": "Keratina",
+            "url": "shopify://collections/keratina"
+          }
+        },
+        "featured_collection_9BmLNW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "miel-de-abejas",
+            "image": "shopify://shop_images/ingredientes-miel_1.jpg",
+            "title": "Miel de abejas",
+            "url": "shopify://collections/miel-de-abejas"
+          }
+        },
+        "featured_collection_fYN4Kj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aminoacidos",
+            "image": "shopify://shop_images/ingredientes-aminoacidos_1.jpg",
+            "title": "Aminoácidos",
+            "url": "shopify://collections/aminoacidos"
+          }
+        },
+        "featured_collection_Tjh4RF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aceite-de-oliva",
+            "image": "shopify://shop_images/ingredientes-oliva_1.jpg",
+            "title": "Aceite de Oliva",
+            "url": "shopify://collections/aceite-de-oliva"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_bhW4NC",
+        "featured_collection_FbBAGf",
+        "featured_collection_iLW78E",
+        "featured_collection_8LgwgG",
+        "featured_collection_9BmLNW",
+        "featured_collection_fYN4Kj",
+        "featured_collection_Tjh4RF"
+      ],
+      "custom_css": [
+        ".responsive-image img,.collection-card__media {--media-radius: 50%;}"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "Compra por ingrediente",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "horizontal",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "card_type": "standard",
+        "image_ratio": "adapt",
+        "show_collection_count": false,
+        "show_button_arrow": false,
+        "show_zoom_on_hover": true,
+        "heading_size": "body-1",
+        "content_alignment": "center",
+        "title_color": "rgba(0,0,0,0)",
+        "overlay_color": "rgba(0,0,0,0)",
+        "enable_gradient": true,
+        "overlay_opacity": 12,
+        "enable_stack_collections": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 7,
+        "column_gap": 7,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2.5,
+        "swipe_on_mobile": true,
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "padding_top": 44,
+        "padding_bottom": 68
+      }
+    },
+    "collection_list_BTc3rm": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_HYYGPz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/hecho-en-colombia.jpg",
+            "title": "Hecho en Colombia",
+            "url": "shopify://pages/sobre-nosotros"
+          }
+        },
+        "featured_collection_KYjzbB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/cruelty-free.jpg",
+            "title": "Libre del maltrato",
+            "url": "shopify://pages/sobre-nosotros"
+          }
+        },
+        "featured_collection_7iFFHg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/aprobado-profesional.jpg",
+            "title": "Aprobado por profesionales",
+            "url": "shopify://pages/sobre-nosotros"
+          }
+        },
+        "featured_collection_aGGBwM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/ingredientes-alta-calidad.jpg",
+            "title": "Ingredientes de calidad",
+            "url": "shopify://pages/sobre-nosotros"
+          }
+        },
+        "featured_collection_pRT7gp": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "aging-skin",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_hRA8yD": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "dryness",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_NiDKtT": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "dullness",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_h433Qr": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "best-sellers",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_n9TgB3": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "new-arrivals",
+            "title": "",
+            "url": ""
+          }
+        },
+        "view_all_X4Nncp": {
+          "type": "view_all",
+          "disabled": true,
+          "settings": {
+            "title": "All Ingredients",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_HYYGPz",
+        "featured_collection_KYjzbB",
+        "featured_collection_7iFFHg",
+        "featured_collection_aGGBwM",
+        "featured_collection_pRT7gp",
+        "featured_collection_hRA8yD",
+        "featured_collection_NiDKtT",
+        "featured_collection_h433Qr",
+        "featured_collection_n9TgB3",
+        "view_all_X4Nncp"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "horizontal",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "card_type": "standard",
+        "image_ratio": "adapt",
+        "show_collection_count": false,
+        "show_button_arrow": false,
+        "show_zoom_on_hover": true,
+        "heading_size": "sub-heading",
+        "content_alignment": "center",
+        "title_color": "rgba(0,0,0,0)",
+        "overlay_color": "rgba(0,0,0,0)",
+        "enable_gradient": true,
+        "overlay_opacity": 0,
+        "enable_stack_collections": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 8,
+        "column_gap": 5,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2.5,
+        "swipe_on_mobile": true,
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "padding_top": 48,
+        "padding_bottom": 64
+      }
+    },
+    "before_after_image_mAMhFX": {
+      "type": "before-after-image",
+      "blocks": {
+        "image_papDVN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modelo-meicys-antes-desktop.jpg",
+            "mobile_image": "shopify://shop_images/modelo-meicys-antes-mobile.jpg",
+            "label_text": "Antes"
+          }
+        },
+        "image_mbmfbQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modelo-meicys-despues-desktop.jpg",
+            "mobile_image": "shopify://shop_images/modelo-meicys-despues-mobile.jpg",
+            "label_text": "Después"
+          }
+        }
+      },
+      "block_order": [
+        "image_papDVN",
+        "image_mbmfbQ"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "Tintes Meicys",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "vertical",
+        "image_placement": "bottom",
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-400",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_w63qhW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_mrpWVE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Descubre los tintes profesionales, oxigentas y tratamientos Meicy’s para un color duradero, vibrante y protegido. Encuentra tu tono ideal y cuida tu cabello.</p>",
+            "large_text": false
+          }
+        },
+        "button_rRwFUg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver tintes",
+            "button_link": "shopify://collections/color-meicys",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "text_mrpWVE",
+        "button_rRwFUg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "layer_image_with_text_mJ3bVT": {
+      "type": "layer-image-with-text",
+      "blocks": {
+        "image_fqKCrj": {
+          "type": "image",
+          "settings": {
+            "width_image": 188,
+            "image_size": "portrait",
+            "offset_config": 200,
+            "top_position": 20,
+            "left_position": 4,
+            "top_position_mobile": 20,
+            "left_position_mobile": -26
+          }
+        },
+        "image_h3WVyE": {
+          "type": "image",
+          "settings": {
+            "width_image": 300,
+            "image_size": "landscape",
+            "offset_config": 250,
+            "top_position": 74,
+            "left_position": -8,
+            "top_position_mobile": 80,
+            "left_position_mobile": -38
+          }
+        },
+        "image_g4Ajmy": {
+          "type": "image",
+          "settings": {
+            "width_image": 232,
+            "image_size": "wide",
+            "offset_config": 300,
+            "top_position": 64,
+            "left_position": 94,
+            "top_position_mobile": 64,
+            "left_position_mobile": 84
+          }
+        },
+        "image_7fy9E3": {
+          "type": "image",
+          "settings": {
+            "width_image": 300,
+            "image_size": "adapt",
+            "offset_config": 200,
+            "top_position": 100,
+            "left_position": 70,
+            "top_position_mobile": 100,
+            "left_position_mobile": 68
+          }
+        },
+        "image_yHrKw9": {
+          "type": "image",
+          "settings": {
+            "width_image": 140,
+            "image_size": "adapt",
+            "offset_config": -1000,
+            "top_position": -40,
+            "left_position": 76,
+            "top_position_mobile": -16,
+            "left_position_mobile": 68
+          }
+        }
+      },
+      "block_order": [
+        "image_fqKCrj",
+        "image_h3WVyE",
+        "image_g4Ajmy",
+        "image_7fy9E3",
+        "image_yHrKw9"
+      ],
+      "disabled": true,
+      "settings": {
+        "content_alignment": "center",
+        "content_width": "max-w-5xl",
+        "subheading": "Glowy Routine",
+        "heading": "🌿 Tailored for Every Skin – Universally crafted to meet diverse needs 🌀.",
+        "heading_size": "h1",
+        "text": "",
+        "button_label": "Shop makeup",
+        "button_link": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "type_animation": "parallax",
+        "bg_color": "#f8ede7",
+        "text_color": ""
+      }
+    },
+    "banner_with_product_JwMD94": {
+      "type": "banner-with-product",
+      "blocks": {
+        "product_GXkMfd": {
+          "type": "product",
+          "settings": {
+            "product": [
+              "aceite-miel-almendras-x400ml",
+              "balsamo-acondicionador-x1000ml",
+              "bronceador-x300ml",
+              "doypack-cpc12-doy-pack-x-90ml-x-12-und"
+            ],
+            "columns_desktop": "2",
+            "column_gap": 3,
+            "columns_mobile": "2",
+            "column_gap_mobile": 2,
+            "swipe_on_mobile": false
+          }
+        },
+        "image_N8hjVp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_130_2x_4618c6f7-92d4-4231-a4e7-283f9cc0de6c.png",
+            "use_video": false,
+            "media_size": "portrait",
+            "subheading": "KEY INGREDIENTS",
+            "heading": "Ectoin® Natural",
+            "heading_size": "h2",
+            "text": "<p>Showed significant improvement on skin hydration</p>",
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false,
+            "desktop_content_position": "bottom-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_GXkMfd",
+        "image_N8hjVp"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Exclusively for you",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "<p>For naturally resilient skin now and healthy skin in the long run</p>",
+        "layout": "horizontal",
+        "link_url": "",
+        "link_text": "Shop all",
+        "button_type": "outline",
+        "show_icon": true,
+        "bg_color": "",
+        "text_color": "",
+        "column_gap": 6,
+        "column_gap_mobile": 4,
+        "padding_top": 80,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_fzgEY4": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_B9KR6E": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Gentle and safe"
+          }
+        },
+        "separator_43GaLt": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 0
+          }
+        },
+        "heading_rUDkYb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get the glow !",
+            "heading_tag": "h2",
+            "heading_size": "h0"
+          }
+        },
+        "text_biKq7g": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "large_text": false
+          }
+        },
+        "separator_fgKnEE": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 8
+          }
+        },
+        "button_3t3nMf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_B9KR6E",
+        "separator_43GaLt",
+        "heading_rUDkYb",
+        "text_biKq7g",
+        "separator_fgKnEE",
+        "button_3t3nMf"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "media_size": "landscape",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "use_video": true,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": false,
+        "layout": "left",
+        "column_gap": "4",
+        "vertical_alignment": "center",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "#d63937",
+        "bg_column": "#f7e4e4",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "scrolling_text_hgqaYM": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_TmyBEh": {
+          "type": "text",
+          "settings": {
+            "text": "90 DAY GUARANTEE",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_TzthHd": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_qpt9GQ": {
+          "type": "text",
+          "settings": {
+            "text": "CLINICALLY TESTED",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_FBJftR": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_TxwcUJ": {
+          "type": "text",
+          "settings": {
+            "text": "MADE IN FRANCE",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_y6hWjk": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_RCdHqN": {
+          "type": "text",
+          "settings": {
+            "text": "VEGAN",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_LGK7cp": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_TmyBEh",
+        "text_TzthHd",
+        "text_qpt9GQ",
+        "text_FBJftR",
+        "text_TxwcUJ",
+        "text_y6hWjk",
+        "text_RCdHqN",
+        "text_LGK7cp"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".responsive-image img {--media-radius: 50%;}"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "text_size": "size-base",
+        "pause_scroll_on_hover": true,
+        "spacing": 80,
+        "spacing_mobile": 30,
+        "image_width": 60,
+        "speed": 24,
+        "direction": "left",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_content_JjzzRm": {
+      "type": "custom-content",
+      "blocks": {
+        "lookbook_card_agzVKD": {
+          "type": "lookbook_card",
+          "settings": {
+            "block_width": "25",
+            "vertical_alignment": "start",
+            "image_size": "portrait",
+            "product_1": "just-breathe-clarifying-serum",
+            "enable_image_1": false,
+            "horizontal_position_1": 47,
+            "vertical_position_1": 53,
+            "product_2": "",
+            "enable_image_2": true,
+            "horizontal_position_2": 60,
+            "vertical_position_2": 34,
+            "product_3": "",
+            "enable_image_3": true,
+            "horizontal_position_3": 45,
+            "vertical_position_3": 45,
+            "hotspot_color": "#ffffff",
+            "hotspot_color_after": "#000000"
+          }
+        },
+        "text_iH4PRz": {
+          "type": "text",
+          "settings": {
+            "block_width": "25",
+            "subheading": "BEAUTY ROUTINES",
+            "heading": "The Key to 🫧 Transformative 🧴 Skincare.💕",
+            "heading_size": "h3",
+            "text": "",
+            "vertical_alignment": "center",
+            "text_alignment": "center",
+            "button_label": "Ingredient focus",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false,
+            "bg_color": "#fff1a6",
+            "text_color": "#044d49",
+            "padding_top": 34,
+            "padding_bottom": 34,
+            "padding_left": 34,
+            "padding_right": 34,
+            "padding_top_mobile": 40,
+            "padding_bottom_mobile": 40,
+            "padding_left_mobile": 24,
+            "padding_right_mobile": 24
+          }
+        },
+        "lookbook_card_tdQWKB": {
+          "type": "lookbook_card",
+          "settings": {
+            "block_width": "25",
+            "vertical_alignment": "start",
+            "image_size": "portrait",
+            "product_1": "blemish-busters-clear-skin-regimen",
+            "enable_image_1": false,
+            "horizontal_position_1": 44,
+            "vertical_position_1": 34,
+            "product_2": "",
+            "enable_image_2": true,
+            "horizontal_position_2": 60,
+            "vertical_position_2": 34,
+            "product_3": "",
+            "enable_image_3": true,
+            "horizontal_position_3": 45,
+            "vertical_position_3": 45,
+            "hotspot_color": "#ffffff",
+            "hotspot_color_after": "#000000"
+          }
+        },
+        "text_Rj9KBL": {
+          "type": "text",
+          "settings": {
+            "block_width": "25",
+            "subheading": "Pure 3otany™",
+            "heading": "The Science 💄 behind our 💖 formulas 💅",
+            "heading_size": "h3",
+            "text": "",
+            "vertical_alignment": "center",
+            "text_alignment": "center",
+            "button_label": "Ingredient focus",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "bg_color": "#f95726",
+            "text_color": "#fff2a7",
+            "padding_top": 34,
+            "padding_bottom": 34,
+            "padding_left": 34,
+            "padding_right": 34,
+            "padding_top_mobile": 40,
+            "padding_bottom_mobile": 40,
+            "padding_left_mobile": 24,
+            "padding_right_mobile": 24
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_card_agzVKD",
+        "text_iH4PRz",
+        "lookbook_card_tdQWKB",
+        "text_Rj9KBL"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "8",
+        "row_gap": "8",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "scrolling_text_EFD6yt": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_QGHztg": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_BbdcTA": {
+          "type": "text",
+          "settings": {
+            "text": "furtured in",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_KAAHBG": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_eXKVxk": {
+          "type": "text",
+          "settings": {
+            "text": "furtured in",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_TVWa9L": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_PwyYHg": {
+          "type": "text",
+          "settings": {
+            "text": "furtured in",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_3HFEqV": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_aiyMLb": {
+          "type": "text",
+          "settings": {
+            "text": "furtured in",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_ptK74g": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_yhUJ6C": {
+          "type": "text",
+          "settings": {
+            "text": "furtured in",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_QGHztg",
+        "text_BbdcTA",
+        "text_KAAHBG",
+        "text_eXKVxk",
+        "text_TVWa9L",
+        "text_PwyYHg",
+        "text_3HFEqV",
+        "text_aiyMLb",
+        "text_ptK74g",
+        "text_yhUJ6C"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".responsive-image img {--media-radius: 0px;}"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "text_size": "size-base",
+        "pause_scroll_on_hover": true,
+        "spacing": 80,
+        "spacing_mobile": 40,
+        "image_width": 190,
+        "speed": 30,
+        "direction": "left",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_DW7qDr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VdyMt3": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "Body Cream",
+            "text": "<p>Revitalize your skin with our luxurious body creams. Infused with nourishing ingredients for a radiant, healthy glow.</p>",
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_type": "outline",
+            "show_icon": false
+          }
+        },
+        "column_hxL8Nf": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "Skincare",
+            "text": "<p>Discover the science behind our skincare products. Expertly formulated with proven ingredients for effective results.</p>",
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_type": "outline",
+            "show_icon": false
+          }
+        },
+        "column_WpPzJy": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "Performance",
+            "text": "<p>Unlock the potential of your skin with our performance skincare products. Scientifically formulated</p>",
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_type": "outline",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "column_VdyMt3",
+        "column_hxL8Nf",
+        "column_WpPzJy"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Your Skin, Body, Planet",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "<p>Looking for love in all the wrong places?</p>",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "square",
+        "heading_size": "h4",
+        "column_alignment": "center",
+        "link_url": "",
+        "link_text": "About Us",
+        "button_type": "underlined",
+        "show_icon": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 3,
+        "column_gap": 3,
+        "column_gap_mobile": 3,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "testimonials_agXwmk": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_RApQ8c": {
+          "type": "quote",
+          "settings": {
+            "product": "all-star-lineup-everyday-essentials-regimen",
+            "rating": 4.5,
+            "text": "Fantastic clothes. I wasn't sure when I ordered them but I have to say it's without any doubts the best purchase of this year. So comfy and stylish ❤️.",
+            "media_size": "adapt",
+            "name": "Mc Box",
+            "position": "― CEO"
+          }
+        },
+        "quote_beKkw7": {
+          "type": "quote",
+          "settings": {
+            "product": "buff-it-out-aha-exfoliating-body-scrub",
+            "rating": 3.5,
+            "text": "Omg! These are adorable. Very comfortable while and fashionable. Brilliant customer support helping with sizing and again with tracking",
+            "media_size": "wide",
+            "name": "Lunar Shoc",
+            "position": "― Designer"
+          }
+        },
+        "quote_AzEDLf": {
+          "type": "quote",
+          "settings": {
+            "product": "clear-the-way-breakout-control-bundle",
+            "rating": 5,
+            "text": "My fav online clothing purchase this year! Cute, comfortable and handy pockets. I wasn't sure what size to buy so erred in the side of caution and bought XL",
+            "media_size": "wide",
+            "name": "Dinor Billy",
+            "position": "― Keep shopper"
+          }
+        }
+      },
+      "block_order": [
+        "quote_RApQ8c",
+        "quote_beKkw7",
+        "quote_AzEDLf"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "w-full",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "testimonial_type": "focused",
+        "content_alignment": "center",
+        "vertical_alignment": "center",
+        "content_size": "h4",
+        "show_rating": true,
+        "show_arrows": true,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "bg_color": "#183e38",
+        "text_color": "#f2fcc5",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "custom_content_6BwLY7": {
+      "type": "custom-content",
+      "blocks": {
+        "image_aiMPgz": {
+          "type": "image",
+          "settings": {
+            "block_width": "50",
+            "image_size": "adapt",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        },
+        "text_zntxpH": {
+          "type": "text",
+          "settings": {
+            "block_width": "50",
+            "subheading": "About Claire.",
+            "heading": "Give a little love & joy this christmas.",
+            "heading_size": "h1",
+            "text": "<p>Receive the ethical and Fair Trade By Sarah Love & Joy Bag (worth £7.95) completely FREE with any By Sarah Bundle or any 2 products. Add Bag to cart and use code GIFTJOY.</p>",
+            "vertical_alignment": "start",
+            "text_alignment": "start",
+            "button_label": "Read more",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 40,
+            "padding_bottom": 0,
+            "padding_left": 60,
+            "padding_right": 0,
+            "padding_top_mobile": 0,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 0,
+            "padding_right_mobile": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aiMPgz",
+        "text_zntxpH"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "24",
+        "row_gap": "24",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "custom_content_JTY9jk": {
+      "type": "custom-content",
+      "blocks": {
+        "text_C9fbbe": {
+          "type": "text",
+          "settings": {
+            "block_width": "33",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "text": "",
+            "vertical_alignment": "center",
+            "text_alignment": "start",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false,
+            "bg_color": "",
+            "text_color": "",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top_mobile": 0,
+            "padding_bottom_mobile": 0,
+            "padding_left_mobile": 0,
+            "padding_right_mobile": 0
+          }
+        },
+        "text_LFnJQV": {
+          "type": "text",
+          "settings": {
+            "block_width": "33",
+            "subheading": "New skincare",
+            "heading": "Neroli 👄 Pepper Whipped Body Butter 🌝 • 100% Organic  💅",
+            "heading_size": "h4",
+            "text": "",
+            "vertical_alignment": "center",
+            "text_alignment": "center",
+            "button_label": "Discover now",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "bg_color": "#f95726",
+            "text_color": "#ffffff",
+            "padding_top": 90,
+            "padding_bottom": 90,
+            "padding_left": 80,
+            "padding_right": 80,
+            "padding_top_mobile": 80,
+            "padding_bottom_mobile": 80,
+            "padding_left_mobile": 24,
+            "padding_right_mobile": 24
+          }
+        },
+        "image_wBdfXB": {
+          "type": "image",
+          "settings": {
+            "block_width": "33",
+            "image_size": "portrait",
+            "link": "",
+            "vertical_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_C9fbbe",
+        "text_LFnJQV",
+        "image_wBdfXB"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 1024px) {#custom-block-image_wBdfXB {margin-top: -400px; }}",
+        "@media (max-width: 749px) {.section-custom-content {overflow: hidden; }}"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "80",
+        "row_gap": "24",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    },
+    "shoppable_video_AMVKEN": {
+      "type": "shoppable-video",
+      "blocks": {
+        "video_kbgYCp": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/AhaTok_meicyscolombia_34d36aaf-03d2-4a28-99c1-0d0c2591bfff_.mp4",
+            "product": "coctel-capilar-maravilloso-duo-iluminador-display-50ml"
+          }
+        },
+        "video_daUxkQ": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "product": "dew-point-moisturizing-gel-cream"
+          }
+        },
+        "video_CziycE": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/OCTUBRE 2025 - MEICYS-SELLANTE.mp4",
+            "product": "sellante-de-cuticula-350ml"
+          }
+        },
+        "video_bjjwLe": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/TINTE MEICYS COLORS (1).mp4",
+            "product": "tinte-meicys-professional-colors-9_8-rubio-muy-claro-irisado-75ml"
+          }
+        },
+        "video_iLpRtM": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/AhaTok_meicyscolombia_9f4b8317-51a3-43d9-8891-7588989197cc_.mp4",
+            "product": "kit-keraton-supreme-aliss-1200ml"
+          }
+        },
+        "video_nzz3XA": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "product": "all-star-lineup-everyday-essentials-regimen"
+          }
+        }
+      },
+      "block_order": [
+        "video_kbgYCp",
+        "video_daUxkQ",
+        "video_CziycE",
+        "video_bjjwLe",
+        "video_iLpRtM",
+        "video_nzz3XA"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "Productos destacados",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "<p>Encuentra el producto ideal, según tu necesidad</p>",
+        "layout": "vertical",
+        "card_type": "product-in",
+        "show_play_button": true,
+        "show_mute_button": true,
+        "show_progress_bar": true,
+        "play_all_videos": false,
+        "same_height_videos": false,
+        "ratio_videos": 0.6,
+        "width_videos": 400,
+        "show_arrows": true,
+        "column_gap": 3,
+        "column_gap_mobile": 2,
+        "bg_color": "#d895eb",
+        "text_color": "#ffffff",
+        "padding_top": 56,
+        "padding_bottom": 80
+      }
+    },
+    "rich_text_kxYe7g": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jWLcbV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Witness the amazing transformation of your skin with our skincare products 💆‍♀️✨. From dull to glowing, see the real, visible results before and after 🌟. Experience the change for yourself! 💖",
+            "heading_tag": "h2",
+            "heading_size": "h5"
+          }
+        },
+        "separator_tDVHVH": {
+          "type": "separator",
+          "settings": {
+            "show_border": false,
+            "space": 1
+          }
+        },
+        "button_bgqNUK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Our products",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_jWLcbV",
+        "separator_tDVHVH",
+        "button_bgqNUK"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-7xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 32,
+        "padding_bottom": 80,
+        "enable_horizontal_scroll_mobile": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_bDT8rN",
+    "featured_collection_qhmndB",
+    "rich_text_MywzLf",
+    "featured_collection_atTfjK",
+    "rich_text_dfVGq3",
+    "collection_tabs_wThRhf",
+    "rich_text_zB4cRC",
+    "featured_collection_dDFbQC",
+    "rich_text_T43zQ7",
+    "collection_list_Xi8cjB",
+    "collection_list_BTc3rm",
+    "before_after_image_mAMhFX",
+    "rich_text_w63qhW",
+    "layer_image_with_text_mJ3bVT",
+    "banner_with_product_JwMD94",
+    "image_with_text_fzgEY4",
+    "scrolling_text_hgqaYM",
+    "custom_content_JjzzRm",
+    "scrolling_text_EFD6yt",
+    "multicolumn_DW7qDr",
+    "testimonials_agXwmk",
+    "custom_content_6BwLY7",
+    "custom_content_JTY9jk",
+    "shoppable_video_AMVKEN",
+    "rich_text_kxYe7g"
+  ]
+}
