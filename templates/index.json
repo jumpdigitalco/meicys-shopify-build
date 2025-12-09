@@ -825,336 +825,6 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
-    "layer_image_with_text_mJ3bVT": {
-      "type": "layer-image-with-text",
-      "blocks": {
-        "image_fqKCrj": {
-          "type": "image",
-          "settings": {
-            "width_image": 188,
-            "image_size": "portrait",
-            "offset_config": 200,
-            "top_position": 20,
-            "left_position": 4,
-            "top_position_mobile": 20,
-            "left_position_mobile": -26
-          }
-        },
-        "image_h3WVyE": {
-          "type": "image",
-          "settings": {
-            "width_image": 300,
-            "image_size": "landscape",
-            "offset_config": 250,
-            "top_position": 74,
-            "left_position": -8,
-            "top_position_mobile": 80,
-            "left_position_mobile": -38
-          }
-        },
-        "image_g4Ajmy": {
-          "type": "image",
-          "settings": {
-            "width_image": 232,
-            "image_size": "wide",
-            "offset_config": 300,
-            "top_position": 64,
-            "left_position": 94,
-            "top_position_mobile": 64,
-            "left_position_mobile": 84
-          }
-        },
-        "image_7fy9E3": {
-          "type": "image",
-          "settings": {
-            "width_image": 300,
-            "image_size": "adapt",
-            "offset_config": 200,
-            "top_position": 100,
-            "left_position": 70,
-            "top_position_mobile": 100,
-            "left_position_mobile": 68
-          }
-        },
-        "image_yHrKw9": {
-          "type": "image",
-          "settings": {
-            "width_image": 140,
-            "image_size": "adapt",
-            "offset_config": -1000,
-            "top_position": -40,
-            "left_position": 76,
-            "top_position_mobile": -16,
-            "left_position_mobile": 68
-          }
-        }
-      },
-      "block_order": [
-        "image_fqKCrj",
-        "image_h3WVyE",
-        "image_g4Ajmy",
-        "image_7fy9E3",
-        "image_yHrKw9"
-      ],
-      "disabled": true,
-      "settings": {
-        "content_alignment": "center",
-        "content_width": "max-w-5xl",
-        "subheading": "Glowy Routine",
-        "heading": "🌿 Tailored for Every Skin – Universally crafted to meet diverse needs 🌀.",
-        "heading_size": "h1",
-        "text": "",
-        "button_label": "Shop makeup",
-        "button_link": "",
-        "button_type": "primary",
-        "show_icon": false,
-        "type_animation": "parallax",
-        "bg_color": "#f8ede7",
-        "text_color": ""
-      }
-    },
-    "banner_with_product_JwMD94": {
-      "type": "banner-with-product",
-      "blocks": {
-        "product_GXkMfd": {
-          "type": "product",
-          "settings": {
-            "product": [
-              "aceite-miel-almendras-x400ml",
-              "balsamo-acondicionador-x1000ml",
-              "bronceador-x300ml",
-              "doypack-cpc12-doy-pack-x-90ml-x-12-und"
-            ],
-            "columns_desktop": "2",
-            "column_gap": 3,
-            "columns_mobile": "2",
-            "column_gap_mobile": 2,
-            "swipe_on_mobile": false
-          }
-        },
-        "image_N8hjVp": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Rectangle_130_2x_4618c6f7-92d4-4231-a4e7-283f9cc0de6c.png",
-            "use_video": false,
-            "media_size": "portrait",
-            "subheading": "KEY INGREDIENTS",
-            "heading": "Ectoin® Natural",
-            "heading_size": "h2",
-            "text": "<p>Showed significant improvement on skin hydration</p>",
-            "button_label": "Shop now",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false,
-            "desktop_content_position": "bottom-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "product_GXkMfd",
-        "image_N8hjVp"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Exclusively for you",
-        "heading_tag": "h2",
-        "heading_size_section": "h2",
-        "description": "<p>For naturally resilient skin now and healthy skin in the long run</p>",
-        "layout": "horizontal",
-        "link_url": "",
-        "link_text": "Shop all",
-        "button_type": "outline",
-        "show_icon": true,
-        "bg_color": "",
-        "text_color": "",
-        "column_gap": 6,
-        "column_gap_mobile": 4,
-        "padding_top": 80,
-        "padding_bottom": 100
-      }
-    },
-    "image_with_text_fzgEY4": {
-      "type": "image-with-text",
-      "blocks": {
-        "subheading_B9KR6E": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Gentle and safe"
-          }
-        },
-        "separator_43GaLt": {
-          "type": "separator",
-          "settings": {
-            "show_border": false,
-            "space": 0
-          }
-        },
-        "heading_rUDkYb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get the glow !",
-            "heading_tag": "h2",
-            "heading_size": "h0"
-          }
-        },
-        "text_biKq7g": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "large_text": false
-          }
-        },
-        "separator_fgKnEE": {
-          "type": "separator",
-          "settings": {
-            "show_border": false,
-            "space": 8
-          }
-        },
-        "button_3t3nMf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "subheading_B9KR6E",
-        "separator_43GaLt",
-        "heading_rUDkYb",
-        "text_biKq7g",
-        "separator_fgKnEE",
-        "button_3t3nMf"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_width": "container-fluid",
-        "media_size": "landscape",
-        "show_image_2": false,
-        "position_image_2": "middle-right",
-        "media_size_2": "adapt",
-        "desktop_image_width": "50",
-        "use_video": true,
-        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_autoplay": true,
-        "video_controls": false,
-        "layout": "left",
-        "column_gap": "4",
-        "vertical_alignment": "center",
-        "content_alignment": "center",
-        "bg_color": "",
-        "text_color": "#d63937",
-        "bg_column": "#f7e4e4",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "scrolling_text_hgqaYM": {
-      "type": "scrolling-text",
-      "blocks": {
-        "text_TmyBEh": {
-          "type": "text",
-          "settings": {
-            "text": "90 DAY GUARANTEE",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_TzthHd": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_qpt9GQ": {
-          "type": "text",
-          "settings": {
-            "text": "CLINICALLY TESTED",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_FBJftR": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_TxwcUJ": {
-          "type": "text",
-          "settings": {
-            "text": "MADE IN FRANCE",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_y6hWjk": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_RCdHqN": {
-          "type": "text",
-          "settings": {
-            "text": "VEGAN",
-            "link": "",
-            "outline_text": false
-          }
-        },
-        "text_LGK7cp": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "link": "",
-            "outline_text": false
-          }
-        }
-      },
-      "block_order": [
-        "text_TmyBEh",
-        "text_TzthHd",
-        "text_qpt9GQ",
-        "text_FBJftR",
-        "text_TxwcUJ",
-        "text_y6hWjk",
-        "text_RCdHqN",
-        "text_LGK7cp"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".responsive-image img {--media-radius: 50%;}"
-      ],
-      "settings": {
-        "section_width": "container-fluid",
-        "text_size": "size-base",
-        "pause_scroll_on_hover": true,
-        "spacing": 80,
-        "spacing_mobile": 30,
-        "image_width": 60,
-        "speed": 24,
-        "direction": "left",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "custom_content_JjzzRm": {
       "type": "custom-content",
       "blocks": {
@@ -1808,6 +1478,139 @@
         "padding_bottom": 80,
         "enable_horizontal_scroll_mobile": true
       }
+    },
+    "collection_list_FapxRN": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_AzBJKV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cabello-liso-meicys",
+            "image": "shopify://shop_images/banner-mobile-lisos-3_page-0001.png",
+            "title": "",
+            "url": "shopify://collections/cabello-liso-meicys"
+          }
+        },
+        "featured_collection_exYx8T": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_74e7xA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_6MXN4q": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_MfjpxL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "url": ""
+          }
+        },
+        "featured_collection_gF7eKa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_AzBJKV",
+        "featured_collection_exYx8T",
+        "featured_collection_74e7xA",
+        "featured_collection_6MXN4q",
+        "featured_collection_MfjpxL",
+        "featured_collection_gF7eKa"
+      ],
+      "disabled": true,
+      "name": "Modulos destacados meicys",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "card_type": "standard",
+        "image_ratio": "adapt",
+        "show_collection_count": true,
+        "show_button_arrow": true,
+        "show_zoom_on_hover": true,
+        "heading_size": "h4",
+        "content_alignment": "start",
+        "title_color": "",
+        "overlay_color": "#000000",
+        "enable_gradient": false,
+        "overlay_opacity": 10,
+        "enable_stack_collections": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_K36Ptm": {
+      "type": "featured-collection",
+      "disabled": true,
+      "name": "Featured collection",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "<p>Describe your featured collection here</p>",
+        "layout": "vertical",
+        "collection": "",
+        "products": [],
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -1824,10 +1627,6 @@
     "collection_list_BTc3rm",
     "before_after_image_mAMhFX",
     "rich_text_w63qhW",
-    "layer_image_with_text_mJ3bVT",
-    "banner_with_product_JwMD94",
-    "image_with_text_fzgEY4",
-    "scrolling_text_hgqaYM",
     "custom_content_JjzzRm",
     "scrolling_text_EFD6yt",
     "multicolumn_DW7qDr",
@@ -1835,6 +1634,8 @@
     "custom_content_6BwLY7",
     "custom_content_JTY9jk",
     "shoppable_video_AMVKEN",
-    "rich_text_kxYe7g"
+    "rich_text_kxYe7g",
+    "collection_list_FapxRN",
+    "featured_collection_K36Ptm"
   ]
 }
