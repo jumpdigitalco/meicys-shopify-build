@@ -1,1 +1,393 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"section_width":"container-narrow","show_default_heading":true,"bg_color":"","text_color":"","padding_top":60,"padding_bottom":60}},"slideshow_iMYM47":{"type":"slideshow","blocks":{"slide_8RBCgp":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-principal-keraton-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-keraton-mobile.jpg","slide_link":"","video_background":false,"content_width":660,"content_position":"middle-center","mobile_content_position":"middle-center","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":70,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"","button_link_1":"","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}},"slide_47eiaW":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-principal-keraton-touch-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-keraton-touch-mobile.jpg","slide_link":"","video_background":false,"content_width":400,"content_position":"middle-center","mobile_content_position":"middle-center","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"","button_link_1":"","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}},"slide_iTGGcH":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-principal-30_-desktop-keraton.jpg","mobile_image":"shopify:\/\/shop_images\/banner-principal-30_-mobile-keraton.jpg","slide_link":"shopify:\/\/collections\/keraton","video_background":false,"content_width":500,"content_position":"middle-center","mobile_content_position":"middle-center","content_space":"gap-y-4","subheading":"","heading":"","heading_tag":"div","heading_size":"hxl","content":"","description_size":"medium","color_text":"#000000","overlay_color":"#000000","overlay_opacity":70,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)","button_text_1":"","button_link_1":"","button_type_1":"primary","button_text_2":"","button_link_2":"","button_type_2":"primary"}}},"block_order":["slide_8RBCgp","slide_47eiaW","slide_iTGGcH"],"name":"Slideshow","settings":{"slide_width":"w-full","desktop_height":"desktop-height-image","mobile_height":"mobile-height-image","auto_rotate":true,"change_slides_speed":5,"transition":"zoom","controls":"filled-arrows","accessibility_info":"Slideshow about our brand","bg_color":"","controls_color":"#ffffff","controls_color_arrows":"#000000","padding_top":0,"padding_bottom":0}},"rich_text_krHxMh":{"type":"rich-text","blocks":{"text_with_image_cyJzyr":{"type":"text_with_image","settings":{"text":"[img1] HECHO EN COLOMBIA [img2] LIBRE DE MALTRATO [img3] APROBADO POR PROFESIONALES [img4] INGREDIENTES DE ALTA CALIDAD","heading_size":"h6","line_height":1.5,"enable_rounded":true,"image_1":"shopify:\/\/shop_images\/hecho-en-colombia.jpg","image_width_1":62,"url_1":"","image_2":"shopify:\/\/shop_images\/cruelty-free.jpg","image_width_2":62,"url_2":"","image_3":"shopify:\/\/shop_images\/aprobado-profesional.jpg","image_width_3":60,"url_3":"","image_4":"shopify:\/\/shop_images\/ingredientes-alta-calidad.jpg","image_width_4":60,"url_4":"","image_width_5":60,"url_5":""}}},"block_order":["text_with_image_cyJzyr"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"container","content_alignment":"center","bg_color":"","text_color":"#7a3a91","padding_top":36,"padding_bottom":36,"enable_horizontal_scroll_mobile":true}},"featured_collection_zEAzmQ":{"type":"featured-collection","name":"Featured collection","settings":{"section_width":"container","subheading":"","heading":"Tintes permanentes","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"horizontal","collection":"color-keraton","products":[],"link_url":"","link_text":"","button_type":"primary","show_icon":false,"enable_stack_products":true,"show_progress_bar":false,"enable_overflow_visible":false,"products_to_show":4,"columns_desktop":4,"column_gap":3,"columns_mobile":"2","column_gap_mobile":2,"swipe_on_mobile":false,"bg_color":"","text_color":"","padding_top":36,"padding_bottom":36}},"rich_text_6mUq9H":{"type":"rich-text","blocks":{"button_tqEpFJ":{"type":"button","settings":{"button_label":"Ver tintes","button_link":"shopify:\/\/collections\/tintes-keraton","button_type":"primary","show_icon":true}}},"block_order":["button_tqEpFJ"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"max-w-4xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":0,"padding_bottom":36,"enable_horizontal_scroll_mobile":true}},"before_after_image_gM7nBF":{"type":"before-after-image","blocks":{"image_zUHbX6":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/modelo-keraton-antes-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/modelo-keraton-antes-mobile.jpg","label_text":"Antes"}},"image_yENzbD":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/modelo-keraton-despues-desktop.jpg","mobile_image":"shopify:\/\/shop_images\/modelo-keraton-despues-mobile.jpg","label_text":"Después"}}},"block_order":["image_zUHbX6","image_yENzbD"],"name":"Before\/after image","settings":{"section_width":"container","subheading":"","heading":"Resultados que se notan","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"vertical","image_placement":"bottom","desktop_height":"desktop-height-image","mobile_height":"mobile-height-image","bg_color":"","text_color":"#7a3a91","padding_top":36,"padding_bottom":36}},"rich_text_qiTzdE":{"type":"rich-text","blocks":{"text_QhGKEX":{"type":"text","settings":{"text":"<p>Cuidado Capilar Keraton con tratamientos y keratina para fortalecer, reparar y mejorar la fibra capilar. Soluciones profesionales para un cabello sano y resistente.<\/p>","large_text":false}},"button_pkgdKN":{"type":"button","settings":{"button_label":"Control frizz","button_link":"shopify:\/\/collections\/crema-para-peinar-con-keratina-meicys","button_type":"primary","show_icon":false}}},"block_order":["text_QhGKEX","button_pkgdKN"],"name":"Rich text","settings":{"section_width":"w-full","content_width":"max-w-4xl","content_alignment":"center","bg_color":"","text_color":"","padding_top":0,"padding_bottom":36,"enable_horizontal_scroll_mobile":true}},"shoppable_video_93VtDd":{"type":"shoppable-video","blocks":{"video_MJnGYJ":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/prueba-keraton10.mp4","product":"tratamiento-mais-crespos-1000ml"}},"video_iYrHAK":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/prueba-keraton2.mp4","product":"tinte-keraton-permanente-tonos-cenizos-irisados-1_1-negro-azul"}},"video_PLPUDN":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/prueba-keraton8.mp4","product":"shampoo-reestructurante-keraton-650ml"}},"video_miGcXG":{"type":"video","settings":{"video_hosted":"shopify:\/\/files\/videos\/prueba-keraton5 (1).mp4","product":"tratamiento-reestructurante-400ml"}}},"block_order":["video_MJnGYJ","video_iYrHAK","video_PLPUDN","video_miGcXG"],"name":"Shoppable video","settings":{"section_width":"w-full","subheading":"","heading":"Productos destacados","heading_tag":"h2","heading_size_section":"h2","description":"<p>Encuentra el producto ideal, según tu necesidad<\/p>","layout":"vertical","card_type":"product-in","show_play_button":true,"show_mute_button":true,"show_progress_bar":true,"play_all_videos":false,"same_height_videos":false,"ratio_videos":0.6,"width_videos":360,"show_arrows":true,"column_gap":3,"column_gap_mobile":3,"bg_color":"","text_color":"#7a3a91","padding_top":36,"padding_bottom":36}}},"order":["main","slideshow_iMYM47","rich_text_krHxMh","featured_collection_zEAzmQ","rich_text_6mUq9H","before_after_image_gM7nBF","rich_text_qiTzdE","shoppable_video_93VtDd"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "section_width": "container-narrow",
+        "show_default_heading": true,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "slideshow_iMYM47": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_8RBCgp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-keraton-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-keraton-mobile.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 660,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
+        "slide_47eiaW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-keraton-touch-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-keraton-touch-mobile.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 400,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
+        "slide_iTGGcH": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/banner-principal-30_-desktop-keraton.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-30_-mobile-keraton.jpg",
+            "slide_link": "shopify://collections/keraton",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "slide_8RBCgp",
+        "slide_47eiaW",
+        "slide_iTGGcH"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "slide_width": "w-full",
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-image",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "transition": "zoom",
+        "controls": "filled-arrows",
+        "accessibility_info": "Slideshow about our brand",
+        "bg_color": "",
+        "controls_color": "#ffffff",
+        "controls_color_arrows": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_krHxMh": {
+      "type": "rich-text",
+      "blocks": {
+        "text_with_image_cyJzyr": {
+          "type": "text_with_image",
+          "settings": {
+            "text": "[img1] HECHO EN COLOMBIA [img2] LIBRE DE MALTRATO [img3] APROBADO POR PROFESIONALES [img4] INGREDIENTES DE ALTA CALIDAD",
+            "heading_size": "h6",
+            "line_height": 1.5,
+            "enable_rounded": true,
+            "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
+            "image_width_1": 62,
+            "url_1": "",
+            "image_2": "shopify://shop_images/cruelty-free.jpg",
+            "image_width_2": 62,
+            "url_2": "",
+            "image_3": "shopify://shop_images/aprobado-profesional.jpg",
+            "image_width_3": 60,
+            "url_3": "",
+            "image_4": "shopify://shop_images/ingredientes-alta-calidad.jpg",
+            "image_width_4": 60,
+            "url_4": "",
+            "image_width_5": 60,
+            "url_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_with_image_cyJzyr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "container",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "#7a3a91",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "featured_collection_zEAzmQ": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Tintes permanentes",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "horizontal",
+        "collection": "color-keraton",
+        "products": [],
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_6mUq9H": {
+      "type": "rich-text",
+      "blocks": {
+        "button_tqEpFJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver tintes",
+            "button_link": "shopify://collections/tintes-keraton",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "button_tqEpFJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "before_after_image_gM7nBF": {
+      "type": "before-after-image",
+      "blocks": {
+        "image_zUHbX6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modelo-keraton-antes-desktop.jpg",
+            "mobile_image": "shopify://shop_images/modelo-keraton-antes-mobile.jpg",
+            "label_text": "Antes"
+          }
+        },
+        "image_yENzbD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modelo-keraton-despues-desktop.jpg",
+            "mobile_image": "shopify://shop_images/modelo-keraton-despues-mobile.jpg",
+            "label_text": "Después"
+          }
+        }
+      },
+      "block_order": [
+        "image_zUHbX6",
+        "image_yENzbD"
+      ],
+      "name": "Before/after image",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Resultados que se notan",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "image_placement": "bottom",
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-image",
+        "bg_color": "",
+        "text_color": "#7a3a91",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_qiTzdE": {
+      "type": "rich-text",
+      "blocks": {
+        "text_QhGKEX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cuidado Capilar Keraton con tratamientos y keratina para fortalecer, reparar y mejorar la fibra capilar. Soluciones profesionales para un cabello sano y resistente.</p>",
+            "large_text": false
+          }
+        },
+        "button_pkgdKN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Control frizz",
+            "button_link": "shopify://collections/crema-para-peinar-con-keratina-meicys",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "text_QhGKEX",
+        "button_pkgdKN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "shoppable_video_93VtDd": {
+      "type": "shoppable-video",
+      "blocks": {
+        "video_MJnGYJ": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-keraton10.mp4",
+            "product": "tratamiento-mais-crespos-1000ml"
+          }
+        },
+        "video_iYrHAK": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-keraton2.mp4",
+            "product": "tinte-keraton-permanente-tonos-cenizos-irisados-1_1-negro-azul"
+          }
+        },
+        "video_PLPUDN": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-keraton8.mp4",
+            "product": "shampoo-reestructurante-keraton-650ml"
+          }
+        },
+        "video_miGcXG": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-keraton5 (1).mp4",
+            "product": "tratamiento-reestructurante-400ml"
+          }
+        }
+      },
+      "block_order": [
+        "video_MJnGYJ",
+        "video_iYrHAK",
+        "video_PLPUDN",
+        "video_miGcXG"
+      ],
+      "name": "Shoppable video",
+      "settings": {
+        "section_width": "w-full",
+        "subheading": "",
+        "heading": "Productos destacados",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "<p>Encuentra el producto ideal, según tu necesidad</p>",
+        "layout": "vertical",
+        "card_type": "product-in",
+        "show_play_button": true,
+        "show_mute_button": true,
+        "show_progress_bar": true,
+        "play_all_videos": false,
+        "same_height_videos": false,
+        "ratio_videos": 0.6,
+        "width_videos": 360,
+        "show_arrows": true,
+        "column_gap": 3,
+        "column_gap_mobile": 3,
+        "bg_color": "",
+        "text_color": "#7a3a91",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_iMYM47",
+    "rich_text_krHxMh",
+    "featured_collection_zEAzmQ",
+    "rich_text_6mUq9H",
+    "before_after_image_gM7nBF",
+    "rich_text_qiTzdE",
+    "shoppable_video_93VtDd"
+  ]
+}
