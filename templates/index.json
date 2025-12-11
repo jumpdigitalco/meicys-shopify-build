@@ -382,7 +382,7 @@
         "show_progress_bar": true,
         "enable_overflow_visible": true,
         "products_to_show": 10,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_gap": 3,
         "columns_mobile": "2",
         "column_gap_mobile": 2,
