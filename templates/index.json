@@ -325,7 +325,7 @@
         "bg_color": "rgba(0,0,0,0)",
         "text_color": "",
         "padding_top": 20,
-        "padding_bottom": 40,
+        "padding_bottom": 20,
         "enable_horizontal_scroll_mobile": true
       }
     },
