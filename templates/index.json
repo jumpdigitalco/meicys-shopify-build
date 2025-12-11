@@ -245,6 +245,47 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
+    "rich_text_dfVGq3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_with_image_xRn9Yb": {
+          "type": "text_with_image",
+          "settings": {
+            "text": "[img1] HECHO EN COLOMBIA  [img2]  LIBRE DE MALTRATO ANIMAL [img5] APROBADO POR PROFESIONALES [img3] INGREDIENTES DE ALTA CALIDAD",
+            "heading_size": "h6",
+            "line_height": 4,
+            "enable_rounded": false,
+            "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
+            "image_width_1": 60,
+            "url_1": "",
+            "image_2": "shopify://shop_images/cruelty-free.jpg",
+            "image_width_2": 60,
+            "url_2": "",
+            "image_3": "shopify://shop_images/ingredientes-alta-calidad.jpg",
+            "image_width_3": 60,
+            "url_3": "",
+            "image_width_4": 60,
+            "url_4": "",
+            "image_5": "shopify://shop_images/aprobado-profesional_34e52a53-e675-40df-87bc-dd7e77d5f943.jpg",
+            "image_width_5": 60,
+            "url_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_with_image_xRn9Yb"
+      ],
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "container",
+        "content_alignment": "center",
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
     "featured_collection_atTfjK": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -286,47 +327,6 @@
         "text_color": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_dfVGq3": {
-      "type": "rich-text",
-      "blocks": {
-        "text_with_image_xRn9Yb": {
-          "type": "text_with_image",
-          "settings": {
-            "text": "[img1] HECHO EN COLOMBIA  [img2]  LIBRE DE MALTRATO ANIMAL [img5] APROBADO POR PROFESIONALES [img3] INGREDIENTES DE ALTA CALIDAD",
-            "heading_size": "h6",
-            "line_height": 4,
-            "enable_rounded": false,
-            "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
-            "image_width_1": 60,
-            "url_1": "",
-            "image_2": "shopify://shop_images/cruelty-free.jpg",
-            "image_width_2": 60,
-            "url_2": "",
-            "image_3": "shopify://shop_images/ingredientes-alta-calidad.jpg",
-            "image_width_3": 60,
-            "url_3": "",
-            "image_width_4": 60,
-            "url_4": "",
-            "image_5": "shopify://shop_images/aprobado-profesional_34e52a53-e675-40df-87bc-dd7e77d5f943.jpg",
-            "image_width_5": 60,
-            "url_5": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_with_image_xRn9Yb"
-      ],
-      "settings": {
-        "section_width": "w-full",
-        "content_width": "container",
-        "content_alignment": "center",
-        "bg_color": "rgba(0,0,0,0)",
-        "text_color": "",
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "enable_horizontal_scroll_mobile": true
       }
     },
     "collection_tabs_wThRhf": {
@@ -418,74 +418,6 @@
         "text_color": "",
         "padding_top": 20,
         "padding_bottom": 12,
-        "enable_horizontal_scroll_mobile": true
-      }
-    },
-    "featured_collection_dDFbQC": {
-      "type": "featured-collection",
-      "name": "Últimos lanzamientos",
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Últimos lanzamientos",
-        "heading_tag": "h2",
-        "heading_size_section": "h3",
-        "description": "",
-        "layout": "horizontal",
-        "collection": "lanzamientos",
-        "products": [
-          "pre-shampoo-250ml",
-          "shampoo-reanimador-keratina-550ml",
-          "shampoo-restaurador-gusano-de-seda-550ml",
-          "shampoo-antipolucion-detox-550ml",
-          "shampoo-crece-pelo-equino-550ml",
-          "balsamo-acondicionador-antiquiebre-550ml",
-          "tonico-anticaida-y-control-caspa-x150ml"
-        ],
-        "link_url": "",
-        "link_text": "",
-        "button_type": "primary",
-        "show_icon": false,
-        "enable_stack_products": true,
-        "show_progress_bar": false,
-        "enable_overflow_visible": false,
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "column_gap": 3,
-        "columns_mobile": "2",
-        "column_gap_mobile": 2,
-        "swipe_on_mobile": false,
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_T43zQ7": {
-      "type": "rich-text",
-      "blocks": {
-        "button_XhjawH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Ver más",
-            "button_link": "shopify://collections/lanzamientos",
-            "button_type": "primary",
-            "show_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "button_XhjawH"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "section_width": "w-full",
-        "content_width": "max-w-4xl",
-        "content_alignment": "center",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 0,
-        "padding_bottom": 36,
         "enable_horizontal_scroll_mobile": true
       }
     },
@@ -603,6 +535,74 @@
         "text_color": "rgba(0,0,0,0)",
         "padding_top": 44,
         "padding_bottom": 68
+      }
+    },
+    "featured_collection_dDFbQC": {
+      "type": "featured-collection",
+      "name": "Últimos lanzamientos",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Últimos lanzamientos",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "horizontal",
+        "collection": "lanzamientos",
+        "products": [
+          "pre-shampoo-250ml",
+          "shampoo-reanimador-keratina-550ml",
+          "shampoo-restaurador-gusano-de-seda-550ml",
+          "shampoo-antipolucion-detox-550ml",
+          "shampoo-crece-pelo-equino-550ml",
+          "balsamo-acondicionador-antiquiebre-550ml",
+          "tonico-anticaida-y-control-caspa-x150ml"
+        ],
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_T43zQ7": {
+      "type": "rich-text",
+      "blocks": {
+        "button_XhjawH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver más",
+            "button_link": "shopify://collections/lanzamientos",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "button_XhjawH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
       }
     },
     "collection_list_BTc3rm": {
@@ -1390,7 +1390,7 @@
           "type": "video",
           "settings": {
             "video_hosted": "shopify://files/videos/AhaTok_meicyscolombia_9f4b8317-51a3-43d9-8891-7588989197cc_.mp4",
-            "product": "kit-keraton-supreme-aliss-1200ml"
+            "product": "kit-maxi-laxios-210ml"
           }
         },
         "video_nzz3XA": {
