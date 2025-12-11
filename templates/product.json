@@ -129,7 +129,7 @@
             "image_2": "shopify://shop_images/Sello-Vitamina-E.png",
             "heading_2": "{{ product.metafields.custom.texto_sello_2.value }}",
             "icon_3": "none",
-            "image_3": "{{ product.metafields.custom.imagen_sello_3.value }}",
+            "image_3": "shopify://shop_images/Sello-Hidratacion-24-Horas.png",
             "heading_3": "{{ product.metafields.custom.texto_sello_3.value }}",
             "icon_4": "none",
             "image_4": "{{ product.metafields.custom.imagen_sello_4.value }}",
