@@ -22,6 +22,7 @@ if active_brand != false
 endif
 -%}
 <!--pagina_principal: {{ active_brand.value.pagina_principal }}-->
+<!--pagina_principal 2: {{ pages[active_brand.value.pagina_principal].url }}-->
 <!--page_link: {{ page_link }}-->
 
 {%- if request.page_type == 'index' -%}
