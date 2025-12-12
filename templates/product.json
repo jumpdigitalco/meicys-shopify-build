@@ -64,6 +64,7 @@
         },
         "icon_with_text_6bTTF3": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "vertical",
             "icon_size": 20,
@@ -179,6 +180,7 @@
         },
         "collapsible_tab_bVRE3V": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Carta de color",
             "heading_size": "h6",
