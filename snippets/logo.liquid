@@ -18,7 +18,7 @@ endif
 
 if active_brand != false
   assign page_logo = active_brand.value.logo_header
-  assign page_link = active_brand.value.pagina_principal.url | default: '/'
+  assign page_link = pages[active_brand.value.pagina_principal].url | default: '/'
 endif
 -%}
 <!--pagina_principal: {{ active_brand.value.pagina_principal }}-->
