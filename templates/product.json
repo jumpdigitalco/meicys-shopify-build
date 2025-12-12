@@ -123,12 +123,16 @@
             "layout": "horizontal",
             "icon_size": 50,
             "icon_1": "none",
+            "image_1": "{{ product.metafields.custom.imagen_sello_1.value }}",
             "heading_1": "{{ product.metafields.custom.texto_sello_1.value }}",
             "icon_2": "none",
+            "image_2": "{{ product.metafields.custom.imagen_sello_2.value }}",
             "heading_2": "{{ product.metafields.custom.texto_sello_2.value }}",
             "icon_3": "none",
+            "image_3": "{{ product.metafields.custom.imagen_sello_3.value }}",
             "heading_3": "{{ product.metafields.custom.texto_sello_3.value }}",
             "icon_4": "none",
+            "image_4": "{{ product.metafields.custom.imagen_sello_4.value }}",
             "heading_4": "{{ product.metafields.custom.texto_sello_4.value }}"
           }
         },
