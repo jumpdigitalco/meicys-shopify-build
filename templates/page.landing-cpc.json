@@ -53,6 +53,35 @@
             "button_type_2": "primary"
           }
         },
+        "slide_hwdt6j": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_1920X420_CPC.jpg",
+            "mobile_image": "shopify://shop_images/banner_600x360_CPC_px.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
         "slide_nd9BD7": {
           "type": "slide",
           "disabled": true,
@@ -86,6 +115,7 @@
       },
       "block_order": [
         "slide_eg3dJr",
+        "slide_hwdt6j",
         "slide_nd9BD7"
       ],
       "name": "Slideshow",
