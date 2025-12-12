@@ -18,9 +18,10 @@ endif
 
 if active_brand != false
   assign page_logo = active_brand.value.logo_header
+  assign page_link = active_brand.value.pagina_principal.url | default: '/'
 endif
 -%}
-
+<!--page_link: {{ page_link }}-->
 
 {%- if request.page_type == 'index' -%}
         <h1 class="header__heading">
