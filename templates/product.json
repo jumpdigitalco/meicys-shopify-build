@@ -176,7 +176,6 @@
         },
         "collapsible_tab_bVRE3V": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Carta de color",
             "heading_size": "h6",
