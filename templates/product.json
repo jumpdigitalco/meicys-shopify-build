@@ -180,7 +180,7 @@
             "heading": "Carta de color",
             "heading_size": "h6",
             "icon": "none",
-            "content": "{{ product.metafields.custom.ingredientes | metafield_tag }}",
+            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\" target=\"_blank\" title=\"Carta de Color Meicy's Professional\">Descargar carta de color</a></p>",
             "content_liquid": "",
             "page": "",
             "open_by_default": false
