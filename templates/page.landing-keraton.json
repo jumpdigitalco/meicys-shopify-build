@@ -111,6 +111,35 @@
             "button_type_2": "primary"
           }
         },
+        "slide_TpqDhK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_1920X420_KERATOUCH.jpg",
+            "mobile_image": "shopify://shop_images/banner_600x360_KERATOUC_px.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 400,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
         "slide_iTGGcH": {
           "type": "slide",
           "disabled": true,
@@ -146,6 +175,7 @@
         "slide_8RBCgp",
         "slide_47eiaW",
         "slide_BmcRrQ",
+        "slide_TpqDhK",
         "slide_iTGGcH"
       ],
       "name": "Slideshow",
