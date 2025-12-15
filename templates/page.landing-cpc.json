@@ -58,7 +58,7 @@
           "settings": {
             "image": "shopify://shop_images/BANNER_1920X420_CPC.jpg",
             "mobile_image": "shopify://shop_images/banner_600x360_CPC_px.jpg",
-            "slide_link": "",
+            "slide_link": "https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Cpc.pdf?v=1765542342",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
