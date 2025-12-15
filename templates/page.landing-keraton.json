@@ -116,7 +116,7 @@
           "settings": {
             "image": "shopify://shop_images/BANNER_1920X420_KERATOUCH.jpg",
             "mobile_image": "shopify://shop_images/banner_600x360_KERATOUC_px.jpg",
-            "slide_link": "",
+            "slide_link": "https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Keraton-Touch.pdf?v=1765542341",
             "video_background": false,
             "content_width": 400,
             "content_position": "middle-center",
