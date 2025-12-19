@@ -297,7 +297,7 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
-    "featured_collection_Lk73eF": {
+    "featured_collection_Ex4cwb": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
@@ -308,12 +308,20 @@
         "heading_size_section": "h2",
         "description": "",
         "layout": "horizontal",
-        "collection": "tratamientos-keraton",
-        "products": [],
-        "link_url": "",
-        "link_text": "",
+        "collection": "",
+        "products": [
+          "tratamiento-reestructurante-400ml",
+          "tratamiento-mais-crespos-1000ml",
+          "tratamiento-mais-crespos-kids-1000ml",
+          "tratamiento-vegano-bioenergized-jengibre-coco-1000ml",
+          "tratamiento-vegano-mais-lisos-500ml",
+          "tratamiento-vegano-carbon-activado-500ml",
+          "tratamiento-vegano-cebolla-500ml"
+        ],
+        "link_url": "shopify://collections/tratamientos-keraton",
+        "link_text": "Ver todos",
         "button_type": "primary",
-        "show_icon": false,
+        "show_icon": true,
         "enable_stack_products": true,
         "show_progress_bar": false,
         "enable_overflow_visible": false,
@@ -327,34 +335,6 @@
         "text_color": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_NgfLw6": {
-      "type": "rich-text",
-      "blocks": {
-        "button_VCCNTx": {
-          "type": "button",
-          "settings": {
-            "button_label": "Ver tratamientos",
-            "button_link": "shopify://collections/tratamientos-keraton",
-            "button_type": "primary",
-            "show_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "button_VCCNTx"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "section_width": "w-full",
-        "content_width": "max-w-4xl",
-        "content_alignment": "center",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 0,
-        "padding_bottom": 36,
-        "enable_horizontal_scroll_mobile": true
       }
     },
     "before_after_image_gM7nBF": {
@@ -506,8 +486,7 @@
     "rich_text_krHxMh",
     "featured_collection_zEAzmQ",
     "rich_text_6mUq9H",
-    "featured_collection_Lk73eF",
-    "rich_text_NgfLw6",
+    "featured_collection_Ex4cwb",
     "before_after_image_gM7nBF",
     "rich_text_qiTzdE",
     "shoppable_video_93VtDd"
