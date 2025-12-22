@@ -602,7 +602,7 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "company_label": "Cédula de Ciudadanía (si es menor a 8 dígitos, ingresar los números del 1 al 8 para poder continuar)"
+        "company_label": "Cédula de Ciudadanía (menor a 8 dígitos, ingresar los números del 1 al 8)"
       },
       "field_errors": {
         "address_company_blank": "Ingresa un número o documento"
