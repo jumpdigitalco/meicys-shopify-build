@@ -267,7 +267,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ver más",
-            "button_link": "shopify://collections/capilar-vizio",
+            "button_link": "shopify://collections/tratamientos-vizio",
             "button_type": "primary",
             "show_icon": true
           }
