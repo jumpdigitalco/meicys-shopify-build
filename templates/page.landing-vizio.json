@@ -291,13 +291,6 @@
     "collection_tabs_dggYgR": {
       "type": "collection-tabs",
       "blocks": {
-        "collection_eTQNzB": {
-          "type": "collection",
-          "settings": {
-            "collection": "splash-for-men-vizio",
-            "tab_heading": "For Men"
-          }
-        },
         "collection_6WRTDx": {
           "type": "collection",
           "settings": {
@@ -305,11 +298,18 @@
             "tab_heading": "Finalizadores"
           }
         },
-        "collection_GkWkqD": {
+        "collection_rDYCkj": {
           "type": "collection",
           "settings": {
             "collection": "mascarillas-vizio",
             "tab_heading": "Mascarillas"
+          }
+        },
+        "collection_GkWkqD": {
+          "type": "collection",
+          "settings": {
+            "collection": "splash-for-men-vizio",
+            "tab_heading": "For Men"
           }
         },
         "collection_tiA9QP": {
@@ -322,8 +322,8 @@
         }
       },
       "block_order": [
-        "collection_eTQNzB",
         "collection_6WRTDx",
+        "collection_rDYCkj",
         "collection_GkWkqD",
         "collection_tiA9QP"
       ],
