@@ -97,7 +97,7 @@
           "settings": {
             "text": "Carta de color",
             "icon": "clipboard",
-            "content": "<p><a href=\"https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\" title=\"https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\">Carta de color</a></p>",
+            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\">Carta de color</a></p>",
             "content_liquid": "",
             "page": ""
           }
