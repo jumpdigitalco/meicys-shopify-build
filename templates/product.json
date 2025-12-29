@@ -92,6 +92,16 @@
           "type": "siblings",
           "settings": {}
         },
+        "popup_yAtjxt": {
+          "type": "popup",
+          "settings": {
+            "text": "Carta de color",
+            "icon": "clipboard",
+            "content": "<p><a href=\"https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\" title=\"https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\">Carta de color</a></p>",
+            "content_liquid": "",
+            "page": ""
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -176,16 +186,6 @@
             "content_liquid": "",
             "page": "",
             "open_by_default": false
-          }
-        },
-        "popup_yAtjxt": {
-          "type": "popup",
-          "settings": {
-            "text": "Carta de color",
-            "icon": "clipboard",
-            "content": "<p><a href=\"https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\" title=\"https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\">Carta de color</a></p>",
-            "content_liquid": "",
-            "page": ""
           }
         },
         "collapsible_tab_bVRE3V": {
@@ -276,6 +276,7 @@
         "icon_with_text_6bTTF3",
         "inventory_xyPUV8",
         "siblings_j3h7Cg",
+        "popup_yAtjxt",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -283,7 +284,6 @@
         "icon_with_text_mQXfbR",
         "collapsible_tab_tx4TEM",
         "collapsible_tab_6kicUP",
-        "popup_yAtjxt",
         "collapsible_tab_bVRE3V",
         "collapsible_tab_aekAUd",
         "collapsible_tab_WMBDKa",
