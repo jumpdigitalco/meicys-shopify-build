@@ -62,6 +62,12 @@
             "text_style": "uppercase"
           }
         },
+        "custom_liquid_WQWc8d": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.tags contains 'carta-color-meicys-pdf' %}\n  <p><a href=\"https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\">Descargar Carta de Color Meicy's</a></p>\n{% endif %}"
+          }
+        },
         "icon_with_text_6bTTF3": {
           "type": "icon-with-text",
           "disabled": true,
@@ -263,6 +269,7 @@
         "price",
         "rich_text_gJV7TU",
         "sku_yqmVAY",
+        "custom_liquid_WQWc8d",
         "icon_with_text_6bTTF3",
         "inventory_xyPUV8",
         "siblings_j3h7Cg",
