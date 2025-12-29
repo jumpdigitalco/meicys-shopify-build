@@ -352,6 +352,34 @@
         "padding_bottom": 4
       }
     },
+    "rich_text_N4r9ag": {
+      "type": "rich-text",
+      "blocks": {
+        "button_UBfFbm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver todo",
+            "button_link": "shopify://collections/capilar-vizio",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "button_UBfFbm"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 20,
+        "padding_bottom": 12,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
     "before_after_image_nztkhg": {
       "type": "before-after-image",
       "blocks": {
@@ -475,6 +503,7 @@
     "collection_list_9rkjej",
     "rich_text_cqEKwG",
     "collection_tabs_dggYgR",
+    "rich_text_N4r9ag",
     "before_after_image_nztkhg",
     "shoppable_video_MD4UR8"
   ]
