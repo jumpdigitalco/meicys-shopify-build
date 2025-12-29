@@ -62,13 +62,6 @@
             "text_style": "uppercase"
           }
         },
-        "text_MVrXk4": {
-          "type": "text",
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
         "custom_liquid_WQWc8d": {
           "type": "custom_liquid",
           "settings": {
@@ -276,7 +269,6 @@
         "price",
         "rich_text_gJV7TU",
         "sku_yqmVAY",
-        "text_MVrXk4",
         "custom_liquid_WQWc8d",
         "icon_with_text_6bTTF3",
         "inventory_xyPUV8",
