@@ -92,16 +92,6 @@
           "type": "siblings",
           "settings": {}
         },
-        "popup_yAtjxt": {
-          "type": "popup",
-          "settings": {
-            "text": "Carta de color{{ product.metafields.shopify[\"color-pattern\"] | metafield_text: field: 'label' }}",
-            "icon": "clipboard",
-            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\" target=\"_blank\" title=\"https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Meicys-Professional.pdf?v=1765542343\">Carta de color</a></p>",
-            "content_liquid": "",
-            "page": ""
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -276,7 +266,6 @@
         "icon_with_text_6bTTF3",
         "inventory_xyPUV8",
         "siblings_j3h7Cg",
-        "popup_yAtjxt",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
