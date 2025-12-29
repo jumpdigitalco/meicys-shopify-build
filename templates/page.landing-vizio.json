@@ -288,6 +288,70 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
+    "collection_tabs_dggYgR": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_eTQNzB": {
+          "type": "collection",
+          "settings": {
+            "collection": "tratamientos-vizio",
+            "tab_heading": "Tratamientos"
+          }
+        },
+        "collection_6WRTDx": {
+          "type": "collection",
+          "settings": {
+            "collection": "finalizadores-vizio",
+            "tab_heading": "Finalizadores"
+          }
+        },
+        "collection_GkWkqD": {
+          "type": "collection",
+          "settings": {
+            "collection": "mascarillas-vizio",
+            "tab_heading": "Mascarillas"
+          }
+        },
+        "collection_tiA9QP": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "decolorante-meicys",
+            "tab_heading": "Decolorantes"
+          }
+        }
+      },
+      "block_order": [
+        "collection_eTQNzB",
+        "collection_6WRTDx",
+        "collection_GkWkqD",
+        "collection_tiA9QP"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Los más vendidos",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "enable_uppercase": true,
+        "tabs_font_family": "headings_font",
+        "layout": "horizontal",
+        "enable_stack_products": false,
+        "show_progress_bar": true,
+        "enable_overflow_visible": true,
+        "products_to_show": 10,
+        "columns_desktop": 3,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": true,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
     "before_after_image_nztkhg": {
       "type": "before-after-image",
       "blocks": {
@@ -410,6 +474,7 @@
     "featured_collection_BB3PUi",
     "collection_list_9rkjej",
     "rich_text_cqEKwG",
+    "collection_tabs_dggYgR",
     "before_after_image_nztkhg",
     "shoppable_video_MD4UR8"
   ]
