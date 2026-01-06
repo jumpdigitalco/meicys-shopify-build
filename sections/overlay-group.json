@@ -1,1 +1,139 @@
-{"name":"Overlay group","type":"aside","sections":{"newsletter-popup":{"type":"newsletter-popup","blocks":{"subheading_RrFihP":{"type":"subheading","settings":{"subheading":"Suscríbete ahora"}},"heading_MfyeWY":{"type":"heading","settings":{"heading":"y recibe un 10% Off en tu primera compra","heading_tag":"div","heading_size":"h4"}},"form_LT7H6D":{"type":"form","settings":{"design":"column","button_type":"primary","show_icon":false}},"text_MiDEcm":{"type":"text","disabled":true,"settings":{"description":"<p>Sé el primero en enterarte de nuestras novedades, descuentos y lanzamientos<\/p>"}},"social_sharing_cEpyFA":{"type":"social_sharing","disabled":true,"settings":{}}},"block_order":["subheading_RrFihP","heading_MfyeWY","form_LT7H6D","text_MiDEcm","social_sharing_cEpyFA"],"settings":{"design_mode":false,"enable_popup":true,"show_only_home_page":false,"show_for_visitors_only":true,"delay_time":5,"repeat_open":30,"image":"shopify:\/\/shop_images\/pop-up-meicys-desktop.jpg","image_size":420,"image_position":"right","text_alignment":"center","position":"center","enable_trigger_button":true,"trigger_button_text":"Recibe 10% off","show_image_mobile":false,"image_size_mobile":300,"bg_color":"#ffffff","text_color":"#000000","border_color_newsletter":"#d8dce5","bg_color_trigger":"#d895eb","text_color_trigger":"#ffffff"}},"age-verifier-popup":{"type":"age-verifier-popup","blocks":{"heading_YLCTbG":{"type":"heading","settings":{"heading":"Are you over 18 years old?","heading_size":"h2"}},"content_ygHAcp":{"type":"content","settings":{"content":"Please confirm that you are 18 years or older to enter the shop."}},"buttons_4rAt8y":{"type":"buttons","settings":{"confirm_button_text":"Yes, I am over 18","confirm_button_type":"primary","deny_button_text":"No, I am not","deny_button_type":"secondary"}}},"block_order":["heading_YLCTbG","content_ygHAcp","buttons_4rAt8y"],"disabled":true,"settings":{"design_mode":false,"enable_popup":true,"blur_image":true,"decline_heading":"Come back when you're older","content":"<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>","return_button_text":"Oops, I entered incorrectly","return_button_type":"secondary","bg_color":"#ffffff","text_color":"#000000"}},"whatsapp_link_A6X9GQ":{"type":"whatsapp-link","name":"Whatsapp","settings":{"image":"shopify:\/\/shop_images\/whatsapp-verde-icon-redimension50.svg","link_img":"https:\/\/api.whatsapp.com\/send\/?phone=573153921000"}}},"order":["newsletter-popup","age-verifier-popup","whatsapp_link_A6X9GQ"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Overlay group",
+  "type": "aside",
+  "sections": {
+    "newsletter-popup": {
+      "type": "newsletter-popup",
+      "blocks": {
+        "subheading_RrFihP": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Suscríbete ahora"
+          }
+        },
+        "heading_MfyeWY": {
+          "type": "heading",
+          "settings": {
+            "heading": "y recibe un 10% Off en tu primera compra",
+            "heading_tag": "div",
+            "heading_size": "h4"
+          }
+        },
+        "form_LT7H6D": {
+          "type": "form",
+          "settings": {
+            "design": "column",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        },
+        "text_MiDEcm": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "description": "<p>Sé el primero en enterarte de nuestras novedades, descuentos y lanzamientos</p>"
+          }
+        },
+        "social_sharing_cEpyFA": {
+          "type": "social_sharing",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "subheading_RrFihP",
+        "heading_MfyeWY",
+        "form_LT7H6D",
+        "text_MiDEcm",
+        "social_sharing_cEpyFA"
+      ],
+      "settings": {
+        "design_mode": false,
+        "enable_popup": true,
+        "show_only_home_page": false,
+        "show_for_visitors_only": true,
+        "delay_time": 5,
+        "repeat_open": 30,
+        "image": "shopify://shop_images/pop-up-meicys-desktop.jpg",
+        "image_size": 420,
+        "image_position": "right",
+        "text_alignment": "center",
+        "position": "center",
+        "enable_trigger_button": true,
+        "trigger_button_text": "Recibe 10% off",
+        "show_image_mobile": false,
+        "image_size_mobile": 300,
+        "bg_color": "#ffffff",
+        "text_color": "#000000",
+        "border_color_newsletter": "#d8dce5",
+        "bg_color_trigger": "#d895eb",
+        "text_color_trigger": "#ffffff"
+      }
+    },
+    "age-verifier-popup": {
+      "type": "age-verifier-popup",
+      "blocks": {
+        "heading_YLCTbG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Are you over 18 years old?",
+            "heading_size": "h2"
+          }
+        },
+        "content_ygHAcp": {
+          "type": "content",
+          "settings": {
+            "content": "Please confirm that you are 18 years or older to enter the shop."
+          }
+        },
+        "buttons_4rAt8y": {
+          "type": "buttons",
+          "settings": {
+            "confirm_button_text": "Yes, I am over 18",
+            "confirm_button_type": "primary",
+            "deny_button_text": "No, I am not",
+            "deny_button_type": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YLCTbG",
+        "content_ygHAcp",
+        "buttons_4rAt8y"
+      ],
+      "settings": {
+        "design_mode": false,
+        "enable_popup": true,
+        "blur_image": true,
+        "decline_heading": "Come back when you're older",
+        "content": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.</p>",
+        "return_button_text": "Oops, I entered incorrectly",
+        "return_button_type": "secondary",
+        "bg_color": "#ffffff",
+        "text_color": "#000000"
+      }
+    },
+    "whatsapp_link_A6X9GQ": {
+      "type": "whatsapp-link",
+      "name": "Whatsapp",
+      "settings": {
+        "image": "shopify://shop_images/whatsapp-verde-icon-redimension50.svg",
+        "link_img": "https://api.whatsapp.com/send/?phone=573153921000"
+      }
+    }
+  },
+  "order": [
+    "newsletter-popup",
+    "age-verifier-popup",
+    "whatsapp_link_A6X9GQ"
+  ]
+}
