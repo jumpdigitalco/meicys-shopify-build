@@ -85,18 +85,19 @@
         "heading_YLCTbG": {
           "type": "heading",
           "settings": {
-            "heading": "Are you over 18 years old?",
+            "heading": "Estamos en inventario",
             "heading_size": "h2"
           }
         },
         "content_ygHAcp": {
           "type": "content",
           "settings": {
-            "content": "Please confirm that you are 18 years or older to enter the shop."
+            "content": "Los despachos se retomarán a partir del martes 13 de enero. Si tienes dudas, escríbenos al 3153921000."
           }
         },
         "buttons_4rAt8y": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "confirm_button_text": "Yes, I am over 18",
             "confirm_button_type": "primary",
