@@ -130,11 +130,30 @@
         "image": "shopify://shop_images/whatsapp-verde-icon-redimension50.svg",
         "link_img": "https://api.whatsapp.com/send/?phone=573153921000"
       }
+    },
+    "wave_text_WYCG6w": {
+      "type": "wave-text",
+      "name": "Wave text",
+      "settings": {
+        "path_type": "path-1",
+        "wave_scale": 30,
+        "wave_scale_mobile": 200,
+        "wave_text_type": "static",
+        "scroll_speed": 5,
+        "scroll_direction": "reverse",
+        "text": "Nimbus designs and creates ‘Contemporary Conscious Clothing’ responsibly, using luxury fabrics, for modern women. We value our community, and we seek to celebrate and support the work of local designers, architects and artists who share an appreciation for thoughtful, minimalist design",
+        "font_size": "body-1",
+        "bg_color": "#FCE6CD",
+        "text_color": "#000000",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "newsletter-popup",
     "age-verifier-popup",
-    "whatsapp_link_A6X9GQ"
+    "whatsapp_link_A6X9GQ",
+    "wave_text_WYCG6w"
   ]
 }
