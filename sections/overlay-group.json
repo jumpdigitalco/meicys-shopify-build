@@ -97,6 +97,7 @@
         },
         "buttons_4rAt8y": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "confirm_button_text": "Yes, I am over 18",
             "confirm_button_type": "primary",
