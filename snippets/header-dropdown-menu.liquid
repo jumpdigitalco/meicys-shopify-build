@@ -159,19 +159,7 @@ endif
               {%- endif -%}
         {%- else -%}
           <a
-  href="{{ home_url }}"
-  class="header__menu-item list-menu__item focus-inset h-full relative {% if link.current %} header__active-menu-item {% endif %}"
-
-
-
-{% if link.title == 'Home' %}
-  {% if active_brand != false and active_brand.value.page_handle != blank %}
-    {% assign home_url = '/pages/' | append: active_brand.value.page_handle %}
-  {% else %}
-    {% assign home_url = routes.root_url %}
-  {% endif %}
-{% endif %}
-
+            href="{{ link.url }}"
             class="header__menu-item list-menu__item focus-inset h-full relative {% if link.current %} header__active-menu-item {% endif %}"
             {% if link.current %}
               aria-current="page"
