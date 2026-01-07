@@ -7039,9 +7039,10 @@ volume-pricing show-more-button {
   }
 }
 
-/* Header pastel para páginas internas (Tienda, Productos, Páginas) */
-.template-collection .header,
-.template-product .header,
-.template-page .header {
-  background-color: #e2c2eb; /* reemplaza por tu pastel exacto */
+/* Header pastel SOLO para Meicy's */
+body[data-brand="meicys"] .template-collection .header,
+body[data-brand="meicys"] .template-product .header,
+body[data-brand="meicys"] .template-page .header {
+  background-color: #E2C2EB;
 }
+
