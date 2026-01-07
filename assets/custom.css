@@ -64,7 +64,7 @@ body.template-page-landing-keraton
 @media (max-width: 768px) {
   body.template-page-landing-keraton 
   .header__heading-logo {
-    transform: scale(1.25);
+    transform: scale(1.20);
   }
 }
 
@@ -83,7 +83,7 @@ body.template-page-landing-keraton
 @media (max-width: 768px) {
   body.template-page-landing-keraton 
   .header__heading-logo {
-    transform: scale(1.25) translateY(3px);
+    transform: scale(1.20) translateY(2px);
   }
 }
 
