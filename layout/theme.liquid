@@ -61,7 +61,6 @@
   </head>
 
   <body class="template-{{ template | replace: '.', '-' | handle }} type-anim-{{ settings.animations_style }}">
-    data-brand="{{ request.path | split: '/' | last }}"
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>
