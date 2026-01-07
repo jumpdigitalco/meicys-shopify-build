@@ -153,7 +153,7 @@
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
             "button_text_1": "Compra ahora",
-            "button_link_1": "shopify://collections/tintes-permanentes-keraton",
+            "button_link_1": "shopify://collections/tintes-keraton",
             "button_type_1": "primary",
             "button_text_2": "",
             "button_link_2": "",
