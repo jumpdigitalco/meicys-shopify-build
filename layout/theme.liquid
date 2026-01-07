@@ -60,7 +60,16 @@
 
   </head>
 
-  <body class="template-{{ template | replace: '.', '-' | handle }} type-anim-{{ settings.animations_style }}">
+  <body
+  class="template-{{ template | replace: '.', '-' | handle }} type-anim-{{ settings.animations_style }}"
+  {% if template == 'collection' and collection.metafields.custom.marca != blank %}
+    data-brand="{{ collection.metafields.custom.marca.value.handle }}"
+  {% elsif template == 'product' and product.metafields.custom.marca != blank %}
+    data-brand="{{ product.metafields.custom.marca.value.handle }}"
+  {% elsif template contains 'page' and page.metafields.custom.marca != blank %}
+    data-brand="{{ page.metafields.custom.marca.value.handle }}"
+  {% endif %}
+>
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>
