@@ -7039,3 +7039,9 @@ volume-pricing show-more-button {
   }
 }
 
+/* Header pastel SOLO para Meicy's */
+body[data-brand="meicys"] header,
+body[data-brand="meicys"] .header,
+body[data-brand="meicys"] .section-header {
+  background-color: #E2C2EB; /* el pastel correcto */
+}
