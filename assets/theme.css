@@ -7039,10 +7039,3 @@ volume-pricing show-more-button {
   }
 }
 
-/* Header pastel SOLO para Meicy's */
-body[data-brand="meicys"] .template-collection .header,
-body[data-brand="meicys"] .template-product .header,
-body[data-brand="meicys"] .template-page .header {
-  background-color:rgb(144, 75, 163);
-}
-
