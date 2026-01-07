@@ -7043,6 +7043,6 @@ volume-pricing show-more-button {
 body[data-brand="meicys"] .template-collection .header,
 body[data-brand="meicys"] .template-product .header,
 body[data-brand="meicys"] .template-page .header {
-  background-color: #E2C2EB;
+  background-color:rgb(144, 75, 163);
 }
 
