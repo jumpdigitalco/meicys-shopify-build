@@ -51,9 +51,3 @@
   color: #ffffff;
 }
 
-/* Fix color PQR's – menú Tienda Vizio */
-.template-collection a[href*="pqr"],
-.collection-vizio a[href*="pqr"],
-.template-collection-vizio a[href*="pqr"] {
-  color: #ffffff;
-}
