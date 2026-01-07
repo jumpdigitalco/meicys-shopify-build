@@ -51,3 +51,19 @@
   color: #ffffff;
 }
 
+/* ================================
+   Ajuste logo SOLO en Keraton
+================================ */
+
+body.template-page-landing-keraton 
+.header__heading-logo {
+  transform: scale(1.15);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  body.template-page-landing-keraton 
+  .header__heading-logo {
+    transform: scale(1.25);
+  }
+}
