@@ -171,6 +171,7 @@
     },
     "whatsapp_link_A6X9GQ": {
       "type": "whatsapp-link",
+      "disabled": true,
       "name": "Whatsapp",
       "settings": {
         "image": "shopify://shop_images/whatsapp-verde-icon-redimension50.svg",
