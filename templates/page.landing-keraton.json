@@ -215,7 +215,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ver tintes",
-            "button_link": "shopify://collections/tintes-permanentes-keraton",
+            "button_link": "shopify://collections/tintes-keraton",
             "button_type": "primary",
             "show_icon": true
           }
