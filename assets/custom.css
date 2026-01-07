@@ -51,3 +51,15 @@
   color: #ffffff;
 }
 
+/* ===== VIZIO MENU FIX ===== */
+
+/* Landing */
+.template-page-landing-vizio a[href*="pqr"] {
+  color: #ffffff;
+}
+
+/* Tienda */
+.collection-vizio a[href*="pqr"],
+.template-collection-vizio a[href*="pqr"] {
+  color: #ffffff;
+}
