@@ -67,3 +67,23 @@ body.template-page-landing-keraton
     transform: scale(1.25);
   }
 }
+
+/* Centrado visual del logo – Keraton */
+body.template-page-landing-keraton 
+.header__logo {
+  display: flex;
+  align-items: center;
+}
+
+body.template-page-landing-keraton 
+.header__heading-logo {
+  transform: scale(1.15) translateY(2px);
+}
+
+@media (max-width: 768px) {
+  body.template-page-landing-keraton 
+  .header__heading-logo {
+    transform: scale(1.25) translateY(3px);
+  }
+}
+
