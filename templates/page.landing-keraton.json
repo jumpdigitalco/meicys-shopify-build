@@ -87,7 +87,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-principal-keraton-touch-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-keraton-touch-mobile.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/tintes-sin-amoniaco-keraton",
             "video_background": false,
             "content_width": 400,
             "content_position": "middle-center",
