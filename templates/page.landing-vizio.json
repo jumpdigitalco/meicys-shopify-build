@@ -29,7 +29,7 @@
           "settings": {
             "image": "shopify://shop_images/BANNER_1920X420_MARCA_VIZIO.jpg",
             "mobile_image": "shopify://shop_images/banner_600x360px_VIZIO.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/tratamientos-vizio",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
