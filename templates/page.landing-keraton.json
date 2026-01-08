@@ -29,7 +29,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-principal-keraton-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-keraton-mobile.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/tintes-permanentes-keraton",
             "video_background": false,
             "content_width": 660,
             "content_position": "middle-center",
@@ -53,12 +53,12 @@
             "button_type_2": "primary"
           }
         },
-        "slide_47eiaW": {
+        "slide_BmcRrQ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/banner-principal-keraton-touch-desktop.jpg",
-            "mobile_image": "shopify://shop_images/banner-principal-keraton-touch-mobile.jpg",
-            "slide_link": "",
+            "image": "shopify://shop_images/BANNER_1920X420_KERATON.jpg",
+            "mobile_image": "shopify://shop_images/banner_600x360_KERATON_px.jpg",
+            "slide_link": "https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Keraton-Permanente.pdf?v=1765542342",
             "video_background": false,
             "content_width": 400,
             "content_position": "middle-center",
@@ -82,12 +82,12 @@
             "button_type_2": "primary"
           }
         },
-        "slide_BmcRrQ": {
+        "slide_47eiaW": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/BANNER_1920X420_KERATON.jpg",
-            "mobile_image": "shopify://shop_images/banner_600x360_KERATON_px.jpg",
-            "slide_link": "https://cdn.shopify.com/s/files/1/0642/6283/2199/files/Carta-color-Keraton-Permanente.pdf?v=1765542342",
+            "image": "shopify://shop_images/banner-principal-keraton-touch-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-keraton-touch-mobile.jpg",
+            "slide_link": "",
             "video_background": false,
             "content_width": 400,
             "content_position": "middle-center",
@@ -173,8 +173,8 @@
       },
       "block_order": [
         "slide_8RBCgp",
-        "slide_47eiaW",
         "slide_BmcRrQ",
+        "slide_47eiaW",
         "slide_TpqDhK",
         "slide_iTGGcH"
       ],
