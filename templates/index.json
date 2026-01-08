@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-principal-meicys-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-meicys-mobile.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/tintes-meicys",
             "video_background": false,
             "content_width": 600,
             "content_position": "middle-center",
