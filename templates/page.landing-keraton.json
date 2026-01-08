@@ -397,38 +397,62 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_Jg7djz": {
-      "type": "featured-collection",
-      "name": "Featured collection",
+    "lookbook_slider_YaA78J": {
+      "type": "lookbook-slider",
+      "blocks": {
+        "product_izRfPF": {
+          "type": "product",
+          "settings": {
+            "product": "kit-keraton-supreme-aliss-1200ml",
+            "horizontal_position": 54,
+            "vertical_position": 24,
+            "horizontal_position_mobile": 54,
+            "vertical_position_mobile": 24
+          }
+        },
+        "product_qcYQfU": {
+          "type": "product",
+          "settings": {
+            "product": "keraton-supreme-aliss-1000ml",
+            "horizontal_position": 72,
+            "vertical_position": 54,
+            "horizontal_position_mobile": 72,
+            "vertical_position_mobile": 54
+          }
+        },
+        "product_FHwKmX": {
+          "type": "product",
+          "settings": {
+            "product": "shampoo-reestructurante-keraton-650ml",
+            "horizontal_position": 32,
+            "vertical_position": 72,
+            "horizontal_position_mobile": 32,
+            "vertical_position_mobile": 72
+          }
+        }
+      },
+      "block_order": [
+        "product_izRfPF",
+        "product_qcYQfU",
+        "product_FHwKmX"
+      ],
+      "name": "Lookbook slider",
       "settings": {
         "section_width": "container",
-        "subheading": "",
         "heading": "Keratinas",
-        "heading_tag": "h2",
-        "heading_size_section": "h2",
-        "description": "",
-        "layout": "horizontal",
-        "collection": "",
-        "products": [
-          "kit-keraton-supreme-aliss-1200ml",
-          "keraton-supreme-aliss-1000ml",
-          "tratamiento-reestructurante-400ml"
-        ],
-        "link_url": "shopify://collections/keratina-keraton",
-        "link_text": "Ver todos",
-        "button_type": "primary",
-        "show_icon": true,
-        "enable_stack_products": true,
+        "layout": "left",
+        "image": "shopify://shop_images/modelo-cabello-keratina-kit-keraton-supreme-aliss.png",
+        "media_size": "adapt",
+        "columns_desktop": "1",
+        "show_arrows": true,
         "show_progress_bar": false,
-        "enable_overflow_visible": false,
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "column_gap": 3,
-        "columns_mobile": "2",
-        "column_gap_mobile": 2,
         "swipe_on_mobile": false,
+        "column_gap": 3,
+        "column_gap_mobile": 2,
         "bg_color": "",
         "text_color": "",
+        "hotspot_color": "#ffffff",
+        "hotspot_color_after": "#000000",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -585,7 +609,7 @@
     "featured_collection_nEKwmF",
     "rich_text_Mkqa9R",
     "featured_collection_Ex4cwb",
-    "featured_collection_Jg7djz",
+    "lookbook_slider_YaA78J",
     "before_after_image_gM7nBF",
     "rich_text_qiTzdE",
     "shoppable_video_93VtDd"
