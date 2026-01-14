@@ -122,6 +122,7 @@
       "block_order": [
         "ai_gen_block_fe2c36e_6mdTHq"
       ],
+      "disabled": true,
       "name": "Envíos pausados",
       "settings": {}
     },
