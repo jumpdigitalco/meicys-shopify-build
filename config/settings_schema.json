@@ -1453,7 +1453,7 @@
         "type": "richtext",
         "id": "cart_message",
         "label": "Message",
-        "default": "<p>New customers save 10% with code <b>WELCOME10<\/b><\/p>"
+        "default": "<p>New customers save 10% with code <b>DESCUENTO1010<\/b><\/p>"
       },
       {
         "type": "color",
