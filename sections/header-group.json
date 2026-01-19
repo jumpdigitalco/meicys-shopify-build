@@ -17,7 +17,7 @@
         "announcement_DMqDEM": {
           "type": "announcement",
           "settings": {
-            "text": "Envíos gratis por compras mayores a $120.000",
+            "text": "Envíos gratis por compras al detal mayores a $120.000",
             "icon": "price_tag",
             "link": ""
           }
