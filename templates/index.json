@@ -204,7 +204,7 @@
         "desktop_height": "desktop-height-image",
         "mobile_height": "mobile-height-image",
         "auto_rotate": true,
-        "change_slides_speed": 8,
+        "change_slides_speed": 3,
         "transition": "fade",
         "controls": "filled-arrows",
         "accessibility_info": "Slideshow about our brand",
