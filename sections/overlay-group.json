@@ -178,29 +178,29 @@
         "link_img": "https://api.whatsapp.com/send/?phone=573153921000"
       }
     },
-    "1769029825d9b432d9": {
+    "17690279166b75961d": {
       "type": "_blocks",
       "blocks": {
-        "ai_gen_block_672d8ab_8mnC9a": {
-          "type": "ai_gen_block_672d8ab",
+        "ai_gen_block_280e0ae_W7rwiQ": {
+          "type": "ai_gen_block_280e0ae",
           "settings": {
             "popup_image": "shopify://shop_images/Popup-Kit-Keraton-Desktop.jpg",
-            "popup_url": "shopify://products/kit-keraton-supreme-aliss-1200ml",
-            "open_in_new_tab": false,
-            "delay_seconds": 3,
+            "image_link": "shopify://products/kit-keraton-supreme-aliss-1200ml",
             "popup_width": 600,
+            "popup_delay": 2,
             "border_radius": 8,
             "popup_bg_color": "#ffffff",
-            "close_button_position": 15,
+            "overlay_color": "#000000",
+            "overlay_opacity": 0.5,
             "close_button_bg": "#ffffff",
             "close_button_hover_bg": "#f4f4f4",
-            "close_button_icon_color": "#000000"
+            "close_button_color": "#000000"
           },
           "blocks": {}
         }
       },
       "block_order": [
-        "ai_gen_block_672d8ab_8mnC9a"
+        "ai_gen_block_280e0ae_W7rwiQ"
       ],
       "settings": {}
     }
@@ -210,6 +210,6 @@
     "1767730183cdaf9785",
     "age-verifier-popup",
     "whatsapp_link_A6X9GQ",
-    "1769029825d9b432d9"
+    "17690279166b75961d"
   ]
 }
