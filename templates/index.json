@@ -35,10 +35,10 @@
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
             "button_text_1": "",
             "button_link_1": "",
-            "button_type_1": "primary",
+            "button_type_1": "primary-white",
             "button_text_2": "",
             "button_link_2": "",
-            "button_type_2": "primary"
+            "button_type_2": "outline-white"
           }
         },
         "slide_9pyT8r": {
