@@ -177,12 +177,39 @@
         "image": "shopify://shop_images/whatsapp-verde-icon-redimension50.svg",
         "link_img": "https://api.whatsapp.com/send/?phone=573153921000"
       }
+    },
+    "17690279166b75961d": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_280e0ae_W7rwiQ": {
+          "type": "ai_gen_block_280e0ae",
+          "settings": {
+            "popup_image": "shopify://shop_images/Popup-Kit-Keraton-Desktop.jpg",
+            "image_link": "shopify://products/kit-keraton-supreme-aliss-1200ml",
+            "popup_width": 600,
+            "popup_delay": 2,
+            "border_radius": 8,
+            "popup_bg_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0.5,
+            "close_button_bg": "#ffffff",
+            "close_button_hover_bg": "#f4f4f4",
+            "close_button_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_280e0ae_W7rwiQ"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "newsletter-popup",
     "1767730183cdaf9785",
     "age-verifier-popup",
-    "whatsapp_link_A6X9GQ"
+    "whatsapp_link_A6X9GQ",
+    "17690279166b75961d"
   ]
 }
