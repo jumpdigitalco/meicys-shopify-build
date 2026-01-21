@@ -44,6 +44,35 @@
         "slide_9pyT8r": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Banner-Cocteles-Meicys-Desktop.jpg",
+            "mobile_image": "shopify://shop_images/Banner-Cocteles-Meicys-Mobile.jpg",
+            "slide_link": "shopify://collections/cocteles-capilares-meicys",
+            "video_background": false,
+            "content_width": 600,
+            "content_position": "middle-center",
+            "mobile_content_position": "bottom-right",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(194deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary-white",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "outline-white"
+          }
+        },
+        "slide_KNiVgm": {
+          "type": "slide",
+          "settings": {
             "image": "shopify://shop_images/banner-principal-meicys-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-meicys-mobile.jpg",
             "slide_link": "shopify://collections/tintes-meicys",
@@ -223,6 +252,7 @@
       "block_order": [
         "slide_Cg8TUR",
         "slide_9pyT8r",
+        "slide_KNiVgm",
         "slide_TK3c4C",
         "slide_maKEtc",
         "slide_X7CJC9",
