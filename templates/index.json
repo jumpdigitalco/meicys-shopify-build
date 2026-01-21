@@ -30,7 +30,7 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#FFFFFF",
-            "overlay_color": "#FFFFFF",
+            "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
             "button_text_1": "",
