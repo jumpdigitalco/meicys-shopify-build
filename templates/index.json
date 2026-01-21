@@ -12,35 +12,6 @@
     "slideshow_bDT8rN": {
       "type": "slideshow",
       "blocks": {
-        "slide_Cg8TUR": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banner-Cocteles-Meicys-Desktop.jpg",
-            "mobile_image": "shopify://shop_images/Banner-Cocteles-Meicys-Mobile.jpg",
-            "slide_link": "shopify://collections/cocteles-capilares-meicys",
-            "video_background": false,
-            "content_width": 600,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
-            "content_space": "gap-y-4",
-            "subheading": "",
-            "heading": "",
-            "heading_tag": "div",
-            "heading_size": "hxl",
-            "content": "",
-            "description_size": "medium",
-            "color_text": "#FFFFFF",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
-            "button_text_1": "",
-            "button_link_1": "",
-            "button_type_1": "primary-white",
-            "button_text_2": "",
-            "button_link_2": "",
-            "button_type_2": "outline-white"
-          }
-        },
         "slide_9pyT8r": {
           "type": "slide",
           "settings": {
@@ -250,7 +221,6 @@
         }
       },
       "block_order": [
-        "slide_Cg8TUR",
         "slide_9pyT8r",
         "slide_KNiVgm",
         "slide_TK3c4C",
