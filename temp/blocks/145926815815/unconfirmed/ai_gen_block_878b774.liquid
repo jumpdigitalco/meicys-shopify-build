@@ -1,6 +1,359 @@
+{% doc %}
+  @prompt
+    Create a popup identical to the newsletter popup with an image that can be changed from the files, same size and other properties.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-image-popup-{{ ai_gen_id }} {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+
+  .ai-image-popup-{{ ai_gen_id }}.active {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .ai-image-popup-overlay-{{ ai_gen_id }} {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: {{ block.settings.overlay_color }};
+    opacity: {{ block.settings.overlay_opacity }};
+  }
+
+  .ai-image-popup-container-{{ ai_gen_id }} {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.9);
+    width: 90%;
+    max-width: {{ block.settings.popup_width }}px;
+    background-color: {{ block.settings.popup_bg_color }};
+    border-radius: {{ block.settings.border_radius }}px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+
+  .ai-image-popup-{{ ai_gen_id }}.active .ai-image-popup-container-{{ ai_gen_id }} {
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  .ai-image-popup-close-{{ ai_gen_id }} {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 32px;
+    height: 32px;
+    background-color: {{ block.settings.close_button_bg }};
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
+
+  .ai-image-popup-close-{{ ai_gen_id }}:hover {
+    background-color: {{ block.settings.close_button_hover_bg }};
+  }
+
+  .ai-image-popup-close-{{ ai_gen_id }} svg {
+    width: 16px;
+    height: 16px;
+    stroke: {{ block.settings.close_button_color }};
+  }
+
+  .ai-image-popup-content-{{ ai_gen_id }} {
+    position: relative;
+    width: 100%;
+  }
+
+  .ai-image-popup-image-{{ ai_gen_id }} {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .ai-image-popup-image-{{ ai_gen_id }} img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .ai-image-popup-placeholder-{{ ai_gen_id }} {
+    width: 100%;
+    height: 400px;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .ai-image-popup-placeholder-{{ ai_gen_id }} svg {
+    width: 100%;
+    height: 100%;
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+  .ai-image-popup-empty-state-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 12px 20px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-image-popup-container-{{ ai_gen_id }} {
+      max-width: 95%;
+    }
+
+    .ai-image-popup-placeholder-{{ ai_gen_id }} {
+      height: 300px;
+    }
+  }
+{% endstyle %}
+
+<image-popup-{{ ai_gen_id }}
+  class="ai-image-popup-{{ ai_gen_id }}"
+  data-delay="{{ block.settings.popup_delay }}"
+  {{ block.shopify_attributes }}
+>
+  <div class="ai-image-popup-overlay-{{ ai_gen_id }}"></div>
+  
+  <div class="ai-image-popup-container-{{ ai_gen_id }}">
+    <button
+      class="ai-image-popup-close-{{ ai_gen_id }}"
+      aria-label="Close popup"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
+
+    <div class="ai-image-popup-content-{{ ai_gen_id }}">
+      {% if block.settings.popup_image %}
+        <div class="ai-image-popup-image-{{ ai_gen_id }}">
+          <img
+            src="{{ block.settings.popup_image | image_url: width: 1200 }}"
+            alt="{{ block.settings.popup_image.alt | escape }}"
+            loading="lazy"
+            width="{{ block.settings.popup_image.width }}"
+            height="{{ block.settings.popup_image.height }}"
+          >
+        </div>
+      {% else %}
+        <div class="ai-image-popup-placeholder-{{ ai_gen_id }}">
+          {{ 'image' | placeholder_svg_tag }}
+          <div class="ai-image-popup-empty-state-{{ ai_gen_id }}">
+            Next, add an image
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</image-popup-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class ImagePopup{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.popup = this;
+        this.overlay = this.querySelector('.ai-image-popup-overlay-{{ ai_gen_id }}');
+        this.closeButton = this.querySelector('.ai-image-popup-close-{{ ai_gen_id }}');
+        this.delay = parseInt(this.dataset.delay) * 1000;
+        this.cookieName = 'ai_image_popup_{{ ai_gen_id }}_closed';
+        this.cookieDays = 7;
+      }
+
+      connectedCallback() {
+        if (!this.hasBeenClosed()) {
+          this.showPopup();
+        }
+        this.setupEventListeners();
+      }
+
+      setupEventListeners() {
+        this.closeButton.addEventListener('click', () => this.closePopup());
+        this.overlay.addEventListener('click', () => this.closePopup());
+
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape' && this.classList.contains('active')) {
+            this.closePopup();
+          }
+        });
+      }
+
+      showPopup() {
+        setTimeout(() => {
+          this.classList.add('active');
+          document.body.style.overflow = 'hidden';
+        }, this.delay);
+      }
+
+      closePopup() {
+        this.classList.remove('active');
+        document.body.style.overflow = '';
+        this.setCookie(this.cookieName, 'true', this.cookieDays);
+      }
+
+      hasBeenClosed() {
+        return this.getCookie(this.cookieName) === 'true';
+      }
+
+      setCookie(name, value, days) {
+        const date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        const expires = 'expires=' + date.toUTCString();
+        document.cookie = name + '=' + value + ';' + expires + ';path=/';
+      }
+
+      getCookie(name) {
+        const nameEQ = name + '=';
+        const ca = document.cookie.split(';');
+        for (let i = 0; i < ca.length; i++) {
+          let c = ca[i];
+          while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+          if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+      }
+    }
+
+    customElements.define('image-popup-{{ ai_gen_id }}', ImagePopup{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Image popup",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Image"
+    },
+    {
+      "type": "image_picker",
+      "id": "popup_image",
+      "label": "Popup image"
+    },
+    {
+      "type": "header",
+      "content": "Popup settings"
+    },
+    {
+      "type": "range",
+      "id": "popup_width",
+      "min": 400,
+      "max": 800,
+      "step": 50,
+      "unit": "px",
+      "label": "Popup width",
+      "default": 600
+    },
+    {
+      "type": "range",
+      "id": "popup_delay",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "s",
+      "label": "Delay before showing",
+      "default": 2
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Border radius",
+      "default": 8
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "popup_bg_color",
+      "label": "Background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "overlay_color",
+      "label": "Overlay",
+      "default": "#000000"
+    },
+    {
+      "type": "range",
+      "id": "overlay_opacity",
+      "min": 0,
+      "max": 1,
+      "step": 0.1,
+      "label": "Overlay opacity",
+      "default": 0.5
+    },
+    {
+      "type": "header",
+      "content": "Close button"
+    },
+    {
+      "type": "color",
+      "id": "close_button_bg",
+      "label": "Background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "close_button_hover_bg",
+      "label": "Hover background",
+      "default": "#f4f4f4"
+    },
+    {
+      "type": "color",
+      "id": "close_button_color",
+      "label": "Icon color",
+      "default": "#000000"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image popup"
+    }
+  ]
+}
 {% endschema %}
