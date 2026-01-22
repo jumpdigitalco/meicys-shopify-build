@@ -43,6 +43,7 @@
         },
         "slide_ihNn9E": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-Maxi-Laxios-Desktop.jpg",
             "mobile_image": "shopify://shop_images/Banner-Maxi-Laxios-Mobile.jpg",
