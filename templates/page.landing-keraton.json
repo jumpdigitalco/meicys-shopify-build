@@ -27,6 +27,35 @@
         "slide_8RBCgp": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Banner-Kit-Keraton-Desktop.jpg",
+            "mobile_image": "shopify://shop_images/Banner-Kit-Keraton-Mobile.jpg",
+            "slide_link": "shopify://products/kit-keraton-supreme-aliss-1200ml",
+            "video_background": false,
+            "content_width": 660,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
+        "slide_3YCH3Q": {
+          "type": "slide",
+          "settings": {
             "image": "shopify://shop_images/banner-principal-keraton-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-keraton-mobile.jpg",
             "slide_link": "shopify://collections/tintes-permanentes-keraton",
@@ -42,7 +71,7 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#000000",
-            "overlay_color": "#FFFFFF",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 0,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
             "button_text_1": "",
@@ -173,6 +202,7 @@
       },
       "block_order": [
         "slide_8RBCgp",
+        "slide_3YCH3Q",
         "slide_BmcRrQ",
         "slide_47eiaW",
         "slide_TpqDhK",
