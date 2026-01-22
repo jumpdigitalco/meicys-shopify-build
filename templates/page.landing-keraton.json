@@ -24,8 +24,38 @@
     "slideshow_iMYM47": {
       "type": "slideshow",
       "blocks": {
+        "slide_rftHt3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banner-Kit-Keraton-Desktop.jpg",
+            "mobile_image": "shopify://shop_images/Banner-Kit-Keraton-Mobile.jpg",
+            "slide_link": "shopify://products/kit-keraton-supreme-aliss-1200ml",
+            "video_background": false,
+            "content_width": 600,
+            "content_position": "middle-center",
+            "mobile_content_position": "bottom-right",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(194deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%)",
+            "button_text_1": "",
+            "button_link_1": "shopify://collections/kits-capilares",
+            "button_type_1": "primary-white",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "outline-white"
+          }
+        },
         "slide_8RBCgp": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-Kit-Keraton-Desktop.jpg",
             "mobile_image": "shopify://shop_images/Banner-Kit-Keraton-Mobile.jpg",
@@ -201,6 +231,7 @@
         }
       },
       "block_order": [
+        "slide_rftHt3",
         "slide_8RBCgp",
         "slide_3YCH3Q",
         "slide_BmcRrQ",
