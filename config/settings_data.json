@@ -116,7 +116,14 @@
     "social_tiktok_link": "https://www.tiktok.com/@meicyscolombia",
     "enable_auto_sizes": false,
     "show_scroll_to_top": true,
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "10717172801598694508": {
+        "type": "shopify://apps/wizybot-chatgpt-chatbot/blocks/chat_extension/342307e8-9005-417d-81a8-9b6fe426c2e2",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "installed_preset_name": "Esselle",
   "presets": {
