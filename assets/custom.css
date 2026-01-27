@@ -87,19 +87,16 @@ body.template-page-landing-keraton
   }
 }
 
-/* =========================
-   HEADER VIZIO – FIX COLORES
-   ========================= */
+/* ==============================
+   FIX LINKS HEADER OSCURO
+   ============================== */
 
-.template-page-landing-vizio .additional-links-menu a {
+/* Menú adicional (Promo, PQRs, etc.) */
+.header-wrapper .additional-links-menu a {
   color: #ffffff !important;
 }
 
-.template-page-landing-vizio .additional-links-menu a:hover {
+/* Hover */
+.header-wrapper .additional-links-menu a:hover {
   opacity: 0.85;
-}
-
-/* Menú Tienda Vizio */
-.template-collection-vizio .additional-links-menu a {
-  color: #ffffff !important;
 }
