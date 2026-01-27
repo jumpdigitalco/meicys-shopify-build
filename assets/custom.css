@@ -98,3 +98,8 @@ body.template-page-landing-keraton
 .template-page-landing-vizio .additional-links-menu a:hover {
   opacity: 0.85;
 }
+
+/* Menú Tienda Vizio */
+.template-collection-vizio .additional-links-menu a {
+  color: #ffffff !important;
+}
