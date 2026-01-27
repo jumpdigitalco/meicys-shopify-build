@@ -87,50 +87,40 @@ body.template-page-landing-keraton
   }
 }
 
-/* ==============================
-   RESET GENERAL (oscuro por defecto)
-   ============================== */
 .additional-links-menu a {
   color: #111 !important;
 }
 
-/* ==============================
-   MENÚS BLANCOS (header)
-   ============================== */
+/* Keraton */
+body:has(a[href*="/pages/keraton"]) .additional-links-menu a {
+  color: #fff !important;
+}
+
+/* CPC */
+body:has(a[href*="/pages/cpc"]) .additional-links-menu a {
+  color: #fff !important;
+}
 
 /* Vizio */
-body.template-page-landing-vizio .additional-links-menu a,
-body.template-collection.tienda-vizio .additional-links-menu a {
+body:has(a[href*="/pages/vizio"]) .additional-links-menu a {
   color: #fff !important;
 }
 
-/* Keraton – SOLO menú */
-body.template-page-keraton .additional-links-menu a {
+/* Tienda Keraton */
+body:has(a[href*="/collections/tienda-keraton"]) .additional-links-menu a {
   color: #fff !important;
 }
 
-/* CPC – SOLO menú */
-body.template-page-cpc .additional-links-menu a {
+/* Tienda CPC */
+body:has(a[href*="/collections/tienda-cpc"]) .additional-links-menu a {
   color: #fff !important;
 }
 
-/* ==============================
-   TIENDAS BLANCAS (collections)
-   ============================== */
-
-/* CPC tienda */
-body.template-collection.tienda-cpc .additional-links-menu a {
+/* Tienda Vizio */
+body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
   color: #fff !important;
 }
 
-/* Keraton tienda */
-body.template-collection.tienda-keraton .additional-links-menu a {
-  color: #fff !important;
-}
-
-/* ==============================
-   HOVER
-   ============================== */
 .additional-links-menu a:hover {
   opacity: 0.85;
 }
