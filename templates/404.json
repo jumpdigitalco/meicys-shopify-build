@@ -1,11 +1,53 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-404",
       "settings": {}
+    },
+    "featured_collection_d76AmD": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Te van a gustar",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "<p>Descubre algunos de nuestros producto destacados</p>",
+        "layout": "vertical",
+        "collection": "lanzamientos",
+        "products": [],
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_collection_d76AmD"
   ]
 }
