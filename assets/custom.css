@@ -87,3 +87,14 @@ body.template-page-landing-keraton
   }
 }
 
+/* =========================
+   HEADER VIZIO – FIX COLORES
+   ========================= */
+
+.template-page-landing-vizio .additional-links-menu a {
+  color: #ffffff !important;
+}
+
+.template-page-landing-vizio .additional-links-menu a:hover {
+  opacity: 0.85;
+}
