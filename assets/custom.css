@@ -88,15 +88,25 @@ body.template-page-landing-keraton
 }
 
 /* ==============================
-   FIX LINKS HEADER OSCURO
+   LINKS BLANCOS SOLO EN HEADERS OSCUROS
    ============================== */
 
-/* Menú adicional (Promo, PQRs, etc.) */
-.header-wrapper .additional-links-menu a {
+/* Vizio landing */
+body.template-page-landing-vizio .additional-links-menu a {
+  color: #ffffff !important;
+}
+
+/* Vizio tienda */
+body.template-collection .additional-links-menu a {
+  color: #ffffff !important;
+}
+
+/* Keraton */
+body.template-page-keraton .additional-links-menu a {
   color: #ffffff !important;
 }
 
 /* Hover */
-.header-wrapper .additional-links-menu a:hover {
+.additional-links-menu a:hover {
   opacity: 0.85;
 }
