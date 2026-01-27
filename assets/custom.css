@@ -88,25 +88,49 @@ body.template-page-landing-keraton
 }
 
 /* ==============================
-   LINKS BLANCOS SOLO EN HEADERS OSCUROS
+   RESET GENERAL (oscuro por defecto)
+   ============================== */
+.additional-links-menu a {
+  color: #111 !important;
+}
+
+/* ==============================
+   MENÚS BLANCOS (header)
    ============================== */
 
-/* Vizio landing */
-body.template-page-landing-vizio .additional-links-menu a {
-  color: #ffffff !important;
+/* Vizio */
+body.template-page-landing-vizio .additional-links-menu a,
+body.template-collection.tienda-vizio .additional-links-menu a {
+  color: #fff !important;
 }
 
-/* Vizio tienda */
-body.template-collection .additional-links-menu a {
-  color: #ffffff !important;
-}
-
-/* Keraton */
+/* Keraton – SOLO menú */
 body.template-page-keraton .additional-links-menu a {
-  color: #ffffff !important;
+  color: #fff !important;
 }
 
-/* Hover */
+/* CPC – SOLO menú */
+body.template-page-cpc .additional-links-menu a {
+  color: #fff !important;
+}
+
+/* ==============================
+   TIENDAS BLANCAS (collections)
+   ============================== */
+
+/* CPC tienda */
+body.template-collection.tienda-cpc .additional-links-menu a {
+  color: #fff !important;
+}
+
+/* Keraton tienda */
+body.template-collection.tienda-keraton .additional-links-menu a {
+  color: #fff !important;
+}
+
+/* ==============================
+   HOVER
+   ============================== */
 .additional-links-menu a:hover {
   opacity: 0.85;
 }
