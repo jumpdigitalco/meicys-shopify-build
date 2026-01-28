@@ -99,7 +99,7 @@
     "show_free_shipping_bar": true,
     "cart_free_shipping_message": "Agrega {{ amount }} para que el envío sea GRATIS",
     "cart_free_shipping_mount": 120000,
-    "cart_message": "<p>¡Si te suscribiste, activa tu descuento desde tu correo, se aplica automático! <strong></strong></p>",
+    "cart_message": "<p>¡Si te suscribiste, activa tu descuento en tu correo, se aplica automático! <strong></strong></p>",
     "cart_message_color_text": "#ffffff",
     "cart_message_color_background": "{{ metaobjects.marca.meicys.color_principal.value }}",
     "show_product_recommendations": true,
