@@ -64,6 +64,7 @@
         "text_yaDVBD",
         "button_xgJddB"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "section_width": "container",
