@@ -24,35 +24,66 @@
       "type": "_blocks",
       "settings": {}
     },
-    "176408537763a5ccd9": {
-      "type": "apps",
+    "image_with_text_cnfPNj": {
+      "type": "image-with-text",
       "blocks": {
-        "forms_inline_emkGUb": {
-          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
-          "disabled": true,
+        "heading_Lpttwi": {
+          "type": "heading",
           "settings": {
-            "form_id": "763897",
-            "text_color": "#444444",
-            "button_background_color": "#e2c2eb",
-            "button_label_color": "#543b5b",
-            "links_color": "#1878b9",
-            "errors_color": "#e02229",
-            "text_alignment": "center",
-            "form_alignment": "center",
-            "padding_top": 0,
-            "padding_bottom": 24,
-            "padding_right": 0,
-            "padding_left": 0
+            "heading": "Quiero ser mayorista",
+            "heading_tag": "h2",
+            "heading_size": "h2"
+          }
+        },
+        "subheading_ezEQdy": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "¿Por qué ser distribuidor Meicy’s, Keraton, Guajira, CPC y Vizio?"
+          }
+        },
+        "text_8wXErT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nos destacamos por ofrecer productos de alta calidad, elaborados con tecnología de vanguardia y formulaciones profesionales que marcan la diferencia en el mercado. Somos una marca 100% colombiana con más de 25 años de experiencia, reconocida a nivel nacional por nuestro compromiso con la innovación, el cuidado del cabello y la confianza de nuestros clientes.</p><p>Todos nuestros productos son fabricados en nuestra planta de producción, cuentan con registro Invima, son libres de maltrato animal e incluyen el correspondiente IVA. </p><p><strong>Recomendamos aplicar buenas prácticas comerciales que fortalezcan tu posicionamiento, brindamos asesorías personalizadas, realizamos seminarios con temáticas vanguardistas sobre el cuidado capilar, mantenemos una comunicación cercana con los clientes, ofrecemos entregas ágiles, promociones o combos ocasionales y garantizamos una buena ganancia y rotación de venta para tu emprendimiento o empresa.</strong></p>",
+            "large_text": false
+          }
+        },
+        "button_kdCxeB": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
           }
         }
       },
       "block_order": [
-        "forms_inline_emkGUb"
+        "heading_Lpttwi",
+        "subheading_ezEQdy",
+        "text_8wXErT",
+        "button_kdCxeB"
       ],
+      "name": "Image with text",
       "settings": {
         "section_width": "container",
+        "image": "shopify://shop_images/banner-mayoristas-desktop.jpg",
+        "media_size": "adapt",
+        "show_image_2": false,
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "use_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "right",
+        "column_gap": "16",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
         "bg_color": "",
         "text_color": "",
+        "bg_column": "",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -61,6 +92,6 @@
   "order": [
     "main",
     "17697872019dbf4d01",
-    "176408537763a5ccd9"
+    "image_with_text_cnfPNj"
   ]
 }
