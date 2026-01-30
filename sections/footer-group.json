@@ -1,1 +1,169 @@
-{"name":"Footer","type":"footer","sections":{"text_with_icons_jRiWNP":{"type":"text-with-icons","blocks":{"icon_NMwyTm":{"type":"icon","settings":{"icon":"chat_bubble","title":"Servicio al cliente","text":"<p>Whatsapp <a href=\"https:\/\/wa.me\/573153921000\" title=\"https:\/\/wa.me\/573153921000\">3153921000<\/a><\/p>","button_label":"","button_link":""}},"icon_HrU8T4":{"type":"icon","settings":{"icon":"truck","title":"Envío gratis","text":"<p>Agrega al menos $120.000 a tu compra<\/p>","button_label":"","button_link":""}},"icon_Fxhc76":{"type":"icon","settings":{"icon":"box","title":"Gran Cobertura Nacional","text":"<p>Envíos a todo el país<\/p>","button_label":"","button_link":""}},"icon_R39HWF":{"type":"icon","settings":{"icon":"sheild","title":"Múltiples medios de pago","text":"<p>Visa, Mastercard, Amex, PSE<\/p>","button_label":"","button_link":""}}},"block_order":["icon_NMwyTm","icon_HrU8T4","icon_Fxhc76","icon_R39HWF"],"settings":{"section_width":"container-fluid","subheading":"","heading":"","heading_tag":"h2","heading_size_section":"h2","description":"","layout":"vertical","item_type":"vertical","heading_size":"h6","column_alignment":"center","icon_background":"none","icon_width":32,"button_type":"underlined-white","show_icon":false,"columns_mobile":"2","swipe_on_mobile":false,"show_progress_bar":false,"bg_color":"#f4f4f8","text_color":"rgba(0,0,0,0)","icon_bg_color":"#f4f4f8","icon_color":"","padding_top":40,"padding_bottom":40}},"footer":{"type":"footer","blocks":{"newsletter_GXJkHj":{"type":"newsletter","settings":{"heading":"","content":"<h4>Suscríbete para tener tips y ofertas exclusivas.<\/h4><p>Ten acceso a ofertas exclusivas y regalos cuando te suscribas.<\/p>","term_policy":"<p>Al suscribirte estás aceptando los <a href=\"\/policies\/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">Términos y condiciones<\/a> y la <a href=\"\/policies\/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Política de Privacidad<\/a><\/p>","show_social":true,"order_first":false}},"link_list_7nmBjj":{"type":"link_list","settings":{"heading":"Nosotros","menu":"footer","open_details":false}},"link_list_4j8WJb":{"type":"link_list","disabled":true,"settings":{"heading":"Productos","menu":"","open_details":false}},"link_list_Nx4gLF":{"type":"link_list","settings":{"heading":"Información","menu":"footer-general","open_details":false}},"text_8P7CaD":{"type":"text","settings":{"heading":"Contacto","image_width":550,"subtext":"<p>Correo Electrónico: <a href=\"mailto:marketing.meicys@gmail.com \" title=\"mailto:marketing.meicys@gmail.com \">marketing.meicys@gmail.com <\/a><\/p><p>Whatsapp: <a href=\"https:\/\/wa.me\/573153921000\" title=\"https:\/\/wa.me\/573153921000\">+57 315 392 1000<\/a><\/p><p>Lunes a sábado: 9:30 am - 6:00 pm | Miércoles: 9:30 am - 5:00 pm<\/p><p>AVA CHEMICALS | Calle 17 #103 B 37 Fontibón, Bogotá, Colombia | Tel: <a href=\"https:\/\/api.whatsapp.com\/send\/?phone=573168348994&text&type=phone_number&app_absent=0\" title=\"https:\/\/api.whatsapp.com\/send\/?phone=573168348994&text&type=phone_number&app_absent=0\">+57 316 834 8994<\/a><\/p>","show_social":false,"open_details":true}}},"block_order":["newsletter_GXJkHj","link_list_7nmBjj","link_list_4j8WJb","link_list_Nx4gLF","text_8P7CaD"],"settings":{"section_width":"container","heading_size":"h6","enable_follow_on_shop":false,"enable_country_selector":false,"enable_country_flag":false,"enable_country_name":false,"enable_language_selector":false,"payment_enable":false,"show_policy":false,"border_color_newsletter":"#193a43","show_divider":false,"show_bottom_border":true,"show_bottom_border_mobile":true,"padding_top":32,"padding_bottom":32}}},"order":["text_with_icons_jRiWNP","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "text_with_icons_jRiWNP": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon_NMwyTm": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble",
+            "title": "Servicio al cliente",
+            "text": "<p>Whatsapp <a href=\"https://wa.me/573153921000\" title=\"https://wa.me/573153921000\">3153921000</a></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_HrU8T4": {
+          "type": "icon",
+          "settings": {
+            "icon": "truck",
+            "title": "Envío gratis",
+            "text": "<p>Agrega al menos $120.000 a tu compra</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_Fxhc76": {
+          "type": "icon",
+          "settings": {
+            "icon": "box",
+            "title": "Gran Cobertura Nacional",
+            "text": "<p>Envíos a todo el país</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "icon_R39HWF": {
+          "type": "icon",
+          "settings": {
+            "icon": "sheild",
+            "title": "Múltiples medios de pago",
+            "text": "<p>Visa, Mastercard, Amex, PSE</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_NMwyTm",
+        "icon_HrU8T4",
+        "icon_Fxhc76",
+        "icon_R39HWF"
+      ],
+      "settings": {
+        "section_width": "container-fluid",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "item_type": "vertical",
+        "heading_size": "h6",
+        "column_alignment": "center",
+        "icon_background": "none",
+        "icon_width": 32,
+        "button_type": "underlined-white",
+        "show_icon": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "show_progress_bar": false,
+        "bg_color": "#f4f4f8",
+        "text_color": "rgba(0,0,0,0)",
+        "icon_bg_color": "#f4f4f8",
+        "icon_color": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter_GXJkHj": {
+          "type": "newsletter",
+          "settings": {
+            "heading": "",
+            "content": "<h4>Suscríbete para tener tips y ofertas exclusivas.</h4><p>Ten acceso a ofertas exclusivas y regalos cuando te suscribas.</p>",
+            "term_policy": "<p>Al suscribirte estás aceptando los <a href=\"/policies/terms-of-service\" target=\"_blank\" title=\"Terms of Service\">Términos y condiciones</a> y la <a href=\"/policies/privacy-policy\" target=\"_blank\" title=\"Privacy Policy\">Política de Privacidad</a></p>",
+            "show_social": true,
+            "order_first": false
+          }
+        },
+        "link_list_7nmBjj": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Nosotros",
+            "menu": "footer",
+            "open_details": false
+          }
+        },
+        "link_list_4j8WJb": {
+          "type": "link_list",
+          "disabled": true,
+          "settings": {
+            "heading": "Productos",
+            "menu": "",
+            "open_details": false
+          }
+        },
+        "link_list_Nx4gLF": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Información",
+            "menu": "footer-general",
+            "open_details": false
+          }
+        },
+        "text_8P7CaD": {
+          "type": "text",
+          "settings": {
+            "heading": "Contacto",
+            "image_width": 550,
+            "subtext": "<p>Correo Electrónico: <a href=\"mailto:marketing.meicys@gmail.com \" title=\"mailto:marketing.meicys@gmail.com \">marketing.meicys@gmail.com </a></p><p>Whatsapp: <a href=\"https://wa.me/573153921000\" title=\"https://wa.me/573153921000\">+57 315 392 1000</a></p><p>Lunes a sábado: 9:30 am - 6:00 pm | Miércoles: 9:30 am - 5:00 pm</p><p>AVA CHEMICALS | Calle 17 #103 B 37 Fontibón, Bogotá, Colombia | Tel: <a href=\"https://api.whatsapp.com/send/?phone=573168348994&text&type=phone_number&app_absent=0\" title=\"https://api.whatsapp.com/send/?phone=573168348994&text&type=phone_number&app_absent=0\">+57 316 834 8994</a></p>",
+            "show_social": false,
+            "open_details": true
+          }
+        }
+      },
+      "block_order": [
+        "newsletter_GXJkHj",
+        "link_list_7nmBjj",
+        "link_list_4j8WJb",
+        "link_list_Nx4gLF",
+        "text_8P7CaD"
+      ],
+      "settings": {
+        "section_width": "container",
+        "heading_size": "h6",
+        "enable_follow_on_shop": false,
+        "enable_country_selector": false,
+        "enable_country_flag": false,
+        "enable_country_name": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": true,
+        "border_color_newsletter": "#193a43",
+        "show_divider": false,
+        "show_bottom_border": true,
+        "show_bottom_border_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "text_with_icons_jRiWNP",
+    "footer"
+  ]
+}
