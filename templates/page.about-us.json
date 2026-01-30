@@ -180,7 +180,7 @@
         "image_X6dNME": {
           "type": "image",
           "settings": {
-            "block_width": "66",
+            "block_width": "50",
             "image": "shopify://shop_images/quienes-somos-imagen-titulo-2-desktop.jpg",
             "image_size": "adapt",
             "link": "",
