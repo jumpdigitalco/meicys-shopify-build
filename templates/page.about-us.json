@@ -70,9 +70,9 @@
         "mobile_content_alignment": "center",
         "content_width": "max-w-4xl",
         "enable_parallax": false,
-        "color_text": "#ffffff",
+        "color_text": "#d895eb",
         "overlay_color": "#000000",
-        "overlay_opacity": 0,
+        "overlay_opacity": 100,
         "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 90%)"
       }
     },
