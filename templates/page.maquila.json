@@ -38,13 +38,39 @@
         "subheading_ezEQdy": {
           "type": "subheading",
           "settings": {
-            "subheading": "¿Por qué ser distribuidor Meicy’s, Keraton, Guajira, CPC y Vizio?"
+            "subheading": "Fabricamos tu marca, creamos tu éxito"
           }
         },
         "text_8wXErT": {
           "type": "text",
           "settings": {
-            "text": "<p>Nos destacamos por ofrecer productos de alta calidad, elaborados con tecnología de vanguardia y formulaciones profesionales que marcan la diferencia en el mercado. Somos una marca 100% colombiana con más de 25 años de experiencia, reconocida a nivel nacional por nuestro compromiso con la innovación, el cuidado del cabello y la confianza de nuestros clientes.</p><p>Todos nuestros productos son fabricados en nuestra planta de producción, cuentan con registro Invima, son libres de maltrato animal e incluyen el correspondiente IVA. </p><p><strong>Recomendamos aplicar buenas prácticas comerciales que fortalezcan tu posicionamiento, brindamos asesorías personalizadas, realizamos seminarios con temáticas vanguardistas sobre el cuidado capilar, mantenemos una comunicación cercana con los clientes, ofrecemos entregas ágiles, promociones o combos ocasionales y garantizamos una buena ganancia y rotación de venta para tu emprendimiento o empresa.</strong></p>",
+            "text": "<p>En IMPROBELL SAS, nos especializamos en la fabricación de marcas propias y desarrollo de productos para terceros, ofreciendo soluciones integrales que se ajustan a las necesidades de cada cliente. Nuestro compromiso es acompañarlos en cada etapa del proceso garantizando calidad, innovación y cumplimiento.</p>",
+            "large_text": false
+          }
+        },
+        "subheading_3gVBKQ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Private Label / Marca Propia"
+          }
+        },
+        "text_dNKncM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Contamos con una amplia trayectoria en el desarrollo, formulación, fabricación y envasado de productos capilares, corporales, de belleza e higiene personal, convirtiéndonos en un aliado estratégico para marcas del segmento retail que buscan destacarse en el mercado.</p><p>La innovación es nuestro motor. Creamos líneas de productos a la vanguardia de las tendencias, con costos competitivos y formulaciones que cumplen los más altos estándares de calidad, permitiendo a nuestros clientes ofrecer soluciones efectivas y atractivas para el consumidor final.</p>",
+            "large_text": false
+          }
+        },
+        "subheading_QyateY": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Fabricación por contrato"
+          }
+        },
+        "text_haLhkb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En IMPROBELL SAS, desarrollamos proyectos personalizados para marcas que confían en nuestra experiencia y capacidad técnica.</p><p>Nos adaptamos a las necesidades específicas de cada cliente en diseño, formulación y packaging, creando productos únicos, exclusivos y con sello de calidad profesional.</p><p>Si deseas desarrollar tu propia marca o necesitas un aliado estratégico en fabricación cosmética, contáctanos. Nuestro equipo está listo para asesorarte y hacer realidad tus ideas con procesos eficientes y resultados excepcionales.</p><p>Fabricamos grandes volúmenes.</p><p>Contáctanos al correo <a href=\"mailto:direccionmp@meicys.com.co\">direccionmp@meicys.com.co</a> o al whatsapp <a href=\"https://wa.me/573045601872\" target=\"_blank\">304 560 1872</a>, queremos hacer realidad tus productos soñados.</p>",
             "large_text": false
           }
         },
@@ -62,6 +88,10 @@
         "heading_Lpttwi",
         "subheading_ezEQdy",
         "text_8wXErT",
+        "subheading_3gVBKQ",
+        "text_dNKncM",
+        "subheading_QyateY",
+        "text_haLhkb",
         "button_kdCxeB"
       ],
       "name": "Image with text",
