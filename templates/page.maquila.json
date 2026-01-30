@@ -98,7 +98,7 @@
       "name": "Image with text",
       "settings": {
         "section_width": "container",
-        "image": "shopify://shop_images/Banner-Removedor-Color-Mobile.jpg",
+        "image": "shopify://shop_images/banner-maquila-desktop.jpg",
         "media_size": "adapt",
         "show_image_2": false,
         "position_image_2": "middle-right",
