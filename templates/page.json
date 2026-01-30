@@ -78,7 +78,7 @@
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
-        "layout": "left",
+        "layout": "right",
         "column_gap": "16",
         "vertical_alignment": "center",
         "content_alignment": "start",
