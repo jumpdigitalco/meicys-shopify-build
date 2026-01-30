@@ -9,8 +9,13 @@
  */
 {
   "sections": {
+    "17697872019dbf4d01": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "section_width": "container-narrow",
         "show_default_heading": true,
@@ -20,46 +25,69 @@
         "padding_bottom": 20
       }
     },
-    "image_with_text_overlay_PGqMRF": {
-      "type": "image-with-text-overlay",
+    "image_with_text_Nk33g4": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_cd8UjJ": {
+        "heading_CYKJhp": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Quiero ser mayorista",
             "heading_tag": "h2",
             "heading_size": "h2"
           }
         },
-        "text_wULRbi": {
+        "subheading_gaQbML": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "¿Por qué ser distribuidor Meicy’s, Keraton, Guajira, CPC y Vizio?"
+          }
+        },
+        "text_U9U3Fq": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>Nos destacamos por ofrecer productos de alta calidad, elaborados con tecnología de vanguardia y formulaciones profesionales que marcan la diferencia en el mercado. Somos una marca 100% colombiana con más de 25 años de experiencia, reconocida a nivel nacional por nuestro compromiso con la innovación, el cuidado del cabello y la confianza de nuestros clientes.</p><p>Todos nuestros productos son fabricados en nuestra planta de producción, cuentan con registro Invima, son libres de maltrato animal e incluyen el correspondiente IVA. </p><p><strong>Recomendamos aplicar buenas prácticas comerciales que fortalezcan tu posicionamiento, brindamos asesorías personalizadas, realizamos seminarios con temáticas vanguardistas sobre el cuidado capilar, mantenemos una comunicación cercana con los clientes, ofrecemos entregas ágiles, promociones o combos ocasionales y garantizamos una buena ganancia y rotación de venta para tu emprendimiento o empresa.</strong></p>",
             "large_text": false
+          }
+        },
+        "button_6Hih9A": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary",
+            "show_icon": false
           }
         }
       },
       "block_order": [
-        "heading_cd8UjJ",
-        "text_wULRbi"
+        "heading_CYKJhp",
+        "subheading_gaQbML",
+        "text_U9U3Fq",
+        "button_6Hih9A"
       ],
-      "name": "Image with text overlay",
+      "name": "Image with text",
       "settings": {
         "section_width": "container",
         "image": "shopify://shop_images/banner-mayoristas-desktop.jpg",
-        "link": "",
-        "desktop_height": "desktop-height-450",
-        "mobile_height": "mobile-height-400",
-        "desktop_content_position": "middle-center",
-        "mobile_content_position": "middle-center",
-        "content_alignment": "center",
-        "mobile_content_alignment": "center",
-        "content_width": "max-w-4xl",
-        "enable_parallax": false,
-        "color_text": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 70,
-        "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+        "media_size": "adapt",
+        "show_image_2": false,
+        "image_2": "shopify://shop_images/banner-mayoristas-desktop.jpg",
+        "position_image_2": "middle-right",
+        "media_size_2": "adapt",
+        "desktop_image_width": "50",
+        "use_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "layout": "left",
+        "column_gap": "16",
+        "vertical_alignment": "center",
+        "content_alignment": "start",
+        "bg_color": "",
+        "text_color": "",
+        "bg_column": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "176408537763a5ccd9": {
@@ -96,8 +124,9 @@
     }
   },
   "order": [
+    "17697872019dbf4d01",
     "main",
-    "image_with_text_overlay_PGqMRF",
+    "image_with_text_Nk33g4",
     "176408537763a5ccd9"
   ]
 }
