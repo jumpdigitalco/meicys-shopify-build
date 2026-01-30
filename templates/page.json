@@ -24,70 +24,6 @@
       "type": "_blocks",
       "settings": {}
     },
-    "image_with_text_UJGYka": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_xat7Tb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Quiero ser mayorista",
-            "heading_tag": "h2",
-            "heading_size": "h2"
-          }
-        },
-        "subheading_ry4QBY": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "¿Por qué ser distribuidor Meicy’s, Keraton, Guajira, CPC y Vizio?"
-          }
-        },
-        "text_yaDVBD": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Nos destacamos por ofrecer productos de alta calidad, elaborados con tecnología de vanguardia y formulaciones profesionales que marcan la diferencia en el mercado. Somos una marca 100% colombiana con más de 25 años de experiencia, reconocida a nivel nacional por nuestro compromiso con la innovación, el cuidado del cabello y la confianza de nuestros clientes.</p><p>Todos nuestros productos son fabricados en nuestra planta de producción, cuentan con registro Invima, son libres de maltrato animal e incluyen el correspondiente IVA. </p><p><strong>Recomendamos aplicar buenas prácticas comerciales que fortalezcan tu posicionamiento, brindamos asesorías personalizadas, realizamos seminarios con temáticas vanguardistas sobre el cuidado capilar, mantenemos una comunicación cercana con los clientes, ofrecemos entregas ágiles, promociones o combos ocasionales y garantizamos una buena ganancia y rotación de venta para tu emprendimiento o empresa.</strong></p>",
-            "large_text": false
-          }
-        },
-        "button_xgJddB": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_type": "primary",
-            "show_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_xat7Tb",
-        "subheading_ry4QBY",
-        "text_yaDVBD",
-        "button_xgJddB"
-      ],
-      "name": "Image with text",
-      "settings": {
-        "section_width": "container",
-        "image": "shopify://shop_images/banner-mayoristas-desktop.jpg",
-        "media_size": "adapt",
-        "show_image_2": false,
-        "position_image_2": "middle-right",
-        "media_size_2": "adapt",
-        "desktop_image_width": "50",
-        "use_video": false,
-        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_autoplay": true,
-        "video_controls": true,
-        "layout": "right",
-        "column_gap": "16",
-        "vertical_alignment": "center",
-        "content_alignment": "start",
-        "bg_color": "",
-        "text_color": "",
-        "bg_column": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "176408537763a5ccd9": {
       "type": "apps",
       "blocks": {
@@ -125,7 +61,6 @@
   "order": [
     "main",
     "17697872019dbf4d01",
-    "image_with_text_UJGYka",
     "176408537763a5ccd9"
   ]
 }
