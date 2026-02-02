@@ -183,6 +183,7 @@
       "blocks": {
         "ai_gen_block_280e0ae_W7rwiQ": {
           "type": "ai_gen_block_280e0ae",
+          "disabled": true,
           "settings": {
             "popup_image": "shopify://shop_images/Popup-Kit-Keraton-Desktop.jpg",
             "image_link": "shopify://products/kit-keraton-supreme-aliss-1200ml",
