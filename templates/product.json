@@ -46,6 +46,7 @@
         },
         "rich_text_gJV7TU": {
           "type": "rich-text",
+          "disabled": true,
           "settings": {
             "align": "start",
             "icon": "price_tag",
