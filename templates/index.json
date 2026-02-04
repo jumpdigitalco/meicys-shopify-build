@@ -14,9 +14,8 @@
       "blocks": {
         "slide_9pyT8r": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/duos_perfectos_san_valentin_meicys_jpg.jpg",
+            "image": "shopify://shop_images/Anuncio_para_facebook_promos_san_valentin_moderno_rojo_y_rosa.jpg",
             "mobile_image": "shopify://shop_images/Banner-Cocteles-Meicys-Mobile.jpg",
             "slide_link": "shopify://collections/duos-perfectos-meicys",
             "video_background": false,
@@ -32,35 +31,6 @@
             "description_size": "medium",
             "color_text": "#ffffff",
             "overlay_color": "#FFFFFF",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(194deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%)",
-            "button_text_1": "",
-            "button_link_1": "",
-            "button_type_1": "primary-white",
-            "button_text_2": "",
-            "button_link_2": "",
-            "button_type_2": "outline-white"
-          }
-        },
-        "slide_QBC8Ct": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/duos_perfectos_san_valentin_meicys_jpg.jpg",
-            "mobile_image": "shopify://shop_images/Banner-Removedor-Color-Mobile.jpg",
-            "slide_link": "shopify://products/removedor-de-color-360ml",
-            "video_background": false,
-            "content_width": 600,
-            "content_position": "middle-center",
-            "mobile_content_position": "bottom-right",
-            "content_space": "gap-y-4",
-            "subheading": "",
-            "heading": "",
-            "heading_tag": "div",
-            "heading_size": "hxl",
-            "content": "",
-            "description_size": "medium",
-            "color_text": "#ffffff",
-            "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": "linear-gradient(194deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%)",
             "button_text_1": "",
@@ -311,7 +281,6 @@
       },
       "block_order": [
         "slide_9pyT8r",
-        "slide_QBC8Ct",
         "slide_cwaDMJ",
         "slide_ihNn9E",
         "slide_KNiVgm",
