@@ -556,7 +556,7 @@
         "logo": "shopify://shop_images/logo-meicys-png-color.png",
         "logo_width": 110,
         "logo_width_mobile": 110,
-        "menu": "menu-principal-meicys",
+        "menu": "menu-principal-keraton",
         "additional_links_menu": "menu-links-adicionales-header",
         "sticky_header_type": "always",
         "show_line_separator": false,
