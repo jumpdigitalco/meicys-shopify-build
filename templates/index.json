@@ -338,6 +338,34 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_MywzLf": {
+      "type": "rich-text",
+      "blocks": {
+        "button_YnJYBh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver más",
+            "button_link": "shopify://collections/duos-perfectos-meicys",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "button_YnJYBh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
     "featured_collection_qhj4pn": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -370,10 +398,10 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_MywzLf": {
+    "rich_text_PiVtkH": {
       "type": "rich-text",
       "blocks": {
-        "button_YnJYBh": {
+        "button_nRzVHC": {
           "type": "button",
           "settings": {
             "button_label": "Ver más",
@@ -384,7 +412,7 @@
         }
       },
       "block_order": [
-        "button_YnJYBh"
+        "button_nRzVHC"
       ],
       "name": "Rich text",
       "settings": {
@@ -1769,8 +1797,9 @@
   "order": [
     "slideshow_bDT8rN",
     "featured_collection_qhmndB",
-    "featured_collection_qhj4pn",
     "rich_text_MywzLf",
+    "featured_collection_qhj4pn",
+    "rich_text_PiVtkH",
     "rich_text_dfVGq3",
     "featured_collection_atTfjK",
     "collection_tabs_wThRhf",
