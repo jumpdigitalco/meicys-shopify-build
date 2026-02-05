@@ -434,7 +434,7 @@
           "settings": {
             "text": "[img1] HECHO EN COLOMBIA  [img2]  LIBRE DE MALTRATO ANIMAL [img5] APROBADO POR PROFESIONALES [img3] INGREDIENTES DE ALTA CALIDAD",
             "heading_size": "h6",
-            "line_height": 4,
+            "line_height": 1,
             "enable_rounded": false,
             "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
             "image_width_1": 60,

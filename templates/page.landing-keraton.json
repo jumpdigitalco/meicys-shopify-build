@@ -298,6 +298,59 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
+    "scrolling_text_Dtdh6j": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_qgJkYM": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/Sello-Cruelty-Free.png",
+            "text": "Libre de maltrato animal",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_pgEyte": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/Sello-Termoprotector.png",
+            "text": "Hecho en Colombia",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_bpAECt": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/Sello-Formula-Biodegradable.png",
+            "text": "Aprobado por profesionales",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_qgJkYM",
+        "text_pgEyte",
+        "text_bpAECt"
+      ],
+      "disabled": true,
+      "name": "Scrolling text",
+      "settings": {
+        "section_width": "w-full",
+        "text_size": "size-base",
+        "pause_scroll_on_hover": false,
+        "spacing": 40,
+        "spacing_mobile": 30,
+        "image_width": 24,
+        "speed": 20,
+        "direction": "left",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "featured_collection_zEAzmQ": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -665,6 +718,7 @@
     "main",
     "slideshow_iMYM47",
     "rich_text_krHxMh",
+    "scrolling_text_Dtdh6j",
     "featured_collection_zEAzmQ",
     "rich_text_6mUq9H",
     "featured_collection_nEKwmF",
