@@ -81,9 +81,9 @@
   word-wrap: break-word;
 }
 
-/*a.mega-menu__link[href*="vizio"] {
+a.mega-menu__link[href*="vizio"] {
   color:rgb(112, 112, 112) !important;
-}*/
+}
 
 .mega-menu__link--level-2 {
   font-weight: normal;
