@@ -74,7 +74,8 @@
 }
 
 .mega-menu__link {
-  color: rgba(var(--color-header-text) / 1);
+  /*color: rgba(var(--color-header-text) / 1);*/
+  color: #b41c84;
   display: inline-block;
   line-height: calc(1 + 0.3 / var(--font-body-scale));
   padding:1rem 0;
