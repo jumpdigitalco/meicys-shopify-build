@@ -81,7 +81,7 @@
   word-wrap: break-word;
 }
 
-a.mega-menu__link[href*="vizio"] {
+a.mega-menu__link--level-2[href*="vizio"] {
   color:rgb(255, 196, 0) !important;
 }
 
