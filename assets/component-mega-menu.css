@@ -81,10 +81,9 @@
   word-wrap: break-word;
 }
 
-a.mega-menu__link--level-2[href*="vizio"] {
-  color:rgb(255, 196, 0) !important;
+a.mega-menu__link[href*="vizio"] {
+  color:rgb(143, 143, 143) !important;
 }
-
 
 .mega-menu__link--level-2 {
   font-weight: normal;
@@ -97,6 +96,9 @@ a.mega-menu__link--level-2[href*="vizio"] {
   color:rgba(var(--color-header-text) / 0.7);
 }
 
+a.mega-menu__link--level-2[href*="vizio"] {
+  color:rgb(0, 0, 0) !important;
+}
 
 .mega-menu__link:hover{
   color: rgba(var(--color-header-link-hover) / 1);
