@@ -382,60 +382,18 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
-    "before_after_image_nztkhg": {
-      "type": "before-after-image",
-      "blocks": {
-        "image_mVbwGm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/modelo-vizio-antes-desktop.jpg",
-            "mobile_image": "shopify://shop_images/modelo-vizio-antes-mobile.jpg",
-            "label_text": "Antes"
-          }
-        },
-        "image_YrnmU8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/modelo-vizio-despues-desktop.jpg",
-            "mobile_image": "shopify://shop_images/modelo-vizio-despues-mobile.jpg",
-            "label_text": "Después"
-          }
-        }
-      },
-      "block_order": [
-        "image_mVbwGm",
-        "image_YrnmU8"
-      ],
-      "name": "Before/after image",
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Resultados que se notan",
-        "heading_tag": "h2",
-        "heading_size_section": "h2",
-        "description": "",
-        "layout": "vertical",
-        "image_placement": "bottom",
-        "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-image",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_99BgJC": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading": "Cuidado Corporal",
+        "heading": "Esmaltes",
         "heading_tag": "h2",
         "heading_size_section": "h2",
         "description": "",
         "layout": "horizontal",
-        "collection": "cuidado-corporal-vizio",
+        "collection": "esmaltes-vizio",
         "products": [],
         "link_url": "",
         "link_text": "",
@@ -542,6 +500,48 @@
         "padding_top": 0,
         "padding_bottom": 36,
         "enable_horizontal_scroll_mobile": true
+      }
+    },
+    "before_after_image_nztkhg": {
+      "type": "before-after-image",
+      "blocks": {
+        "image_mVbwGm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modelo-vizio-antes-desktop.jpg",
+            "mobile_image": "shopify://shop_images/modelo-vizio-antes-mobile.jpg",
+            "label_text": "Antes"
+          }
+        },
+        "image_YrnmU8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/modelo-vizio-despues-desktop.jpg",
+            "mobile_image": "shopify://shop_images/modelo-vizio-despues-mobile.jpg",
+            "label_text": "Después"
+          }
+        }
+      },
+      "block_order": [
+        "image_mVbwGm",
+        "image_YrnmU8"
+      ],
+      "name": "Before/after image",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Resultados que se notan",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "image_placement": "bottom",
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-image",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "shoppable_video_MD4UR8": {
