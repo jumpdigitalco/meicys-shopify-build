@@ -493,7 +493,7 @@
         "heading_size_section": "h2",
         "description": "",
         "layout": "horizontal",
-        "collection": "cuidado-manos-y-unas-vizio",
+        "collection": "cuidado-cuticula-vizio",
         "products": [],
         "link_url": "",
         "link_text": "",
@@ -521,7 +521,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ver todo",
-            "button_link": "shopify://collections/cuidado-manos-y-unas-vizio",
+            "button_link": "shopify://collections/cuidado-cuticula-vizio",
             "button_type": "primary",
             "show_icon": true
           }
