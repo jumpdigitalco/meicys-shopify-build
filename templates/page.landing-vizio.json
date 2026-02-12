@@ -327,6 +327,7 @@
         "collection_GkWkqD",
         "collection_tiA9QP"
       ],
+      "disabled": true,
       "settings": {
         "section_width": "container",
         "subheading": "",
@@ -368,6 +369,7 @@
       "block_order": [
         "button_UBfFbm"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
@@ -624,11 +626,11 @@
     "rich_text_cqEKwG",
     "collection_tabs_dggYgR",
     "rich_text_N4r9ag",
-    "before_after_image_nztkhg",
     "featured_collection_99BgJC",
     "rich_text_JaLPDG",
     "featured_collection_6JGmRT",
     "rich_text_RytKda",
+    "before_after_image_nztkhg",
     "shoppable_video_MD4UR8"
   ]
 }
