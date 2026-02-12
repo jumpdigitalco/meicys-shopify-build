@@ -388,12 +388,12 @@
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading": "Esmaltes",
+        "heading": "Cuidado Corporal",
         "heading_tag": "h2",
         "heading_size_section": "h2",
         "description": "",
         "layout": "horizontal",
-        "collection": "esmaltes-vizio",
+        "collection": "cuidado-corporal-vizio",
         "products": [],
         "link_url": "",
         "link_text": "",
@@ -448,12 +448,12 @@
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading": "Cuidado Manos y Uñas",
+        "heading": "Esmaltes",
         "heading_tag": "h2",
         "heading_size_section": "h2",
         "description": "",
         "layout": "horizontal",
-        "collection": "cuidado-cuticula-vizio",
+        "collection": "esmaltes-vizio",
         "products": [],
         "link_url": "",
         "link_text": "",
@@ -481,7 +481,7 @@
           "type": "button",
           "settings": {
             "button_label": "Ver todo",
-            "button_link": "shopify://collections/cuidado-cuticula-vizio",
+            "button_link": "shopify://collections/esmaltes-vizio",
             "button_type": "primary",
             "show_icon": true
           }
