@@ -309,6 +309,7 @@
     },
     "featured_collection_qhmndB": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "section_width": "container",
@@ -355,6 +356,7 @@
       "block_order": [
         "button_YnJYBh"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
