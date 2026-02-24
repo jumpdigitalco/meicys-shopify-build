@@ -429,45 +429,66 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
-    "rich_text_dfVGq3": {
-      "type": "rich-text",
+    "scrolling_text_aq9Hhg": {
+      "type": "scrolling-text",
       "blocks": {
-        "text_with_image_xRn9Yb": {
-          "type": "text_with_image",
+        "text_m6q3Xc": {
+          "type": "text",
           "settings": {
-            "text": "[img1] HECHO EN COLOMBIA  [img2]  LIBRE DE MALTRATO ANIMAL [img5] APROBADO POR PROFESIONALES [img3] INGREDIENTES DE ALTA CALIDAD",
-            "heading_size": "h6",
-            "line_height": 1,
-            "enable_rounded": false,
-            "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
-            "image_width_1": 60,
-            "url_1": "",
-            "image_2": "shopify://shop_images/cruelty-free.jpg",
-            "image_width_2": 60,
-            "url_2": "",
-            "image_3": "shopify://shop_images/ingredientes-alta-calidad.jpg",
-            "image_width_3": 60,
-            "url_3": "",
-            "image_width_4": 60,
-            "url_4": "",
-            "image_5": "shopify://shop_images/aprobado-profesional_34e52a53-e675-40df-87bc-dd7e77d5f943.jpg",
-            "image_width_5": 60,
-            "url_5": ""
+            "image": "shopify://shop_images/ingredientes-alta-calidad.jpg",
+            "text": "INGREDIENTES DE ALTA CALIDAD",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_UKXMLf": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/aprobado-profesional.jpg",
+            "text": "APROBADO POR PROFESIONALES",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_EJbWmc": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/hecho-en-colombia.jpg",
+            "text": "HECHO EN COLOMBIA",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_Ni9dfY": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/cruelty-free.jpg",
+            "text": "LIBRE DE MALTRATO ANIMAL",
+            "link": "",
+            "outline_text": false
           }
         }
       },
       "block_order": [
-        "text_with_image_xRn9Yb"
+        "text_m6q3Xc",
+        "text_UKXMLf",
+        "text_EJbWmc",
+        "text_Ni9dfY"
       ],
+      "name": "Scrolling text",
       "settings": {
         "section_width": "w-full",
-        "content_width": "container",
-        "content_alignment": "center",
-        "bg_color": "rgba(0,0,0,0)",
+        "text_size": "size-base",
+        "pause_scroll_on_hover": false,
+        "spacing": 40,
+        "spacing_mobile": 30,
+        "image_width": 24,
+        "speed": 20,
+        "direction": "left",
+        "bg_color": "",
         "text_color": "",
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "enable_horizontal_scroll_mobile": true
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "featured_collection_atTfjK": {
@@ -1803,7 +1824,7 @@
     "rich_text_MywzLf",
     "featured_collection_7T97pP",
     "rich_text_V74mDd",
-    "rich_text_dfVGq3",
+    "scrolling_text_aq9Hhg",
     "featured_collection_atTfjK",
     "collection_tabs_wThRhf",
     "rich_text_zB4cRC",
