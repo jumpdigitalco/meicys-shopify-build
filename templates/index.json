@@ -478,15 +478,15 @@
       "name": "Scrolling text",
       "settings": {
         "section_width": "w-full",
-        "text_size": "size-base",
+        "text_size": "h3",
         "pause_scroll_on_hover": false,
-        "spacing": 40,
+        "spacing": 50,
         "spacing_mobile": 30,
-        "image_width": 24,
-        "speed": 20,
+        "image_width": 60,
+        "speed": 25,
         "direction": "left",
         "bg_color": "",
-        "text_color": "",
+        "text_color": "#d895eb",
         "padding_top": 40,
         "padding_bottom": 40
       }
