@@ -482,7 +482,7 @@
         "pause_scroll_on_hover": false,
         "spacing": 50,
         "spacing_mobile": 30,
-        "image_width": 56,
+        "image_width": 50,
         "speed": 25,
         "direction": "left",
         "bg_color": "",
