@@ -478,11 +478,11 @@
       "name": "Scrolling text",
       "settings": {
         "section_width": "w-full",
-        "text_size": "h3",
+        "text_size": "h4",
         "pause_scroll_on_hover": false,
         "spacing": 50,
         "spacing_mobile": 30,
-        "image_width": 60,
+        "image_width": 56,
         "speed": 25,
         "direction": "left",
         "bg_color": "",
