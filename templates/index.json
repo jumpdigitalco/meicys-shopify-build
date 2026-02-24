@@ -307,66 +307,279 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_qhmndB": {
-      "type": "featured-collection",
-      "disabled": true,
-      "name": "Featured collection",
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Dúos perfectos",
-        "heading_tag": "h2",
-        "heading_size_section": "h3",
-        "description": "",
-        "layout": "horizontal",
-        "collection": "duos-perfectos-meicys",
-        "products": [],
-        "link_url": "shopify://collections/kits-capilares",
-        "link_text": "",
-        "button_type": "primary",
-        "show_icon": false,
-        "enable_stack_products": true,
-        "show_progress_bar": false,
-        "enable_overflow_visible": false,
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "column_gap": 3,
-        "columns_mobile": "2",
-        "column_gap_mobile": 2,
-        "swipe_on_mobile": false,
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_MywzLf": {
-      "type": "rich-text",
+    "gallery_grid_EAAHhq": {
+      "type": "gallery-grid",
       "blocks": {
-        "button_YnJYBh": {
-          "type": "button",
+        "image_JkxrRp": {
+          "type": "image",
           "settings": {
-            "button_label": "Ver más",
-            "button_link": "shopify://collections/duos-perfectos-meicys",
-            "button_type": "primary",
-            "show_icon": true
+            "image": "shopify://shop_images/duo-antiruptura.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tintes-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_qgfQ7B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-peinado-perfecto.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/color-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_n3B8UB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-color-reset.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/shampoo-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_8HzTNn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-proteccion-termica.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tratamientos-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_KcCVBC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-anticaida.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/ampolletas-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_KKgLiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-definicion-de-rizos.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/cuidado-corporal-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
           }
         }
       },
       "block_order": [
-        "button_YnJYBh"
+        "image_JkxrRp",
+        "image_qgfQ7B",
+        "image_n3B8UB",
+        "image_8HzTNn",
+        "image_KcCVBC",
+        "image_KKgLiN"
       ],
-      "disabled": true,
-      "name": "Rich text",
+      "name": "Gallery grid",
       "settings": {
-        "section_width": "w-full",
-        "content_width": "max-w-4xl",
-        "content_alignment": "center",
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Nuestras categorías",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "40",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_6pHQRG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hJjc4g": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes",
+            "button_link": "shopify://collections/tintes-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_XBHCEd": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Cuidado de Color",
+            "button_link": "shopify://collections/color-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_FkTCi4": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Shampoo",
+            "button_link": "shopify://collections/shampoo-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_wxYTkT": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tratamientos",
+            "button_link": "shopify://collections/tratamientos-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_pNhJPD": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Ampolletas",
+            "button_link": "shopify://collections/ampolletas-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_gcNwNM": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Cuidado Corporal",
+            "button_link": "shopify://collections/cuidado-corporal-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "column_hJjc4g",
+        "column_XBHCEd",
+        "column_FkTCi4",
+        "column_wxYTkT",
+        "column_pNhJPD",
+        "column_gcNwNM"
+      ],
+      "name": "Multicolumn",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "heading_size": "h4",
+        "column_alignment": "center",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 6,
+        "column_gap": 3,
+        "column_gap_mobile": 3,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "bg_color": "",
         "text_color": "",
         "padding_top": 0,
-        "padding_bottom": 36,
-        "enable_horizontal_scroll_mobile": true
+        "padding_bottom": 0
       }
     },
     "featured_collection_7T97pP": {
@@ -1820,8 +2033,8 @@
   },
   "order": [
     "slideshow_bDT8rN",
-    "featured_collection_qhmndB",
-    "rich_text_MywzLf",
+    "gallery_grid_EAAHhq",
+    "multicolumn_6pHQRG",
     "featured_collection_7T97pP",
     "rich_text_V74mDd",
     "scrolling_text_aq9Hhg",
