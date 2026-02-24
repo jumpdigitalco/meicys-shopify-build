@@ -167,47 +167,281 @@
         "padding_bottom": 40
       }
     },
-    "rich_text_QehnfC": {
-      "type": "rich-text",
+    "gallery_grid_mPYwnW": {
+      "type": "gallery-grid",
       "blocks": {
-        "text_with_image_PFDwQG": {
-          "type": "text_with_image",
+        "image_TTzWPx": {
+          "type": "image",
           "settings": {
-            "text": "[img1] HECHO EN COLOMBIA [img2] LIBRE DE MALTRATO ANIMAL [img3] APROBADO POR PROFESIONALES [img4] INGREDIENTES DE ALTA CALIDAD",
-            "heading_size": "h6",
-            "line_height": 1.5,
-            "enable_rounded": false,
-            "image_1": "shopify://shop_images/hecho-en-colombia.jpg",
-            "image_width_1": 62,
-            "url_1": "shopify://pages/sobre-nosotros",
-            "image_2": "shopify://shop_images/cruelty-free.jpg",
-            "image_width_2": 62,
-            "url_2": "shopify://pages/sobre-nosotros",
-            "image_3": "shopify://shop_images/aprobado-profesional.jpg",
-            "image_width_3": 62,
-            "url_3": "shopify://pages/sobre-nosotros",
-            "image_4": "shopify://shop_images/ingredientes-alta-calidad.jpg",
-            "image_width_4": 60,
-            "url_4": "",
-            "image_width_5": 60,
-            "url_5": ""
+            "image": "shopify://shop_images/duo-antiruptura.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tintes-meicys",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_UPbGhA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-peinado-perfecto.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_6qg7wt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-color-reset.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_6Taezk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-proteccion-termica.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_nWKVNj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-anticaida.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_qFVPhF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/duo-definicion-de-rizos.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/6",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
           }
         }
       },
       "block_order": [
-        "text_with_image_PFDwQG"
+        "image_TTzWPx",
+        "image_UPbGhA",
+        "image_6qg7wt",
+        "image_6Taezk",
+        "image_nWKVNj",
+        "image_qFVPhF"
       ],
       "disabled": true,
-      "name": "Rich text",
+      "name": "Gallery grid",
       "settings": {
-        "section_width": "w-full",
-        "content_width": "container",
-        "content_alignment": "center",
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Nuestras categorías",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "40",
         "bg_color": "",
-        "text_color": "#d0df00",
+        "text_color": "",
         "padding_top": 36,
-        "padding_bottom": 36,
-        "enable_horizontal_scroll_mobile": true
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_Uk4mHY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_x6zaHa": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes",
+            "button_link": "shopify://collections/tintes-meicys",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_epCF4p": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Cuidado de Color",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_HVTtBG": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Shampoo",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_fkWdHD": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tratamientos",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_RPVFhR": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Finalizadores",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_4JUjzD": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Cuidado Corporal",
+            "button_link": "",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "column_x6zaHa",
+        "column_epCF4p",
+        "column_HVTtBG",
+        "column_fkWdHD",
+        "column_RPVFhR",
+        "column_4JUjzD"
+      ],
+      "disabled": true,
+      "name": "Multicolumn",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "heading_size": "h4",
+        "column_alignment": "center",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 6,
+        "column_gap": 3,
+        "column_gap_mobile": 3,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "featured_collection_xjAkAe": {
@@ -510,7 +744,8 @@
     "main",
     "slideshow_hqqk9R",
     "scrolling_text_W6fPfJ",
-    "rich_text_QehnfC",
+    "gallery_grid_mPYwnW",
+    "multicolumn_Uk4mHY",
     "featured_collection_xjAkAe",
     "rich_text_RX8Wmy",
     "collection_list_QbtGxc",
