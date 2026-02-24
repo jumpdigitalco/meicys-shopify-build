@@ -43,7 +43,7 @@
             "description_size": "medium",
             "color_text": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 70,
+            "overlay_opacity": 0,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
             "button_text_1": "",
             "button_link_1": "",
@@ -105,6 +105,68 @@
         "padding_bottom": 0
       }
     },
+    "scrolling_text_W6fPfJ": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_mkhjJj": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/ingredientes-alta-calidad.jpg",
+            "text": "INGREDIENTES DE ALTA CALIDAD",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_nhAbik": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/aprobado-profesional.jpg",
+            "text": "APROBADO POR PROFESIONALES",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_HVCCnV": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/hecho-en-colombia.jpg",
+            "text": "HECHO EN COLOMBIA",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_TQcehk": {
+          "type": "text",
+          "settings": {
+            "image": "shopify://shop_images/cruelty-free.jpg",
+            "text": "LIBRE DE MALTRATO ANIMAL",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_mkhjJj",
+        "text_nhAbik",
+        "text_HVCCnV",
+        "text_TQcehk"
+      ],
+      "name": "Scrolling text",
+      "settings": {
+        "section_width": "w-full",
+        "text_size": "h4",
+        "pause_scroll_on_hover": false,
+        "spacing": 50,
+        "spacing_mobile": 30,
+        "image_width": 50,
+        "speed": 25,
+        "direction": "left",
+        "bg_color": "",
+        "text_color": "#bac61e",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "rich_text_QehnfC": {
       "type": "rich-text",
       "blocks": {
@@ -135,6 +197,7 @@
       "block_order": [
         "text_with_image_PFDwQG"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
@@ -446,6 +509,7 @@
   "order": [
     "main",
     "slideshow_hqqk9R",
+    "scrolling_text_W6fPfJ",
     "rich_text_QehnfC",
     "featured_collection_xjAkAe",
     "rich_text_RX8Wmy",
