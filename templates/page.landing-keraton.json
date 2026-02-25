@@ -318,6 +318,209 @@
         "padding_bottom": 40
       }
     },
+    "gallery_grid_pBzK87": {
+      "type": "gallery-grid",
+      "blocks": {
+        "image_cLiNLa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imagen1-tintes-permanentes.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tintes-permanentes-keraton",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/4",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_7drBaL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-cuidado-color-meicys.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/4",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_Y7Kb9T": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-ampolletas-meicys.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tratamientos-keraton",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/4",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        },
+        "image_YFQhDX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-cuidado-corporal-meicys.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h4",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/keratina-keraton",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/4",
+            "text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_cLiNLa",
+        "image_7drBaL",
+        "image_Y7Kb9T",
+        "image_YFQhDX"
+      ],
+      "name": "Gallery grid",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Nuestras categorías",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "40",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_V7BhP4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PLrict": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes Permanentes",
+            "button_link": "shopify://collections/tintes-permanentes-keraton",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_Wt3NQe": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes Sin Amoníaco",
+            "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_RfLnAd": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tratamientos",
+            "button_link": "shopify://collections/tratamientos-keraton",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_9ejDbR": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Keratina",
+            "button_link": "shopify://collections/keratina-keraton",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "column_PLrict",
+        "column_Wt3NQe",
+        "column_RfLnAd",
+        "column_9ejDbR"
+      ],
+      "name": "Multicolumn",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "heading_size": "h4",
+        "column_alignment": "center",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 4,
+        "column_gap": 4,
+        "column_gap_mobile": 3,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_krHxMh": {
       "type": "rich-text",
       "blocks": {
@@ -781,6 +984,8 @@
     "main",
     "slideshow_iMYM47",
     "scrolling_text_dh8HrE",
+    "gallery_grid_pBzK87",
+    "multicolumn_V7BhP4",
     "rich_text_krHxMh",
     "scrolling_text_Dtdh6j",
     "featured_collection_zEAzmQ",
