@@ -313,7 +313,7 @@
         "image_JkxrRp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-antiruptura.jpg",
+            "image": "shopify://shop_images/categoria-tintes-meicys.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -335,7 +335,7 @@
         "image_qgfQ7B": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-peinado-perfecto.jpg",
+            "image": "shopify://shop_images/categoria-cuidado-color-meicys.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -357,7 +357,7 @@
         "image_n3B8UB": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-color-reset.jpg",
+            "image": "shopify://shop_images/categoria-shampoo-meicys.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -379,7 +379,7 @@
         "image_8HzTNn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-proteccion-termica.jpg",
+            "image": "shopify://shop_images/categoria-tratamientos-meicys.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -401,7 +401,7 @@
         "image_KcCVBC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-anticaida.jpg",
+            "image": "shopify://shop_images/categoria-ampolletas-meicys.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -423,7 +423,7 @@
         "image_KKgLiN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-definicion-de-rizos.jpg",
+            "image": "shopify://shop_images/categoria-cuidado-corporal-meicys.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -451,7 +451,6 @@
         "image_KcCVBC",
         "image_KKgLiN"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -552,7 +551,6 @@
         "column_pNhJPD",
         "column_gcNwNM"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
