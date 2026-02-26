@@ -321,28 +321,6 @@
     "gallery_grid_pBzK87": {
       "type": "gallery-grid",
       "blocks": {
-        "image_cLiNLa": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-tintes-permanentes-keraton.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/tintes-permanentes-keraton",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/4",
-            "text_color": "#000000",
-            "overlay_color": "#FFFFFF",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
         "image_AHhKqJ": {
           "type": "image",
           "settings": {
@@ -362,10 +340,10 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
-        "image_7drBaL": {
+        "image_UgBxT8": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/categoria-tintes-sin-amoniaco-keraton.jpg",
@@ -373,7 +351,7 @@
             "media_size": "adapt",
             "subheading": "",
             "heading": "",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "text": "",
             "button_label": "",
             "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
@@ -384,10 +362,10 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
-        "image_Y7Kb9T": {
+        "image_4aFf8f": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/categoria-tratamientos-keraton.jpg",
@@ -395,7 +373,7 @@
             "media_size": "adapt",
             "subheading": "",
             "heading": "",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "text": "",
             "button_label": "",
             "button_link": "shopify://collections/tratamientos-keraton",
@@ -406,10 +384,10 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
-        "image_YFQhDX": {
+        "image_mnpzBX": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/categoria-keratina-keraton.jpg",
@@ -417,7 +395,7 @@
             "media_size": "adapt",
             "subheading": "",
             "heading": "",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "text": "",
             "button_label": "",
             "button_link": "shopify://collections/keratina-keraton",
@@ -428,16 +406,15 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         }
       },
       "block_order": [
-        "image_cLiNLa",
         "image_AHhKqJ",
-        "image_7drBaL",
-        "image_Y7Kb9T",
-        "image_YFQhDX"
+        "image_UgBxT8",
+        "image_4aFf8f",
+        "image_mnpzBX"
       ],
       "name": "Gallery grid",
       "settings": {
