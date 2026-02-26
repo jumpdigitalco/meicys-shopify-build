@@ -288,7 +288,6 @@
         "image_MYXLP8",
         "image_Th6kKM"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -376,7 +375,6 @@
         "column_qEwanR",
         "column_yjxLnm"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
