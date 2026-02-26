@@ -338,15 +338,15 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_7drBaL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-cuidado-color-meicys.jpg",
+            "image": "shopify://shop_images/categoria-tintes-sin-amoniaco-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -360,15 +360,15 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 90%)"
           }
         },
         "image_Y7Kb9T": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-ampolletas-meicys.jpg",
+            "image": "shopify://shop_images/categoria-tratamientos-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -384,13 +384,13 @@
             "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 90%)"
           }
         },
         "image_YFQhDX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-cuidado-corporal-meicys.jpg",
+            "image": "shopify://shop_images/categoria-keratina-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -404,9 +404,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 90%)"
           }
         }
       },
@@ -416,7 +416,6 @@
         "image_Y7Kb9T",
         "image_YFQhDX"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -491,7 +490,6 @@
         "column_RfLnAd",
         "column_9ejDbR"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
