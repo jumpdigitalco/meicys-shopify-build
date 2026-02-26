@@ -416,6 +416,7 @@
         "image_Y7Kb9T",
         "image_YFQhDX"
       ],
+      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -490,6 +491,7 @@
         "column_RfLnAd",
         "column_9ejDbR"
       ],
+      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
