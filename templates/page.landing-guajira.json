@@ -173,7 +173,7 @@
         "image_EFDBg3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-tintes-permanentes-keraton.jpg",
+            "image": "shopify://shop_images/categoria-bloqueador-guajira.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -181,7 +181,7 @@
             "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "shopify://collections/tintes-permanentes-keraton",
+            "button_link": "shopify://collections/bloqueador-solar-guajira",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
@@ -195,7 +195,7 @@
         "image_hTpmQA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-tintes-sin-amoniaco-keraton.jpg",
+            "image": "shopify://shop_images/categoria-bronceador-guajira.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -203,7 +203,7 @@
             "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
+            "button_link": "shopify://collections/bronceador-guajira",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
@@ -225,7 +225,7 @@
             "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "shopify://collections/tratamientos-keraton",
+            "button_link": "shopify://collections/gel-calmante-guajira",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
@@ -247,7 +247,7 @@
             "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "shopify://collections/keratina-keraton",
+            "button_link": "",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
@@ -269,7 +269,7 @@
             "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "shopify://collections/keratina-keraton",
+            "button_link": "shopify://collections/repelente-guajira",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
@@ -288,7 +288,6 @@
         "image_MYXLP8",
         "image_Th6kKM"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -314,8 +313,8 @@
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Tintes Permanentes",
-            "button_link": "shopify://collections/tintes-permanentes-keraton",
+            "button_label": "Bloqueador Solar",
+            "button_link": "shopify://collections/bloqueador-solar-guajira",
             "button_type": "underlined",
             "show_icon": false
           }
@@ -326,8 +325,8 @@
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Tintes Sin Amoníaco",
-            "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
+            "button_label": "Bronceador",
+            "button_link": "shopify://collections/bronceador-guajira",
             "button_type": "underlined",
             "show_icon": false
           }
@@ -338,8 +337,8 @@
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Tratamientos",
-            "button_link": "shopify://collections/tratamientos-keraton",
+            "button_label": "Gel Calmante",
+            "button_link": "shopify://collections/gel-calmante-guajira",
             "button_type": "underlined",
             "show_icon": false
           }
@@ -350,8 +349,8 @@
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Keratina",
-            "button_link": "shopify://collections/keratina-keraton",
+            "button_label": "Kit Verano",
+            "button_link": "",
             "button_type": "underlined",
             "show_icon": false
           }
@@ -362,8 +361,8 @@
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Keratina",
-            "button_link": "shopify://collections/keratina-keraton",
+            "button_label": "Repelente",
+            "button_link": "shopify://collections/repelente-guajira",
             "button_type": "underlined",
             "show_icon": false
           }
@@ -376,7 +375,6 @@
         "column_qEwanR",
         "column_yjxLnm"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
