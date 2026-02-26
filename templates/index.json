@@ -327,9 +327,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/6",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_qgfQ7B": {
@@ -349,9 +349,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/6",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_n3B8UB": {
@@ -371,9 +371,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/6",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_8HzTNn": {
@@ -393,9 +393,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/6",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_KcCVBC": {
@@ -415,9 +415,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/6",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_KKgLiN": {
@@ -437,9 +437,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/6",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 100%)"
           }
         }
       },
@@ -451,7 +451,6 @@
         "image_KcCVBC",
         "image_KKgLiN"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -552,7 +551,6 @@
         "column_pNhJPD",
         "column_gcNwNM"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
