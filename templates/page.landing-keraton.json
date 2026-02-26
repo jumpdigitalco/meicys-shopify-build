@@ -340,7 +340,7 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 100%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
         "image_7drBaL": {
@@ -362,7 +362,7 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 90%)"
           }
         },
         "image_Y7Kb9T": {
@@ -382,9 +382,9 @@
             "desktop_content_position": "middle-center",
             "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 90%)"
           }
         },
         "image_YFQhDX": {
@@ -406,7 +406,7 @@
             "text_color": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 90%)"
           }
         }
       },
