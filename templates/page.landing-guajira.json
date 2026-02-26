@@ -167,13 +167,13 @@
         "padding_bottom": 40
       }
     },
-    "gallery_grid_mPYwnW": {
+    "gallery_grid_6qYamR": {
       "type": "gallery-grid",
       "blocks": {
-        "image_TTzWPx": {
+        "image_EFDBg3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-antiruptura.jpg",
+            "image": "shopify://shop_images/categoria-tintes-permanentes-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -181,135 +181,89 @@
             "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "shopify://collections/tintes-meicys",
+            "button_link": "shopify://collections/tintes-permanentes-keraton",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
-        "image_UPbGhA": {
+        "image_hTpmQA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-peinado-perfecto.jpg",
+            "image": "shopify://shop_images/categoria-tintes-sin-amoniaco-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
             "heading": "",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
-        "image_6qg7wt": {
+        "image_qXJ6h7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-color-reset.jpg",
+            "image": "shopify://shop_images/categoria-tratamientos-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
             "heading": "",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/tratamientos-keraton",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         },
-        "image_6Taezk": {
+        "image_MYXLP8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/duo-proteccion-termica.jpg",
+            "image": "shopify://shop_images/categoria-keratina-keraton.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
             "heading": "",
-            "heading_size": "h4",
+            "heading_size": "h5",
             "text": "",
             "button_label": "",
-            "button_link": "",
+            "button_link": "shopify://collections/keratina-keraton",
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
-            "overlay_color": "#000000",
+            "overlay_color": "#FFFFFF",
             "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
-          }
-        },
-        "image_nWKVNj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/duo-anticaida.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
-          }
-        },
-        "image_qFVPhF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/duo-definicion-de-rizos.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)"
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
           }
         }
       },
       "block_order": [
-        "image_TTzWPx",
-        "image_UPbGhA",
-        "image_6qg7wt",
-        "image_6Taezk",
-        "image_nWKVNj",
-        "image_qFVPhF"
+        "image_EFDBg3",
+        "image_hTpmQA",
+        "image_qXJ6h7",
+        "image_MYXLP8"
       ],
       "disabled": true,
       "name": "Gallery grid",
@@ -328,89 +282,63 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_Uk4mHY": {
+    "multicolumn_ckNFFM": {
       "type": "multicolumn",
       "blocks": {
-        "column_x6zaHa": {
+        "column_DRtpmJ": {
           "type": "column",
           "settings": {
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Tintes",
-            "button_link": "shopify://collections/tintes-meicys",
+            "button_label": "Tintes Permanentes",
+            "button_link": "shopify://collections/tintes-permanentes-keraton",
             "button_type": "underlined",
             "show_icon": false
           }
         },
-        "column_epCF4p": {
+        "column_YkVVLe": {
           "type": "column",
           "settings": {
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Cuidado de Color",
-            "button_link": "",
+            "button_label": "Tintes Sin Amoníaco",
+            "button_link": "shopify://collections/tintes-sin-amoniaco-keraton",
             "button_type": "underlined",
             "show_icon": false
           }
         },
-        "column_HVTtBG": {
-          "type": "column",
-          "settings": {
-            "link": "",
-            "title": "",
-            "text": "",
-            "button_label": "Shampoo",
-            "button_link": "",
-            "button_type": "underlined",
-            "show_icon": false
-          }
-        },
-        "column_fkWdHD": {
+        "column_CA3Vzp": {
           "type": "column",
           "settings": {
             "link": "",
             "title": "",
             "text": "",
             "button_label": "Tratamientos",
-            "button_link": "",
+            "button_link": "shopify://collections/tratamientos-keraton",
             "button_type": "underlined",
             "show_icon": false
           }
         },
-        "column_RPVFhR": {
+        "column_qEwanR": {
           "type": "column",
           "settings": {
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Finalizadores",
-            "button_link": "",
-            "button_type": "underlined",
-            "show_icon": false
-          }
-        },
-        "column_4JUjzD": {
-          "type": "column",
-          "settings": {
-            "link": "",
-            "title": "",
-            "text": "",
-            "button_label": "Cuidado Corporal",
-            "button_link": "",
+            "button_label": "Keratina",
+            "button_link": "shopify://collections/keratina-keraton",
             "button_type": "underlined",
             "show_icon": false
           }
         }
       },
       "block_order": [
-        "column_x6zaHa",
-        "column_epCF4p",
-        "column_HVTtBG",
-        "column_fkWdHD",
-        "column_RPVFhR",
-        "column_4JUjzD"
+        "column_DRtpmJ",
+        "column_YkVVLe",
+        "column_CA3Vzp",
+        "column_qEwanR"
       ],
       "disabled": true,
       "name": "Multicolumn",
@@ -433,8 +361,8 @@
         "enable_stack_columns": false,
         "show_progress_bar": false,
         "enable_overflow_visible": false,
-        "columns_desktop": 6,
-        "column_gap": 3,
+        "columns_desktop": 4,
+        "column_gap": 4,
         "column_gap_mobile": 3,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -744,8 +672,8 @@
     "main",
     "slideshow_hqqk9R",
     "scrolling_text_W6fPfJ",
-    "gallery_grid_mPYwnW",
-    "multicolumn_Uk4mHY",
+    "gallery_grid_6qYamR",
+    "multicolumn_ckNFFM",
     "featured_collection_xjAkAe",
     "rich_text_RX8Wmy",
     "collection_list_QbtGxc",
