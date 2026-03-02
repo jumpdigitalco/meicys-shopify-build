@@ -44,7 +44,7 @@
             "color_text": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 70,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1) 80%, rgba(0, 0, 0, 0.3) 100%)",
             "button_text_1": "",
             "button_link_1": "",
             "button_type_1": "primary",
@@ -203,7 +203,7 @@
         "image_b6WBVW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-bloqueador-guajira.jpg",
+            "image": "shopify://shop_images/categoria-tintes-permanentes-cpc.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -225,7 +225,7 @@
         "image_NMQyET": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-bronceador-guajira.jpg",
+            "image": "shopify://shop_images/categoria-tratamientos-cpc.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -247,7 +247,7 @@
         "image_6tKfCF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-gel-calmante-guajira.jpg",
+            "image": "shopify://shop_images/categoria-tintes-cejas-cpc.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
