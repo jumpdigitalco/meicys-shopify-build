@@ -239,7 +239,7 @@
         "image_MYXLP8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-keratina-keraton.jpg",
+            "image": "shopify://shop_images/categoria-kit-solar-guajira.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -288,7 +288,6 @@
         "image_MYXLP8",
         "image_Th6kKM"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -350,7 +349,7 @@
             "link": "",
             "title": "",
             "text": "",
-            "button_label": "Kit Verano",
+            "button_label": "Kit Solar",
             "button_link": "",
             "button_type": "underlined",
             "show_icon": false
@@ -376,7 +375,6 @@
         "column_qEwanR",
         "column_yjxLnm"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
