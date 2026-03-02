@@ -197,6 +197,245 @@
         "padding_bottom": 40
       }
     },
+    "gallery_grid_YPTBFh": {
+      "type": "gallery-grid",
+      "blocks": {
+        "image_b6WBVW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-bloqueador-guajira.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tinte-permanente-para-el-cabello-cpc",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/5",
+            "text_color": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
+          }
+        },
+        "image_NMQyET": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-bronceador-guajira.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tratamientos-capilares-cpc",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/5",
+            "text_color": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
+          }
+        },
+        "image_6tKfCF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-gel-calmante-guajira.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tinte-para-las-cejas-cpc",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/5",
+            "text_color": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
+          }
+        },
+        "image_Mimyj7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-kit-solar-guajira.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/tinte-para-la-barba-cpc",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/5",
+            "text_color": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
+          }
+        },
+        "image_yHR6Tf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/categoria-repelente-guajira.jpg",
+            "use_video": false,
+            "media_size": "adapt",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h5",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify://collections/crema-depilatoria-cpc",
+            "button_type": "primary-white",
+            "show_icon": false,
+            "desktop_content_position": "middle-center",
+            "block_width": "basis-1/5",
+            "text_color": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_b6WBVW",
+        "image_NMQyET",
+        "image_6tKfCF",
+        "image_Mimyj7",
+        "image_yHR6Tf"
+      ],
+      "name": "Gallery grid",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Nuestras categorías",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "column_gap": "40",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_rYNrWh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WxbRTC": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes Permanentes",
+            "button_link": "shopify://collections/tinte-permanente-para-el-cabello-cpc",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_NxeFhW": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tratamientos",
+            "button_link": "shopify://collections/tratamientos-capilares-cpc",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_V8J6DC": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes para Cejas",
+            "button_link": "shopify://collections/tinte-para-las-cejas-cpc",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_7RbcaM": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Tintes para Barba",
+            "button_link": "shopify://collections/tinte-para-la-barba-cpc",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        },
+        "column_K8PVzL": {
+          "type": "column",
+          "settings": {
+            "link": "",
+            "title": "",
+            "text": "",
+            "button_label": "Crema Depilatoria",
+            "button_link": "shopify://collections/crema-depilatoria-cpc",
+            "button_type": "underlined",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "column_WxbRTC",
+        "column_NxeFhW",
+        "column_V8J6DC",
+        "column_7RbcaM",
+        "column_K8PVzL"
+      ],
+      "name": "Multicolumn",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "",
+        "heading_tag": "h2",
+        "heading_size_section": "h2",
+        "description": "",
+        "layout": "vertical",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "heading_size": "h4",
+        "column_alignment": "center",
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_columns": false,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "columns_desktop": 5,
+        "column_gap": 5,
+        "column_gap_mobile": 3,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "rich_text_B6bzTY": {
       "type": "rich-text",
       "blocks": {
@@ -670,6 +909,8 @@
     "main",
     "slideshow_EnBfQz",
     "scrolling_text_6fzJFM",
+    "gallery_grid_YPTBFh",
+    "multicolumn_rYNrWh",
     "rich_text_B6bzTY",
     "featured_collection_yz8NiC",
     "rich_text_YbpyHh",

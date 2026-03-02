@@ -185,7 +185,7 @@
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/5",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
             "overlay_color": "#ffffff",
             "overlay_opacity": 0,
@@ -207,7 +207,7 @@
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/5",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
             "overlay_color": "#ffffff",
             "overlay_opacity": 0,
@@ -229,7 +229,7 @@
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/5",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
             "overlay_color": "#ffffff",
             "overlay_opacity": 0,
@@ -238,6 +238,7 @@
         },
         "image_MYXLP8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/categoria-kit-solar-guajira.jpg",
             "use_video": false,
@@ -273,7 +274,7 @@
             "button_type": "primary-white",
             "show_icon": false,
             "desktop_content_position": "middle-center",
-            "block_width": "basis-1/5",
+            "block_width": "basis-1/4",
             "text_color": "#000000",
             "overlay_color": "#ffffff",
             "overlay_opacity": 0,
@@ -288,7 +289,6 @@
         "image_MYXLP8",
         "image_Th6kKM"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -346,6 +346,7 @@
         },
         "column_qEwanR": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "link": "",
             "title": "",
@@ -376,7 +377,6 @@
         "column_qEwanR",
         "column_yjxLnm"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
@@ -397,8 +397,8 @@
         "enable_stack_columns": false,
         "show_progress_bar": false,
         "enable_overflow_visible": false,
-        "columns_desktop": 5,
-        "column_gap": 5,
+        "columns_desktop": 4,
+        "column_gap": 4,
         "column_gap_mobile": 3,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
