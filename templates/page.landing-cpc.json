@@ -813,15 +813,9 @@
             "product": "kit-crema-depilatoria-sedosa-cpc-90ml"
           }
         },
-        "video_zibVHx": {
-          "type": "video",
-          "settings": {
-            "video_hosted": "shopify://files/videos/prueba-cpc.mp4",
-            "product": "esmalte-efecto-gel-unas-vizio-no_134"
-          }
-        },
         "video_TgAKDY": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video_hosted": "shopify://files/videos/prueba-cpc3.mp4",
             "product": "tratamiento-cpc12-500ml"
@@ -832,7 +826,6 @@
         "video_dNKzN6",
         "video_9tyMNg",
         "video_BW4r76",
-        "video_zibVHx",
         "video_TgAKDY"
       ],
       "name": "Shoppable video",
