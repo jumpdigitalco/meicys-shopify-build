@@ -173,7 +173,7 @@
         "image_kmddXU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-tintes-meicys.jpg",
+            "image": "shopify://shop_images/categoria-splash-for-men-vizio.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -195,7 +195,7 @@
         "image_V7iNU9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-cuidado-color-meicys.jpg",
+            "image": "shopify://shop_images/categoria-splash-vizio.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -217,7 +217,7 @@
         "image_fEj8mn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-shampoo-meicys.jpg",
+            "image": "shopify://shop_images/categoria-tratamientos-vizio.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -239,7 +239,7 @@
         "image_K4MHEi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-tratamientos-meicys.jpg",
+            "image": "shopify://shop_images/categoria-esmaltes-vizio.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -261,7 +261,7 @@
         "image_mzHJdN": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-ampolletas-meicys.jpg",
+            "image": "shopify://shop_images/categoria-cuidado-corporal-vizio.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -283,7 +283,7 @@
         "image_Jd7Har": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-cuidado-corporal-meicys.jpg",
+            "image": "shopify://shop_images/categoria-finalizadores-vizio.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -311,7 +311,6 @@
         "image_mzHJdN",
         "image_Jd7Har"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -412,7 +411,6 @@
         "column_CRJxPG",
         "column_iWnLDz"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
