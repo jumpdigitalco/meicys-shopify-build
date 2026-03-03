@@ -74,6 +74,7 @@
         },
         "slide_maKEtc": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-hydromeicys.jpg",
             "mobile_image": "shopify://shop_images/Banner-principal-30_-mobile-meicys.jpg",
@@ -103,9 +104,8 @@
         },
         "slide_X7CJC9": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/banner-principal-guajira-desktop.jpg",
+            "image": "shopify://shop_images/banner-nueva-imagen-serum-crema-corporales.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-guajira-mobile.jpg",
             "slide_link": "shopify://pages/guajira",
             "video_background": false,
@@ -120,9 +120,9 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "overlay_color": "#FFFFFF",
+            "overlay_opacity": 100,
+            "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(196, 196, 196, 1) 100%)",
             "button_text_1": "",
             "button_link_1": "",
             "button_type_1": "primary",
