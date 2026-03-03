@@ -291,7 +291,7 @@
         "image_yHR6Tf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/categoria-repelente-guajira.jpg",
+            "image": "shopify://shop_images/categoria-crema-corporal-cpc.jpg",
             "use_video": false,
             "media_size": "adapt",
             "subheading": "",
@@ -318,7 +318,6 @@
         "image_Mimyj7",
         "image_yHR6Tf"
       ],
-      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -406,7 +405,6 @@
         "column_7RbcaM",
         "column_K8PVzL"
       ],
-      "disabled": true,
       "name": "Multicolumn",
       "settings": {
         "section_width": "container",
