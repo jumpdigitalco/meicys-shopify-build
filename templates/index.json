@@ -74,6 +74,7 @@
         },
         "slide_maKEtc": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-Nueva-Imagen-Hydromeicys.jpg",
             "mobile_image": "shopify://shop_images/Banner-principal-30_-mobile-meicys.jpg",
@@ -103,6 +104,7 @@
         },
         "slide_X7CJC9": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-principal-guajira-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-guajira-mobile.jpg",
