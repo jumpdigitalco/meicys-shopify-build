@@ -104,6 +104,7 @@
         },
         "slide_X7CJC9": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-serum-crema-corporales.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-guajira-mobile.jpg",
