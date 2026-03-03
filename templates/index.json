@@ -122,7 +122,7 @@
             "color_text": "#000000",
             "overlay_color": "#FFFFFF",
             "overlay_opacity": 100,
-            "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(196, 196, 196, 1) 100%)",
+            "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(196, 196, 196, 0.3) 100%)",
             "button_text_1": "",
             "button_link_1": "",
             "button_type_1": "primary",
