@@ -581,7 +581,7 @@
         "columns_desktop": 6,
         "column_gap": 3,
         "column_gap_mobile": 3,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "bg_color": "",
         "text_color": "",
