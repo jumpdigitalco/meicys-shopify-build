@@ -34,7 +34,7 @@
             "content_width": 500,
             "content_position": "middle-center",
             "mobile_content_position": "middle-center",
-            "content_space": "gap-y-4",
+            "content_space": "gap-y-2",
             "subheading": "",
             "heading": "",
             "heading_tag": "div",
