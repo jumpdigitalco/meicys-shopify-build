@@ -501,7 +501,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-shampoo-meicys.jpg",
-            "link": "",
+            "link": "shopify://collections/shampoo-meicys",
             "title": "",
             "text": "",
             "button_label": "Shampoo",
@@ -514,7 +514,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-tratamientos-meicys.jpg",
-            "link": "",
+            "link": "shopify://collections/tratamientos-meicys",
             "title": "",
             "text": "",
             "button_label": "Tratamientos",
@@ -527,7 +527,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-ampolletas-meicys.jpg",
-            "link": "",
+            "link": "shopify://collections/ampolletas-meicys",
             "title": "",
             "text": "",
             "button_label": "Ampolletas",
@@ -540,7 +540,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-cuidado-corporal-meicys.jpg",
-            "link": "",
+            "link": "shopify://collections/cuidado-corporal-meicys",
             "title": "",
             "text": "",
             "button_label": "Cuidado Corporal",
