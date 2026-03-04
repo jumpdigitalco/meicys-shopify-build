@@ -540,7 +540,7 @@
         "text_size": "h4",
         "pause_scroll_on_hover": false,
         "spacing": 50,
-        "spacing_mobile": 30,
+        "spacing_mobile": 50,
         "image_width": 50,
         "speed": 25,
         "direction": "left",
