@@ -451,6 +451,7 @@
         "image_KcCVBC",
         "image_L7iUiM"
       ],
+      "disabled": true,
       "name": "Gallery grid",
       "settings": {
         "section_width": "container",
@@ -473,6 +474,7 @@
         "column_hJjc4g": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/categoria-tintes-meicys.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -485,6 +487,7 @@
         "column_XBHCEd": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/categoria-cuidado-color-meicys.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -497,6 +500,7 @@
         "column_FkTCi4": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/categoria-shampoo-meicys.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -509,6 +513,7 @@
         "column_wxYTkT": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/categoria-tratamientos-meicys.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -521,6 +526,7 @@
         "column_pNhJPD": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/categoria-ampolletas-meicys.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -533,6 +539,7 @@
         "column_gcNwNM": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/categoria-cuidado-corporal-meicys.jpg",
             "link": "",
             "title": "",
             "text": "",
@@ -555,7 +562,7 @@
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading": "",
+        "heading": "Nuestras categorías",
         "heading_tag": "h2",
         "heading_size_section": "h2",
         "description": "",
@@ -578,7 +585,7 @@
         "swipe_on_mobile": false,
         "bg_color": "",
         "text_color": "",
-        "padding_top": 0,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
