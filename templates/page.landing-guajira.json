@@ -29,7 +29,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-bloqueador-guajira-20dto-marzo-2026.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-30_-guajira-mobile.jpg",
-            "slide_link": "shopify://collections/tus-favoritos-con-el-20-guajira",
+            "slide_link": "shopify://collections/promo-guajira-20-dcto",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
@@ -501,6 +501,7 @@
       "blocks": {
         "video_JH7Rt9": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video_hosted": "shopify://files/videos/prueba-guajira3.mp4",
             "product": "bronceador-300ml-guajira"
@@ -508,6 +509,7 @@
         },
         "video_HCmRzf": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video_hosted": "shopify://files/videos/prueba-guajira4.mp4",
             "product": "gel-calmante-400ml-guajira"
@@ -515,6 +517,7 @@
         },
         "video_x68aA4": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video_hosted": "shopify://files/videos/prueba-guajira6.mp4",
             "product": "repelente-120ml-guajira"
