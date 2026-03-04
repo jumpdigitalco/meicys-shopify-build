@@ -187,14 +187,14 @@
         "text_size": "h4",
         "pause_scroll_on_hover": false,
         "spacing": 50,
-        "spacing_mobile": 30,
+        "spacing_mobile": 50,
         "image_width": 50,
         "speed": 25,
         "direction": "left",
         "bg_color": "",
         "text_color": "#ff0000",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "gallery_grid_YPTBFh": {
@@ -330,7 +330,7 @@
         "column_gap": "40",
         "bg_color": "",
         "text_color": "",
-        "padding_top": 4,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -464,8 +464,8 @@
         "swipe_on_mobile": false,
         "bg_color": "",
         "text_color": "",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_YbpyHh": {
@@ -524,8 +524,8 @@
         "swipe_on_mobile": false,
         "bg_color": "",
         "text_color": "",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "rich_text_yzWeRR": {
@@ -552,7 +552,7 @@
         "bg_color": "",
         "text_color": "",
         "padding_top": 0,
-        "padding_bottom": 8,
+        "padding_bottom": 36,
         "enable_horizontal_scroll_mobile": true
       }
     },
@@ -707,7 +707,7 @@
         "swipe_on_mobile": true,
         "bg_color": "",
         "text_color": "",
-        "padding_top": 20,
+        "padding_top": 36,
         "padding_bottom": 4
       }
     },
