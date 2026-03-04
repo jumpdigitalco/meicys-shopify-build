@@ -55,9 +55,8 @@
         },
         "slide_Y7Tcf8": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/banner-principal-30_-guajira-desktop.jpg",
+            "image": "shopify://shop_images/banner-bloqueador-guajira-20dto-marzo-2026.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-30_-guajira-mobile.jpg",
             "slide_link": "shopify://collections/guajira",
             "video_background": false,

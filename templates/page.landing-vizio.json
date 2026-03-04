@@ -623,6 +623,66 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
+    "lookbook_slider_HLhJTc": {
+      "type": "lookbook-slider",
+      "blocks": {
+        "product_BEePwe": {
+          "type": "product",
+          "settings": {
+            "product": "kit-keraton-supreme-aliss-1200ml",
+            "horizontal_position": 54,
+            "vertical_position": 24,
+            "horizontal_position_mobile": 54,
+            "vertical_position_mobile": 24
+          }
+        },
+        "product_krqAcU": {
+          "type": "product",
+          "settings": {
+            "product": "keraton-supreme-aliss-1000ml",
+            "horizontal_position": 72,
+            "vertical_position": 54,
+            "horizontal_position_mobile": 72,
+            "vertical_position_mobile": 54
+          }
+        },
+        "product_FmMd66": {
+          "type": "product",
+          "settings": {
+            "product": "shampoo-reestructurante-keraton-650ml",
+            "horizontal_position": 32,
+            "vertical_position": 72,
+            "horizontal_position_mobile": 32,
+            "vertical_position_mobile": 72
+          }
+        }
+      },
+      "block_order": [
+        "product_BEePwe",
+        "product_krqAcU",
+        "product_FmMd66"
+      ],
+      "name": "Lookbook slider",
+      "settings": {
+        "section_width": "container",
+        "heading": "Keratinas",
+        "layout": "left",
+        "image": "shopify://shop_images/modelo-cabello-keratina-kit-keraton-supreme-aliss.png",
+        "media_size": "adapt",
+        "columns_desktop": "1",
+        "show_arrows": true,
+        "show_progress_bar": false,
+        "swipe_on_mobile": false,
+        "column_gap": 3,
+        "column_gap_mobile": 2,
+        "bg_color": "",
+        "text_color": "",
+        "hotspot_color": "#ffffff",
+        "hotspot_color_after": "#b24dd4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection_99BgJC": {
       "type": "featured-collection",
       "disabled": true,
@@ -872,6 +932,7 @@
     "rich_text_N4r9ag",
     "collection_tabs_mfFaX9",
     "rich_text_VaaVaa",
+    "lookbook_slider_HLhJTc",
     "featured_collection_99BgJC",
     "rich_text_JaLPDG",
     "featured_collection_6JGmRT",
