@@ -474,7 +474,7 @@
             "text_color_1": "#ffffff",
             "overlay_color_1": "#000000",
             "overlay_opacity_1": 30,
-            "overlay_gradient_1": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
+            "overlay_gradient_1": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 40%, rgba(0, 0, 0, 0.3) 100%)",
             "image_ratio_2": "adapt",
             "url_2": "",
             "align_text_2": "center-center",
