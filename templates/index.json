@@ -542,7 +542,7 @@
         "spacing": 50,
         "spacing_mobile": 50,
         "image_width": 50,
-        "speed": 25,
+        "speed": 15,
         "direction": "left",
         "bg_color": "",
         "text_color": "#d895eb",
