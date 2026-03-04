@@ -29,7 +29,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-cpc-20dto-marzo-2026.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-30_-cpc-mobile.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/promo-vizio-20-dcto",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
