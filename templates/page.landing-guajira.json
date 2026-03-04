@@ -46,7 +46,7 @@
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(0, 0, 0, 0.3) 100%)",
             "button_text_1": "",
-            "button_link_1": "",
+            "button_link_1": "shopify://collections/guajira",
             "button_type_1": "primary",
             "button_text_2": "",
             "button_link_2": "",
