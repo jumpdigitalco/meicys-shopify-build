@@ -154,7 +154,7 @@
       "name": "Scrolling text",
       "settings": {
         "section_width": "w-full",
-        "text_size": "h4",
+        "text_size": "size-base",
         "pause_scroll_on_hover": false,
         "spacing": 50,
         "spacing_mobile": 50,
