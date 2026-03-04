@@ -475,7 +475,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-tintes-meicys.jpg",
-            "link": "",
+            "link": "shopify://collections/tintes-meicys",
             "title": "",
             "text": "",
             "button_label": "Tintes",
