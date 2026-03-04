@@ -42,7 +42,7 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#000000",
-            "overlay_color": "#FFFFFF",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(0, 0, 0, 0.3) 100%)",
             "button_text_1": "",
@@ -71,7 +71,7 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#000000",
-            "overlay_color": "#FFFFFF",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(0, 0, 0, 0.3) 100%)",
             "button_text_1": "",
@@ -193,8 +193,8 @@
         "direction": "left",
         "bg_color": "",
         "text_color": "#ff0000",
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "gallery_grid_YPTBFh": {
@@ -330,7 +330,7 @@
         "column_gap": "40",
         "bg_color": "",
         "text_color": "",
-        "padding_top": 36,
+        "padding_top": 4,
         "padding_bottom": 0
       }
     },
