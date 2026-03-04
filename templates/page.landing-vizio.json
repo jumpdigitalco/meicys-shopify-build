@@ -167,173 +167,14 @@
         "padding_bottom": 40
       }
     },
-    "gallery_grid_7DaNqf": {
-      "type": "gallery-grid",
-      "blocks": {
-        "image_kmddXU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-splash-for-men-vizio.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/splash-for-men-vizio",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_V7iNU9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-splash-vizio.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/splash-corporales-vizio",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_fEj8mn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-tratamientos-vizio.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/tratamientos-vizio",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_K4MHEi": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-esmaltes-vizio.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/esmaltes-vizio",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_mzHJdN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-cuidado-corporal-vizio.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/cuidado-corporal-vizio",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_Jd7Har": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-finalizadores-vizio.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h4",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/finalizadores-vizio",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/6",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        }
-      },
-      "block_order": [
-        "image_kmddXU",
-        "image_V7iNU9",
-        "image_fEj8mn",
-        "image_K4MHEi",
-        "image_mzHJdN",
-        "image_Jd7Har"
-      ],
-      "name": "Gallery grid",
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Nuestras categorías",
-        "heading_tag": "h2",
-        "heading_size_section": "h2",
-        "description": "",
-        "layout": "vertical",
-        "column_gap": "40",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_miixj9": {
       "type": "multicolumn",
       "blocks": {
         "column_6dkqLG": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-splash-for-men-vizio.jpg",
+            "link": "shopify://collections/splash-for-men-vizio",
             "title": "",
             "text": "",
             "button_label": "Splash For Men",
@@ -345,7 +186,8 @@
         "column_LLXXaF": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-splash-vizio.jpg",
+            "link": "shopify://collections/splash-corporales-vizio",
             "title": "",
             "text": "",
             "button_label": "Splash",
@@ -357,7 +199,8 @@
         "column_gwVAJR": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-tratamientos-vizio.jpg",
+            "link": "shopify://collections/tratamientos-vizio",
             "title": "",
             "text": "",
             "button_label": "Tratamientos",
@@ -369,7 +212,8 @@
         "column_wKDA8c": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-esmaltes-vizio.jpg",
+            "link": "shopify://collections/esmaltes-vizio",
             "title": "",
             "text": "",
             "button_label": "Esmaltes",
@@ -381,7 +225,8 @@
         "column_CRJxPG": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-cuidado-corporal-vizio.jpg",
+            "link": "shopify://collections/cuidado-corporal-vizio",
             "title": "",
             "text": "",
             "button_label": "Cuidado Corporal",
@@ -393,7 +238,8 @@
         "column_iWnLDz": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-finalizadores-vizio.jpg",
+            "link": "shopify://collections/finalizadores-vizio",
             "title": "",
             "text": "",
             "button_label": "Finalizadores",
@@ -415,7 +261,7 @@
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading": "",
+        "heading": "Nuestras categorías",
         "heading_tag": "h2",
         "heading_size_section": "h2",
         "description": "",
@@ -435,7 +281,7 @@
         "column_gap": 3,
         "column_gap_mobile": 3,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "bg_color": "",
         "text_color": "",
         "padding_top": 0,
@@ -1018,7 +864,6 @@
     "main",
     "slideshow_k3Gxgy",
     "scrolling_text_MBqmG9",
-    "gallery_grid_7DaNqf",
     "multicolumn_miixj9",
     "featured_collection_BB3PUi",
     "collection_list_9rkjej",
