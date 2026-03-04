@@ -167,151 +167,14 @@
         "padding_bottom": 40
       }
     },
-    "gallery_grid_6qYamR": {
-      "type": "gallery-grid",
-      "blocks": {
-        "image_EFDBg3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-bloqueador-guajira.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/bloqueador-solar-guajira",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/4",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_hTpmQA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-bronceador-guajira.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/bronceador-guajira",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/4",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_qXJ6h7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-gel-calmante-guajira.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/gel-calmante-guajira",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/4",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_MYXLP8": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/categoria-kit-solar-guajira.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/5",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        },
-        "image_Th6kKM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/categoria-repelente-guajira.jpg",
-            "use_video": false,
-            "media_size": "adapt",
-            "subheading": "",
-            "heading": "",
-            "heading_size": "h5",
-            "text": "",
-            "button_label": "",
-            "button_link": "shopify://collections/repelente-guajira",
-            "button_type": "primary-white",
-            "show_icon": false,
-            "desktop_content_position": "middle-center",
-            "block_width": "basis-1/4",
-            "text_color": "#000000",
-            "overlay_color": "#ffffff",
-            "overlay_opacity": 0,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 0.3) 100%)"
-          }
-        }
-      },
-      "block_order": [
-        "image_EFDBg3",
-        "image_hTpmQA",
-        "image_qXJ6h7",
-        "image_MYXLP8",
-        "image_Th6kKM"
-      ],
-      "name": "Gallery grid",
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Nuestras categorías",
-        "heading_tag": "h2",
-        "heading_size_section": "h2",
-        "description": "",
-        "layout": "vertical",
-        "column_gap": "40",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_ckNFFM": {
       "type": "multicolumn",
       "blocks": {
         "column_DRtpmJ": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-bloqueador-guajira.jpg",
+            "link": "shopify://collections/bloqueador-solar-guajira",
             "title": "",
             "text": "",
             "button_label": "Bloqueador Solar",
@@ -323,7 +186,8 @@
         "column_YkVVLe": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-bronceador-guajira.jpg",
+            "link": "shopify://collections/bronceador-guajira",
             "title": "",
             "text": "",
             "button_label": "Bronceador",
@@ -335,7 +199,8 @@
         "column_CA3Vzp": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-gel-calmante-guajira.jpg",
+            "link": "shopify://collections/gel-calmante-guajira",
             "title": "",
             "text": "",
             "button_label": "Gel Calmante",
@@ -360,7 +225,8 @@
         "column_yjxLnm": {
           "type": "column",
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-repelente-guajira.jpg",
+            "link": "shopify://collections/repelente-guajira",
             "title": "",
             "text": "",
             "button_label": "Repelente",
@@ -381,7 +247,7 @@
       "settings": {
         "section_width": "container",
         "subheading": "",
-        "heading": "",
+        "heading": "Nuestras categorías",
         "heading_tag": "h2",
         "heading_size_section": "h2",
         "description": "",
@@ -401,7 +267,7 @@
         "column_gap": 4,
         "column_gap_mobile": 3,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "bg_color": "",
         "text_color": "",
         "padding_top": 0,
@@ -708,7 +574,6 @@
     "main",
     "slideshow_hqqk9R",
     "scrolling_text_W6fPfJ",
-    "gallery_grid_6qYamR",
     "multicolumn_ckNFFM",
     "featured_collection_xjAkAe",
     "rich_text_RX8Wmy",
