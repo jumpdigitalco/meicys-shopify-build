@@ -29,7 +29,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-vizio-20dto-marzo-2026.jpg",
             "mobile_image": "shopify://shop_images/banner-principal-30_-vizio-mobile.jpg",
-            "slide_link": "shopify://collections/tus-favoritos-con-el-20-vizio",
+            "slide_link": "shopify://collections/promo-vizio-20-dcto",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
@@ -628,7 +628,7 @@
         "product_BEePwe": {
           "type": "product",
           "settings": {
-            "product": "kit-keraton-supreme-aliss-1200ml",
+            "product": "esmalte-efecto-gel-unas-vizio-no_136",
             "horizontal_position": 54,
             "vertical_position": 24,
             "horizontal_position_mobile": 54,
@@ -638,7 +638,7 @@
         "product_krqAcU": {
           "type": "product",
           "settings": {
-            "product": "keraton-supreme-aliss-1000ml",
+            "product": "removedor-unas-vizio-250ml",
             "horizontal_position": 72,
             "vertical_position": 54,
             "horizontal_position_mobile": 72,
@@ -648,7 +648,7 @@
         "product_FmMd66": {
           "type": "product",
           "settings": {
-            "product": "shampoo-reestructurante-keraton-650ml",
+            "product": "removedor-cuticula-gel-vizio-100ml",
             "horizontal_position": 32,
             "vertical_position": 72,
             "horizontal_position_mobile": 32,
@@ -664,7 +664,7 @@
       "name": "Lookbook slider",
       "settings": {
         "section_width": "container",
-        "heading": "Keratinas",
+        "heading": "Para tus uñas",
         "layout": "left",
         "image": "shopify://shop_images/modelo-cabello-keratina-kit-keraton-supreme-aliss.png",
         "media_size": "adapt",
