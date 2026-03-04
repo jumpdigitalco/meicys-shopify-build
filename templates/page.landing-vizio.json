@@ -662,6 +662,7 @@
         "product_krqAcU",
         "product_FmMd66"
       ],
+      "disabled": true,
       "name": "Lookbook slider",
       "settings": {
         "section_width": "container",
