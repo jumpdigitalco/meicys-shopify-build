@@ -24,6 +24,35 @@
     "slideshow_k3Gxgy": {
       "type": "slideshow",
       "blocks": {
+        "slide_46cEh7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/banner-vizio-20dto-marzo-2026.jpg",
+            "mobile_image": "shopify://shop_images/banner-principal-30_-vizio-mobile.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#FFFFFF",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(0, 0, 0, 0.3) 100%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
         "slide_qLAJg6": {
           "type": "slide",
           "settings": {
@@ -52,41 +81,11 @@
             "button_link_2": "",
             "button_type_2": "primary"
           }
-        },
-        "slide_46cEh7": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/banner-principal-30_-vizio-desktop.jpg",
-            "mobile_image": "shopify://shop_images/banner-principal-30_-vizio-mobile.jpg",
-            "slide_link": "",
-            "video_background": false,
-            "content_width": 500,
-            "content_position": "middle-center",
-            "mobile_content_position": "middle-center",
-            "content_space": "gap-y-4",
-            "subheading": "",
-            "heading": "",
-            "heading_tag": "div",
-            "heading_size": "hxl",
-            "content": "",
-            "description_size": "medium",
-            "color_text": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3) 90%)",
-            "button_text_1": "",
-            "button_link_1": "",
-            "button_type_1": "primary",
-            "button_text_2": "",
-            "button_link_2": "",
-            "button_type_2": "primary"
-          }
         }
       },
       "block_order": [
-        "slide_qLAJg6",
-        "slide_46cEh7"
+        "slide_46cEh7",
+        "slide_qLAJg6"
       ],
       "name": "Slideshow",
       "settings": {
