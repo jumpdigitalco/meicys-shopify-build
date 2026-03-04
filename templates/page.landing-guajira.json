@@ -26,6 +26,7 @@
       "blocks": {
         "slide_Y7Tcf8": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-bloqueador-guajira-20dto-marzo-2026.jpg",
             "slide_link": "shopify://collections/promo-guajira-20-dcto",
