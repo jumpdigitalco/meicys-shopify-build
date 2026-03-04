@@ -677,8 +677,109 @@
         "enable_horizontal_scroll_mobile": true
       }
     },
+    "collection_tabs_mfFaX9": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_LBEwRC": {
+          "type": "collection",
+          "settings": {
+            "collection": "splash-for-men-vizio",
+            "tab_heading": "Splash For Men"
+          }
+        },
+        "collection_L4Gk73": {
+          "type": "collection",
+          "settings": {
+            "collection": "splash-corporales-vizio",
+            "tab_heading": "Splash"
+          }
+        },
+        "collection_VTAkzY": {
+          "type": "collection",
+          "settings": {
+            "collection": "aceite-corporal-vizio",
+            "tab_heading": "Aceites Corporales"
+          }
+        },
+        "collection_7VHWKF": {
+          "type": "collection",
+          "settings": {
+            "collection": "exfoliante-vizio",
+            "tab_heading": "Exfoliante"
+          }
+        },
+        "collection_DED3AA": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "decolorante-meicys",
+            "tab_heading": "Decolorantes"
+          }
+        }
+      },
+      "block_order": [
+        "collection_LBEwRC",
+        "collection_L4Gk73",
+        "collection_VTAkzY",
+        "collection_7VHWKF",
+        "collection_DED3AA"
+      ],
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Los más vendidos",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "enable_uppercase": true,
+        "tabs_font_family": "headings_font",
+        "layout": "horizontal",
+        "enable_stack_products": false,
+        "show_progress_bar": true,
+        "enable_overflow_visible": true,
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": true,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "rich_text_VaaVaa": {
+      "type": "rich-text",
+      "blocks": {
+        "button_HRCMTa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver todo",
+            "button_link": "shopify://collections/cuidado-corporal-vizio",
+            "button_type": "primary",
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "button_HRCMTa"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 20,
+        "padding_bottom": 12,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
     "featured_collection_99BgJC": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "section_width": "container",
@@ -725,6 +826,7 @@
       "block_order": [
         "button_bhxaN4"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "section_width": "w-full",
@@ -923,6 +1025,8 @@
     "rich_text_cqEKwG",
     "collection_tabs_dggYgR",
     "rich_text_N4r9ag",
+    "collection_tabs_mfFaX9",
+    "rich_text_VaaVaa",
     "featured_collection_99BgJC",
     "rich_text_JaLPDG",
     "featured_collection_6JGmRT",
