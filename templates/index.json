@@ -136,7 +136,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Banner-Removedor-Color-Desktop.jpg",
-            "mobile_image": "shopify://shop_images/Banner-Removedor-Color-Desktop.jpg",
+            "mobile_image": "shopify://shop_images/Banner-Removedor-Color-Mobile.jpg",
             "slide_link": "shopify://products/removedor-de-color-360ml",
             "video_background": false,
             "content_width": 600,
@@ -294,7 +294,7 @@
       "settings": {
         "slide_width": "w-full",
         "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-image",
+        "mobile_height": "mobile-height-400",
         "auto_rotate": true,
         "change_slides_speed": 3,
         "transition": "fade",
