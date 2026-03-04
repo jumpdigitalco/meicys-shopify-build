@@ -43,6 +43,7 @@
 
 {%- capture mobile_height_slideshow -%}
   {%- case mobile_height -%}
+    {%- when 'mobile-height-250' -%} 250px
     {%- when 'mobile-height-300' -%} 300px
     {%- when 'mobile-height-400' -%} 400px
     {%- when 'mobile-height-450' -%} 450px
@@ -330,6 +331,7 @@
       "label": "Mobile height",
       "options": [
         {"value": "mobile-height-image","label": "Adapt to image"},
+        {"value": "mobile-height-250","label": "250px"},
         {"value": "mobile-height-300","label": "300px"},
         {"value": "mobile-height-400","label": "400px"},
         {"value": "mobile-height-450","label": "450px"},
