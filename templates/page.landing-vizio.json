@@ -34,7 +34,7 @@
             "content_width": 500,
             "content_position": "middle-center",
             "mobile_content_position": "middle-center",
-            "content_space": "gap-y-2",
+            "content_space": "gap-y-4",
             "subheading": "",
             "heading": "",
             "heading_tag": "div",
@@ -92,7 +92,7 @@
       "settings": {
         "slide_width": "w-full",
         "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-image",
+        "mobile_height": "mobile-height-400",
         "auto_rotate": true,
         "change_slides_speed": 3,
         "transition": "zoom",
