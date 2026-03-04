@@ -580,7 +580,7 @@
         "enable_overflow_visible": false,
         "columns_desktop": 6,
         "column_gap": 3,
-        "column_gap_mobile": 3,
+        "column_gap_mobile": 0,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "bg_color": "",
