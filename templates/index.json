@@ -488,7 +488,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-cuidado-color-meicys.jpg",
-            "link": "",
+            "link": "shopify://collections/color-meicys",
             "title": "",
             "text": "",
             "button_label": "Cuidado de Color",
