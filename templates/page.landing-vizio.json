@@ -92,7 +92,7 @@
       "settings": {
         "slide_width": "w-full",
         "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-400",
+        "mobile_height": "mobile-height-300",
         "auto_rotate": true,
         "change_slides_speed": 3,
         "transition": "zoom",
