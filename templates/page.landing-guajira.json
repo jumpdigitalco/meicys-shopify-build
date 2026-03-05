@@ -210,13 +210,13 @@
         },
         "column_qEwanR": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "link": "",
+            "image": "shopify://shop_images/categoria-kit-solar-guajira.jpg",
+            "link": "shopify://collections/kit-de-verano-guajira",
             "title": "",
             "text": "",
-            "button_label": "Kit Solar",
-            "button_link": "",
+            "button_label": "Kit de Verano",
+            "button_link": "shopify://collections/kit-de-verano-guajira",
             "button_type": "underlined",
             "show_icon": false
           }
