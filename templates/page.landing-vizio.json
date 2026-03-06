@@ -71,7 +71,7 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#000000",
-            "overlay_color": "#FFFFFF",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(0, 0, 0, 0.3) 100%)",
             "button_text_1": "",
@@ -629,8 +629,8 @@
           "type": "product",
           "settings": {
             "product": "esmalte-efecto-gel-unas-vizio-no_136",
-            "horizontal_position": 54,
-            "vertical_position": 24,
+            "horizontal_position": 39,
+            "vertical_position": 33,
             "horizontal_position_mobile": 54,
             "vertical_position_mobile": 24
           }
