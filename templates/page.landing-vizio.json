@@ -26,10 +26,9 @@
       "blocks": {
         "slide_46cEh7": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-vizio-20dto-marzo-2026.jpg",
-            "mobile_image": "shopify://shop_images/banner-principal-30_-vizio-mobile.jpg",
+            "mobile_image": "shopify://shop_images/banner-vizio-20dto-marzo-2026-mobile.jpg",
             "slide_link": "shopify://collections/promo-vizio-20-dcto",
             "video_background": false,
             "content_width": 500,
@@ -43,7 +42,7 @@
             "content": "",
             "description_size": "medium",
             "color_text": "#000000",
-            "overlay_color": "#FFFFFF",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 70%, rgba(0, 0, 0, 0.3) 100%)",
             "button_text_1": "",
@@ -92,7 +91,7 @@
       "settings": {
         "slide_width": "w-full",
         "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-image",
+        "mobile_height": "mobile-height-250",
         "auto_rotate": true,
         "change_slides_speed": 3,
         "transition": "zoom",
