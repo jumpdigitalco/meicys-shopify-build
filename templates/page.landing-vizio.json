@@ -639,9 +639,9 @@
           "type": "product",
           "settings": {
             "product": "removedor-unas-vizio-250ml",
-            "horizontal_position": 72,
-            "vertical_position": 54,
-            "horizontal_position_mobile": 72,
+            "horizontal_position": 47,
+            "vertical_position": 49,
+            "horizontal_position_mobile": 39,
             "vertical_position_mobile": 54
           }
         },
