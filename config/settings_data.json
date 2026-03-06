@@ -80,6 +80,7 @@
     "show_page_transition": false,
     "enable_box_card": true,
     "card_show_video": false,
+    "card_show_vendor": true,
     "card_show_rating": false,
     "card_show_sold_out_badge": false,
     "card_show_discount_badge": true,

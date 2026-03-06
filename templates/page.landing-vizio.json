@@ -661,13 +661,12 @@
         "product_krqAcU",
         "product_FmMd66"
       ],
-      "disabled": true,
       "name": "Lookbook slider",
       "settings": {
         "section_width": "container",
         "heading": "Para tus uñas",
         "layout": "left",
-        "image": "shopify://shop_images/modelo-cabello-keratina-kit-keraton-supreme-aliss.png",
+        "image": "shopify://shop_images/unas-vizio-seccion-para-tus-unas.png",
         "media_size": "adapt",
         "columns_desktop": "1",
         "show_arrows": true,
