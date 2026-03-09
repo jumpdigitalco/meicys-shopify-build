@@ -671,7 +671,7 @@
         "columns_desktop": "1",
         "show_arrows": true,
         "show_progress_bar": false,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "column_gap": 3,
         "column_gap_mobile": 2,
         "bg_color": "",
