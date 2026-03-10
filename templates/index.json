@@ -428,6 +428,77 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_dDFbQC": {
+      "type": "featured-collection",
+      "name": "Últimos lanzamientos",
+      "settings": {
+        "section_width": "container",
+        "subheading": "",
+        "heading": "Últimos lanzamientos",
+        "heading_tag": "h2",
+        "heading_size_section": "h3",
+        "description": "",
+        "layout": "horizontal",
+        "collection": "lanzamientos",
+        "products": [
+          "serum-corporal-dermo-hidratante-x500ml",
+          "serum-corporal-dermo-reafirmante-x500ml",
+          "crema-corporal-dermo-regeneradora-24-7-x500ml",
+          "pre-shampoo-250ml",
+          "shampoo-reanimador-keratina-550ml",
+          "shampoo-restaurador-gusano-de-seda-550ml",
+          "shampoo-antipolucion-detox-550ml",
+          "shampoo-crece-pelo-equino-550ml",
+          "balsamo-acondicionador-antiquiebre-550ml",
+          "tonico-anticaida-y-control-caspa-x150ml"
+        ],
+        "link_url": "",
+        "link_text": "",
+        "button_type": "primary",
+        "show_icon": false,
+        "enable_stack_products": true,
+        "show_progress_bar": false,
+        "enable_overflow_visible": false,
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "column_gap": 3,
+        "columns_mobile": "2",
+        "column_gap_mobile": 2,
+        "swipe_on_mobile": false,
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_T43zQ7": {
+      "type": "rich-text",
+      "blocks": {
+        "button_XhjawH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ver más",
+            "button_link": "shopify://collections/lanzamientos",
+            "button_type": "primary",
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "button_XhjawH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "w-full",
+        "content_width": "max-w-4xl",
+        "content_alignment": "center",
+        "bg_color": "",
+        "text_color": "",
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "enable_horizontal_scroll_mobile": true
+      }
+    },
     "featured_collection_7T97pP": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -799,74 +870,6 @@
         "text_color": "rgba(0,0,0,0)",
         "padding_top": 44,
         "padding_bottom": 68
-      }
-    },
-    "featured_collection_dDFbQC": {
-      "type": "featured-collection",
-      "name": "Últimos lanzamientos",
-      "settings": {
-        "section_width": "container",
-        "subheading": "",
-        "heading": "Últimos lanzamientos",
-        "heading_tag": "h2",
-        "heading_size_section": "h3",
-        "description": "",
-        "layout": "horizontal",
-        "collection": "lanzamientos",
-        "products": [
-          "pre-shampoo-250ml",
-          "shampoo-reanimador-keratina-550ml",
-          "shampoo-restaurador-gusano-de-seda-550ml",
-          "shampoo-antipolucion-detox-550ml",
-          "shampoo-crece-pelo-equino-550ml",
-          "balsamo-acondicionador-antiquiebre-550ml",
-          "tonico-anticaida-y-control-caspa-x150ml"
-        ],
-        "link_url": "",
-        "link_text": "",
-        "button_type": "primary",
-        "show_icon": false,
-        "enable_stack_products": true,
-        "show_progress_bar": false,
-        "enable_overflow_visible": false,
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "column_gap": 3,
-        "columns_mobile": "2",
-        "column_gap_mobile": 2,
-        "swipe_on_mobile": false,
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rich_text_T43zQ7": {
-      "type": "rich-text",
-      "blocks": {
-        "button_XhjawH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Ver más",
-            "button_link": "shopify://collections/lanzamientos",
-            "button_type": "primary",
-            "show_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "button_XhjawH"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "section_width": "w-full",
-        "content_width": "max-w-4xl",
-        "content_alignment": "center",
-        "bg_color": "",
-        "text_color": "",
-        "padding_top": 0,
-        "padding_bottom": 36,
-        "enable_horizontal_scroll_mobile": true
       }
     },
     "collection_list_BTc3rm": {
@@ -1880,6 +1883,8 @@
   "order": [
     "slideshow_bDT8rN",
     "multicolumn_6pHQRG",
+    "featured_collection_dDFbQC",
+    "rich_text_T43zQ7",
     "featured_collection_7T97pP",
     "rich_text_V74mDd",
     "scrolling_text_aq9Hhg",
@@ -1887,8 +1892,6 @@
     "collection_tabs_wThRhf",
     "rich_text_zB4cRC",
     "collection_list_Xi8cjB",
-    "featured_collection_dDFbQC",
-    "rich_text_T43zQ7",
     "collection_list_BTc3rm",
     "before_after_image_mAMhFX",
     "rich_text_w63qhW",
