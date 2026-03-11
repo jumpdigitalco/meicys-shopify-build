@@ -78,7 +78,7 @@
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-hydromeicys.jpg",
             "mobile_image": "shopify://shop_images/Banner-principal-30_-mobile-meicys.jpg",
-            "slide_link": "shopify://collections/meicys",
+            "slide_link": "",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
