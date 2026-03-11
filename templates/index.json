@@ -106,7 +106,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-serum-crema-corporales.jpg",
-            "mobile_image": "shopify://shop_images/banner-principal-guajira-mobile.jpg",
+            "mobile_image": "shopify://shop_images/banner-mobile-nueva-imagen-serum-crema-corporales.jpg",
             "slide_link": "shopify://collections/serum-y-crema-corporal-meicys",
             "video_background": false,
             "content_width": 500,
