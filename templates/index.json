@@ -74,11 +74,10 @@
         },
         "slide_maKEtc": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-hydromeicys.jpg",
             "mobile_image": "shopify://shop_images/banner-mobile-nueva-imagen-hydromeicys.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/hydro-meicys-leave-in-x300ml",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
