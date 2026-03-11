@@ -77,7 +77,7 @@
           "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-hydromeicys.jpg",
-            "mobile_image": "shopify://shop_images/Banner-principal-30_-mobile-meicys.jpg",
+            "mobile_image": "shopify://shop_images/banner-mobile-nueva-imagen-hydromeicys.jpg",
             "slide_link": "",
             "video_background": false,
             "content_width": 500,
