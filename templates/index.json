@@ -504,7 +504,7 @@
         "collection_zWgQjq": {
           "type": "collection",
           "settings": {
-            "collection": "tintes-meicys-tonos-naturales-y-naturales-intensos",
+            "collection": "tintes-meicys-tonos-naturales",
             "tab_heading": "Naturales"
           }
         },
@@ -528,13 +528,21 @@
             "collection": "tintes-meicys-tonos-marrones-y-chocolates",
             "tab_heading": "Dorados y Beige Arena"
           }
+        },
+        "collection_qRcexc": {
+          "type": "collection",
+          "settings": {
+            "collection": "tintes-meicys-tonos-cobrizos-y-rojos",
+            "tab_heading": "Cobrizos y Rojos"
+          }
         }
       },
       "block_order": [
         "collection_zWgQjq",
         "collection_bEYwhA",
         "collection_deHF9R",
-        "collection_FhMg7W"
+        "collection_FhMg7W",
+        "collection_qRcexc"
       ],
       "settings": {
         "section_width": "container",
