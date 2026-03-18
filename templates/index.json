@@ -535,6 +535,20 @@
             "collection": "tintes-meicys-tonos-cobrizos-y-rojos",
             "tab_heading": "Cobrizos y Rojos"
           }
+        },
+        "collection_XfErCE": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "tab_heading": "Violetas"
+          }
+        },
+        "collection_X3iKzK": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "tab_heading": "Metálicos y Mate"
+          }
         }
       },
       "block_order": [
@@ -542,7 +556,9 @@
         "collection_bEYwhA",
         "collection_deHF9R",
         "collection_FhMg7W",
-        "collection_qRcexc"
+        "collection_qRcexc",
+        "collection_XfErCE",
+        "collection_X3iKzK"
       ],
       "settings": {
         "section_width": "container",
