@@ -552,6 +552,7 @@
         },
         "collection_CKBAVg": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "tintes-meicys-tonos-fantasia",
             "tab_heading": "Fantasía"
@@ -559,6 +560,7 @@
         },
         "collection_QrrPJz": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "tintes-meicys-tonos-especiales",
             "tab_heading": "Rubio Especial"
