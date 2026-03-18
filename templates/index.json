@@ -439,16 +439,17 @@
         "layout": "horizontal",
         "collection": "lanzamientos",
         "products": [
-          "serum-corporal-dermo-hidratante-x500ml",
+          "hydro-meicys-leave-in-meicys-300ml",
           "serum-corporal-dermo-reafirmante-x500ml",
+          "serum-corporal-dermo-hidratante-x500ml",
           "crema-corporal-dermo-regeneradora-24-7-x500ml",
           "pre-shampoo-250ml",
-          "shampoo-reanimador-keratina-550ml",
-          "shampoo-restaurador-gusano-de-seda-550ml",
-          "shampoo-antipolucion-detox-550ml",
+          "tonico-anticaida-y-control-caspa-x150ml",
           "shampoo-crece-pelo-equino-550ml",
           "balsamo-acondicionador-antiquiebre-550ml",
-          "tonico-anticaida-y-control-caspa-x150ml"
+          "shampoo-antipolucion-detox-550ml",
+          "shampoo-reanimador-keratina-550ml",
+          "shampoo-restaurador-gusano-de-seda-550ml"
         ],
         "link_url": "",
         "link_text": "",
