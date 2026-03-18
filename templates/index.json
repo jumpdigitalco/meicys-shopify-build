@@ -552,10 +552,16 @@
         },
         "collection_CKBAVg": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "tintes-meicys-tonos-fantasia",
             "tab_heading": "Fantasía"
+          }
+        },
+        "collection_QrrPJz": {
+          "type": "collection",
+          "settings": {
+            "collection": "tintes-meicys-tonos-especiales",
+            "tab_heading": "Rubio Especial"
           }
         }
       },
@@ -567,7 +573,8 @@
         "collection_qRcexc",
         "collection_XfErCE",
         "collection_X3iKzK",
-        "collection_CKBAVg"
+        "collection_CKBAVg",
+        "collection_QrrPJz"
       ],
       "settings": {
         "section_width": "container",
