@@ -511,14 +511,14 @@
         "collection_bEYwhA": {
           "type": "collection",
           "settings": {
-            "collection": "tintes-meicys-tonos-naturales",
+            "collection": "tintes-meicys-tonos-cenizos-irisados",
             "tab_heading": "Cenizos e Irisados"
           }
         },
         "collection_deHF9R": {
           "type": "collection",
           "settings": {
-            "collection": "tintes-meicys-tonos-naturales",
+            "collection": "tintes-meicys-tonos-marrones-chocolates",
             "tab_heading": "Marrones y Chocolates"
           }
         },
