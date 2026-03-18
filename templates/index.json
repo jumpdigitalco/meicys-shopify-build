@@ -524,10 +524,9 @@
         },
         "collection_FhMg7W": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "collection": "decolorante-meicys",
-            "tab_heading": "Decolorantes"
+            "collection": "tintes-meicys-tonos-marrones-y-chocolates",
+            "tab_heading": "Dorados y Beige Arena"
           }
         }
       },
