@@ -849,6 +849,13 @@
     "shoppable_video_MD4UR8": {
       "type": "shoppable-video",
       "blocks": {
+        "video_HDL3Ej": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-vizio13.mp4",
+            "product": "cera-moldeadora-vizio-200ml"
+          }
+        },
         "video_E4b6EW": {
           "type": "video",
           "settings": {
@@ -893,6 +900,7 @@
         }
       },
       "block_order": [
+        "video_HDL3Ej",
         "video_E4b6EW",
         "video_G87Urj",
         "video_6EQejF",
