@@ -856,6 +856,13 @@
             "product": "hidrokeratina-pluss-320ml"
           }
         },
+        "video_G87Urj": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-vizio10.mp4",
+            "product": "splash-sweet-200ml"
+          }
+        },
         "video_6EQejF": {
           "type": "video",
           "settings": {
@@ -863,18 +870,11 @@
             "product": "tratamiento-repair-320ml"
           }
         },
-        "video_G87Urj": {
-          "type": "video",
-          "settings": {
-            "video_hosted": "shopify://files/videos/prueba-vizio8.mp4",
-            "product": "splash-cool-for-men-200ml"
-          }
-        },
         "video_GL83nY": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "product": ""
+            "video_hosted": "shopify://files/videos/prueba-vizio11.mp4",
+            "product": "splash-spiritual-200ml"
           }
         },
         "video_frfkQt": {
@@ -887,8 +887,8 @@
       },
       "block_order": [
         "video_E4b6EW",
-        "video_6EQejF",
         "video_G87Urj",
+        "video_6EQejF",
         "video_GL83nY",
         "video_frfkQt"
       ],
