@@ -508,17 +508,15 @@
         },
         "video_HCmRzf": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video_hosted": "shopify://files/videos/prueba-guajira4.mp4",
+            "video_hosted": "shopify://files/videos/prueba-guajira4_4680239d-6b6d-4a5e-a464-d1d971683f1c.mp4",
             "product": "gel-calmante-400ml-guajira"
           }
         },
         "video_x68aA4": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video_hosted": "shopify://files/videos/prueba-guajira6.mp4",
+            "video_hosted": "shopify://files/videos/prueba-guajira6_eaf834be-bb92-4841-a907-6789edb95a5f.mp4",
             "product": "repelente-120ml-guajira"
           }
         },
