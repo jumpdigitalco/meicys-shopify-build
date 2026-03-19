@@ -501,9 +501,8 @@
       "blocks": {
         "video_JH7Rt9": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "video_hosted": "shopify://files/videos/prueba-guajira3.mp4",
+            "video_hosted": "shopify://files/videos/prueba-guajira2_ce6de8c1-bbb3-4def-98ac-2839017be946.mp4",
             "product": "bronceador-300ml-guajira"
           }
         },
