@@ -883,6 +883,13 @@
             "video_hosted": "shopify://files/videos/prueba-vizio6.mp4",
             "product": "removedor-unas-vizio-500ml"
           }
+        },
+        "video_WEmQ7e": {
+          "type": "video",
+          "settings": {
+            "video_hosted": "shopify://files/videos/prueba-vizio12.mp4",
+            "product": "splash-passion-200ml"
+          }
         }
       },
       "block_order": [
@@ -890,7 +897,8 @@
         "video_G87Urj",
         "video_6EQejF",
         "video_GL83nY",
-        "video_frfkQt"
+        "video_frfkQt",
+        "video_WEmQ7e"
       ],
       "name": "Shoppable video",
       "settings": {
