@@ -865,9 +865,9 @@
         },
         "video_G87Urj": {
           "type": "video",
-          "disabled": true,
           "settings": {
-            "product": ""
+            "video_hosted": "shopify://files/videos/prueba-vizio8.mp4",
+            "product": "splash-cool-for-men-200ml"
           }
         },
         "video_GL83nY": {
