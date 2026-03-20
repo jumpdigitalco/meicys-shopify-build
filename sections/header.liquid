@@ -242,13 +242,29 @@
 
       {% assign menu_handle = section.settings.additional_links_menu %}
 
-{% if section.settings.additional_links_menu != blank and linklists[section.settings.additional_links_menu].links != blank %}
-      <ul class="additional-links-menu hidden md:flex pl-0 list-unstyled items-center gap-x-5 mr-4">
-        {% for add_link in linklists[section.settings.additional_links_menu].links limit: 3 %}
-          <a href="{{add_link.url}}" class="">{{ add_link.title }}</a>
-        {% endfor %}
-      </ul>
-      {% endif %}
+{% assign menu_handle = 'promo-meicys' %}
+
+{% if request.path contains 'keraton' %}
+  {% assign menu_handle = 'promo-keraton' %}
+{% elsif request.path contains 'guajira' %}
+  {% assign menu_handle = 'promo-guajira' %}
+{% elsif request.path contains 'cpc' %}
+  {% assign menu_handle = 'promo-gcpc' %}
+{% elsif request.path contains 'vizio' %}
+  {% assign menu_handle = 'promo-vizio' %}
+{% endif %}
+
+{% if linklists[menu_handle].links != blank %}
+  <ul class="additional-links-menu hidden md:flex pl-0 list-unstyled items-center gap-x-5 mr-4">
+    {% for link in linklists[menu_handle].links %}
+      <li>
+        <a href="{{ link.url }}" class="header__menu-item">
+          {{ link.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
       
       <div class="desktop-localization-wrapper pr-5">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
