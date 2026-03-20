@@ -242,16 +242,12 @@
 
       {% assign menu_handle = section.settings.additional_links_menu %}
 
-{% if request.path contains 'meicys' %}
-  {% assign menu_handle = 'menu-meicys' %}
-{% elsif request.path contains 'keraton' %}
+{% assign menu_handle = 'menu-meicys' %}
+
+{% if request.path contains 'keraton' %}
   {% assign menu_handle = 'menu-keraton' %}
 {% elsif request.path contains 'guajira' %}
   {% assign menu_handle = 'menu-guajira' %}
-{% elsif request.path contains 'cpc' %}
-  {% assign menu_handle = 'menu-cpc' %}
-{% elsif request.path contains 'vizio' %}
-  {% assign menu_handle = 'menu-vizio' %}
 {% endif %}
 
 {% if linklists[menu_handle].links != blank %}
