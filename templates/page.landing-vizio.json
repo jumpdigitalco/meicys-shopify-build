@@ -639,8 +639,8 @@
           "type": "product",
           "settings": {
             "product": "removedor-unas-vizio-250ml",
-            "horizontal_position": 40,
-            "vertical_position": 47,
+            "horizontal_position": 41,
+            "vertical_position": 52,
             "horizontal_position_mobile": 38,
             "vertical_position_mobile": 46
           }
@@ -649,8 +649,8 @@
           "type": "product",
           "settings": {
             "product": "removedor-cuticula-gel-vizio-100ml",
-            "horizontal_position": 48,
-            "vertical_position": 63,
+            "horizontal_position": 46,
+            "vertical_position": 64,
             "horizontal_position_mobile": 45,
             "vertical_position_mobile": 62
           }
