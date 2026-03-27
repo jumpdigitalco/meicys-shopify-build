@@ -5221,8 +5221,7 @@ hr{
   position: absolute;
   bottom: 0;
   width: 100%;
-  /*background-color: rgb(var(--color-price-discount-background));*/
-  background-color: #B24DD4;
+  background-color: rgb(var(--color-price-discount-background));
   color:rgb(var(--color-price-discount));
   border-radius: 0 0 var(--media-radius) var(--media-radius);
 }
