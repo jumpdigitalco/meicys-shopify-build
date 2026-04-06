@@ -84,6 +84,7 @@
       "blocks": {
         "ai_gen_block_fe2c36e_6mdTHq": {
           "type": "ai_gen_block_fe2c36e",
+          "disabled": true,
           "settings": {
             "heading": "Envíos pausados temporalmente",
             "message": "Debido a la Semana Santa, los envíos estarán pausados temporalmente.",
