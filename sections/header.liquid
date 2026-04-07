@@ -321,7 +321,7 @@
       {%- endfor -%}
 
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble" {% if settings.cart_type == 'drawer' %} data-no-transition {% endif %}>
-       {% render 'icon-cart' %}
+       {% render 'icon-bag' %}
         <span class="visually-hidden">{{ 'templates.cart.cart' | t }}</span>
         {%- if cart != empty -%}
           <div class="cart-count-bubble">
