@@ -93,7 +93,7 @@
     "predictive_search_show_price": true,
     "currency_code_enabled": false,
     "cart_type": "drawer",
-    "cart_icon": "cart_bag_04",
+    "cart_icon": "cart_bag_03",
     "show_vendor": true,
     "show_cart_note": true,
     "show_cart_calc_shipping": true,
