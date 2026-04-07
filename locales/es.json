@@ -331,7 +331,7 @@
       "shipping_estimate": "Estimar las tarifas de envío",
       "shipping_estimate_button": "Calcular",
       "we_accept": "Aceptamos",
-      "checkout": "Verificar",
+      "checkout": "Finalizar pedido",
       "empty": "Tu carrito está vacío",
       "cart_error": "Se produjo un error al actualizar su carrito. ",
       "cart_quantity_error_html": "Sólo puedes agregar {{ quantity }} de este artículo a su carrito.",
