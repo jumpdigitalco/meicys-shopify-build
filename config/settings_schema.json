@@ -1367,19 +1367,19 @@
             "label": "Icon 01"
           },
           {
-            "value": "cart_bag_02",
+            "value": "cart_cart_02",
             "label": "Icon 02"
           },
           {
-            "value": "cart_bag_03",
+            "value": "cart_cart_03",
             "label": "Icon 03"
           },
           {
-            "value": "cart_bag_04",
+            "value": "cart_cart_04",
             "label": "Icon 04"
           },
           {
-            "value": "cart_bag_05",
+            "value": "cart_cart_05",
             "label": "Icon 05"
           }
         ]
