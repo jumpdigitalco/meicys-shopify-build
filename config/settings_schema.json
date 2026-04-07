@@ -1360,10 +1360,10 @@
         "type": "select",
         "id": "cart_icon",
         "label": "Cart icon",
-        "default": "cart_cart_01",
+        "default": "cart_bag_01",
         "options": [
           {
-            "value": "cart_cart_01",
+            "value": "cart_bag_01",
             "label": "Icon 01"
           },
           {
@@ -1375,7 +1375,7 @@
             "label": "Icon 03"
           },
           {
-            "value": "cart_cart_04",
+            "value": "cart_bag_04",
             "label": "Icon 04"
           },
           {
