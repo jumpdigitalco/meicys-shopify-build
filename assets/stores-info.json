@@ -69,6 +69,29 @@
                   }
               }
             },
+            "Bello": {
+              "lat":6.3319223,"lng": -75.5735411,
+              "stores": {
+                  "":{
+                      "lat": 6.3315912,
+                      "lng": -75.5562489,
+                      "name": "",
+                      "address": "CR 49 45 100, BRR MANCHESTER, Bello, Antioquia, Colombia",
+                      "phone": "57 3015311923",
+                      "email": "",
+                      "whatsapp": ""
+                  },
+                  "":{
+                      "lat": 6.3497095,
+                      "lng": -75.5667168,
+                      "name": "",
+                      "address": "CL 70 63B 04, BRR BELLAVISTA, Bello, Antioquia, Colombia",
+                      "phone": "57 3194793215",
+                      "email": "",
+                      "whatsapp": ""
+                  }
+              }
+            },
             "Bogotá": {
               "lat": 4.70713327035187,
               "lng": -74.0645714591545,
