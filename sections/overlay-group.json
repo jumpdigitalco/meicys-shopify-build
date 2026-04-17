@@ -11,6 +11,59 @@
   "name": "Overlay group",
   "type": "aside",
   "sections": {
+    "1776441594fc43f846": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_cbd7bd3_DkBaF4": {
+          "type": "ai_gen_block_cbd7bd3",
+          "settings": {
+            "heading": "<p>Join our newsletter</p>",
+            "subtext": "<p>Subscribe to get special offers and birthday surprises!</p>",
+            "button_label": "Subscribe",
+            "success_message": "<p>Thanks for subscribing! Check your email to confirm.</p>",
+            "show_email_label": false,
+            "email_label": "Email address",
+            "email_placeholder": "Enter your email",
+            "show_dob_label": true,
+            "dob_label": "Date of birth (optional)",
+            "dob_gap": 8,
+            "desktop_width_percent": 100,
+            "padding": 40,
+            "content_gap": 16,
+            "text_alignment": "left",
+            "background_color": "#ffffff",
+            "heading_color": "#1a1c1d",
+            "text_color": "#2c2d2e",
+            "placeholder_color": "#999999",
+            "button_color": "#3f72e5",
+            "button_text_color": "#ffffff",
+            "button_hover_color": "#2c5acc",
+            "input_background_color": "#ffffff",
+            "input_border_color": "#d3d3d3",
+            "input_focus_border_color": "#3f72e5",
+            "success_color": "#008060",
+            "error_color": "#d82c0d",
+            "heading_size": 28,
+            "text_size": 14,
+            "label_size": 14,
+            "input_text_size": 14,
+            "button_text_size": 16,
+            "input_padding": 12,
+            "input_border_width": 1,
+            "input_border_radius": 4,
+            "button_padding": 14,
+            "button_border_radius": 4,
+            "button_font_weight": "600",
+            "border_radius": 8
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_cbd7bd3_DkBaF4"
+      ],
+      "settings": {}
+    },
     "newsletter-popup": {
       "type": "newsletter-popup",
       "blocks": {
@@ -56,6 +109,7 @@
         "text_MiDEcm",
         "social_sharing_cEpyFA"
       ],
+      "disabled": true,
       "settings": {
         "design_mode": false,
         "enable_popup": true,
@@ -208,6 +262,7 @@
     }
   },
   "order": [
+    "1776441594fc43f846",
     "newsletter-popup",
     "1767730183cdaf9785",
     "age-verifier-popup",
