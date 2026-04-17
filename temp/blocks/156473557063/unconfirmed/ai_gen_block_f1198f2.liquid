@@ -1,6 +1,703 @@
+{% doc %}
+  @prompt
+    Quiero modificar el popup de suscripción al newsletter de mi tienda (actualmente solo solicita correo electrónico) para añadir campos de fecha de nacimiento, manteniendo exactamente el mismo diseño visual, estilo, colores y estructura actual.
+    
+    Requisitos específicos:
+    
+    Mantener el diseño actual del popup (layout, tipografía, colores, botón y distribución).
+    Agregar campos para la fecha de nacimiento debajo del campo de correo electrónico.
+    La fecha de nacimiento debe dividirse en tres campos separados:
+    Mes (MM)
+    Día (DD)
+    Año (YYYY)
+    Los nuevos campos deben integrarse visualmente con el estilo actual (mismos bordes, espaciado, tipografía y estética).
+    El botón de “Suscribir” debe mantenerse igual y en la misma posición relativa.
+    Asegurar que el formulario siga siendo responsive (adaptado a móvil y desktop).
+    Guardar la fecha de nacimiento junto con el correo electrónico en los datos del cliente.
+    Preparar el campo para futuras automatizaciones de marketing (por ejemplo, envío de promociones de cumpleaños).
+    No hacer cambios innecesarios en otros elementos del popup.
+    
+    Opcional (si es posible):
+    
+    Validación básica de la fecha de nacimiento.
+    Placeholder en cada campo (MM, DD, YYYY).
+    Mantener una experiencia de usuario limpia y simple.
+    
+    Objetivo: recoger la fecha de nacimiento del cliente sin afectar la estética ni la conversión del popup actual.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-newsletter-popup-{{ ai_gen_id }} {
+    position: relative;
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    background-color: {{ block.settings.background_color }};
+    border-radius: {{ block.settings.border_radius }}px;
+    padding: {{ block.settings.padding }}px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+
+  .ai-newsletter-popup__content-{{ ai_gen_id }} {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .ai-newsletter-popup__heading-{{ ai_gen_id }} {
+    color: {{ block.settings.heading_color }};
+    margin: 0;
+    font-size: {{ block.settings.heading_size }}px;
+    text-align: {{ block.settings.text_alignment }};
+  }
+
+  .ai-newsletter-popup__subtext-{{ ai_gen_id }} {
+    color: {{ block.settings.text_color }};
+    font-size: {{ block.settings.text_size }}px;
+    text-align: {{ block.settings.text_alignment }};
+    margin: 0;
+  }
+
+  .ai-newsletter-popup__form-{{ ai_gen_id }} {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .ai-newsletter-popup__field-wrapper-{{ ai_gen_id }} {
+    width: 100%;
+  }
+
+  .ai-newsletter-popup__label-{{ ai_gen_id }} {
+    display: block;
+    margin-bottom: 8px;
+    color: {{ block.settings.text_color }};
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .ai-newsletter-popup__input-{{ ai_gen_id }} {
+    width: 100%;
+    padding: 12px 16px;
+    border: {{ block.settings.input_border_thickness }}px solid {{ block.settings.input_border_color }};
+    border-radius: {{ block.settings.input_border_radius }}px;
+    font-size: 15px;
+    background-color: {{ block.settings.input_background_color }};
+    color: {{ block.settings.text_color }};
+    box-sizing: border-box;
+  }
+
+  .ai-newsletter-popup__input-{{ ai_gen_id }}:focus {
+    outline: none;
+    border-color: {{ block.settings.accent_color }};
+  }
+
+  .ai-newsletter-popup__input-{{ ai_gen_id }}::placeholder {
+    color: {{ block.settings.placeholder_color }};
+  }
+
+  .ai-newsletter-popup__birthdate-group-{{ ai_gen_id }} {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    gap: 12px;
+  }
+
+  .ai-newsletter-popup__birthdate-field-{{ ai_gen_id }} {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ai-newsletter-popup__birthdate-label-{{ ai_gen_id }} {
+    font-size: 12px;
+    color: {{ block.settings.text_color }};
+    margin-bottom: 6px;
+    font-weight: 500;
+  }
+
+  .ai-newsletter-popup__birthdate-input-{{ ai_gen_id }} {
+    padding: 12px 12px;
+    border: {{ block.settings.input_border_thickness }}px solid {{ block.settings.input_border_color }};
+    border-radius: {{ block.settings.input_border_radius }}px;
+    font-size: 15px;
+    background-color: {{ block.settings.input_background_color }};
+    color: {{ block.settings.text_color }};
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .ai-newsletter-popup__birthdate-input-{{ ai_gen_id }}:focus {
+    outline: none;
+    border-color: {{ block.settings.accent_color }};
+  }
+
+  .ai-newsletter-popup__birthdate-input-{{ ai_gen_id }}::placeholder {
+    color: {{ block.settings.placeholder_color }};
+  }
+
+  .ai-newsletter-popup__button-{{ ai_gen_id }} {
+    width: 100%;
+    padding: 14px 24px;
+    background-color: {{ block.settings.button_color }};
+    color: {{ block.settings.button_text_color }};
+    border: none;
+    border-radius: {{ block.settings.button_border_radius }}px;
+    cursor: pointer;
+    font-size: {{ block.settings.button_text_size }}px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+
+  .ai-newsletter-popup__button-{{ ai_gen_id }}:hover {
+    background-color: {{ block.settings.button_hover_color }};
+  }
+
+  .ai-newsletter-popup__success-{{ ai_gen_id }} {
+    color: {{ block.settings.success_color }};
+    margin-top: 8px;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .ai-newsletter-popup__error-{{ ai_gen_id }} {
+    color: {{ block.settings.error_color }};
+    margin-top: 8px;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-newsletter-popup-{{ ai_gen_id }} {
+      padding: {{ block.settings.padding | times: 0.7 }}px;
+    }
+
+    .ai-newsletter-popup__heading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.heading_size | times: 0.85 }}px;
+    }
+
+    .ai-newsletter-popup__birthdate-group-{{ ai_gen_id }} {
+      gap: 8px;
+    }
+
+    .ai-newsletter-popup__birthdate-input-{{ ai_gen_id }} {
+      padding: 10px 8px;
+      font-size: 14px;
+    }
+  }
+{% endstyle %}
+
+<newsletter-popup-{{ ai_gen_id }}
+  class="ai-newsletter-popup-{{ ai_gen_id }}"
+  {{ block.shopify_attributes }}
+>
+  {%- form 'customer', class: 'ai-newsletter-popup__form-' | append: ai_gen_id -%}
+    <input type="hidden" name="contact[tags]" value="newsletter">
+    
+    <div class="ai-newsletter-popup__content-{{ ai_gen_id }}">
+      {%- if block.settings.heading != blank -%}
+        <h2 class="ai-newsletter-popup__heading-{{ ai_gen_id }}">{{ block.settings.heading }}</h2>
+      {%- endif -%}
+
+      {%- if block.settings.subtext != blank -%}
+        <div class="ai-newsletter-popup__subtext-{{ ai_gen_id }}">{{ block.settings.subtext }}</div>
+      {%- endif -%}
+
+      <div class="ai-newsletter-popup__field-wrapper-{{ ai_gen_id }}">
+        {%- if block.settings.show_email_label -%}
+          <label class="ai-newsletter-popup__label-{{ ai_gen_id }}" for="email-{{ ai_gen_id }}">
+            {{ block.settings.email_label }}
+          </label>
+        {%- endif -%}
+        <input
+          type="email"
+          id="email-{{ ai_gen_id }}"
+          name="contact[email]"
+          class="ai-newsletter-popup__input-{{ ai_gen_id }}"
+          value="{{ form.email }}"
+          aria-required="true"
+          autocorrect="off"
+          autocapitalize="off"
+          autocomplete="email"
+          {% if form.errors %}
+            aria-invalid="true"
+            aria-describedby="ai-newsletter-popup-error-{{ ai_gen_id }}"
+          {% endif %}
+          {% if form.posted_successfully? %}
+            aria-describedby="ai-newsletter-popup-success-{{ ai_gen_id }}"
+          {% endif %}
+          placeholder="{{ block.settings.email_placeholder }}"
+          required
+        >
+      </div>
+
+      <div class="ai-newsletter-popup__field-wrapper-{{ ai_gen_id }}">
+        {%- if block.settings.show_birthdate_label -%}
+          <label class="ai-newsletter-popup__label-{{ ai_gen_id }}">
+            {{ block.settings.birthdate_label }}
+          </label>
+        {%- endif -%}
+        <div class="ai-newsletter-popup__birthdate-group-{{ ai_gen_id }}">
+          <div class="ai-newsletter-popup__birthdate-field-{{ ai_gen_id }}">
+            <label class="ai-newsletter-popup__birthdate-label-{{ ai_gen_id }}" for="birth-month-{{ ai_gen_id }}">
+              Mes
+            </label>
+            <input
+              type="text"
+              id="birth-month-{{ ai_gen_id }}"
+              name="contact[note][birth_month]"
+              class="ai-newsletter-popup__birthdate-input-{{ ai_gen_id }}"
+              placeholder="MM"
+              maxlength="2"
+              pattern="[0-9]*"
+              inputmode="numeric"
+              aria-label="Mes de nacimiento"
+            >
+          </div>
+          <div class="ai-newsletter-popup__birthdate-field-{{ ai_gen_id }}">
+            <label class="ai-newsletter-popup__birthdate-label-{{ ai_gen_id }}" for="birth-day-{{ ai_gen_id }}">
+              Día
+            </label>
+            <input
+              type="text"
+              id="birth-day-{{ ai_gen_id }}"
+              name="contact[note][birth_day]"
+              class="ai-newsletter-popup__birthdate-input-{{ ai_gen_id }}"
+              placeholder="DD"
+              maxlength="2"
+              pattern="[0-9]*"
+              inputmode="numeric"
+              aria-label="Día de nacimiento"
+            >
+          </div>
+          <div class="ai-newsletter-popup__birthdate-field-{{ ai_gen_id }}">
+            <label class="ai-newsletter-popup__birthdate-label-{{ ai_gen_id }}" for="birth-year-{{ ai_gen_id }}">
+              Año
+            </label>
+            <input
+              type="text"
+              id="birth-year-{{ ai_gen_id }}"
+              name="contact[note][birth_year]"
+              class="ai-newsletter-popup__birthdate-input-{{ ai_gen_id }}"
+              placeholder="YYYY"
+              maxlength="4"
+              pattern="[0-9]*"
+              inputmode="numeric"
+              aria-label="Año de nacimiento"
+            >
+          </div>
+        </div>
+      </div>
+
+      <button
+        type="submit"
+        class="ai-newsletter-popup__button-{{ ai_gen_id }}"
+      >
+        {{ block.settings.button_label }}
+      </button>
+
+      {%- if form.errors -%}
+        <div
+          id="ai-newsletter-popup-error-{{ ai_gen_id }}"
+          class="ai-newsletter-popup__error-{{ ai_gen_id }}"
+        >
+          <span>{{ form.errors.messages.email }}</span>
+        </div>
+      {%- endif -%}
+      
+      {%- if form.posted_successfully? -%}
+        <div
+          id="ai-newsletter-popup-success-{{ ai_gen_id }}"
+          class="ai-newsletter-popup__success-{{ ai_gen_id }}"
+        >
+          <span>{{ block.settings.success_message }}</span>
+        </div>
+      {%- endif -%}
+    </div>
+  {%- endform -%}
+</newsletter-popup-{{ ai_gen_id }}>
+
+<script>
+  (function() {
+    class NewsletterPopup{{ ai_gen_id }} extends HTMLElement {
+      constructor() {
+        super();
+        this.form = this.querySelector('form');
+        this.monthInput = this.querySelector('#birth-month-{{ ai_gen_id }}');
+        this.dayInput = this.querySelector('#birth-day-{{ ai_gen_id }}');
+        this.yearInput = this.querySelector('#birth-year-{{ ai_gen_id }}');
+      }
+
+      connectedCallback() {
+        this.setupValidation();
+      }
+
+      setupValidation() {
+        if (this.monthInput) {
+          this.monthInput.addEventListener('input', (e) => {
+            e.target.value = e.target.value.replace(/[^0-9]/g, '');
+            if (e.target.value.length === 2) {
+              const month = parseInt(e.target.value);
+              if (month > 12) {
+                e.target.value = '12';
+              }
+              if (month < 1 && e.target.value.length === 2) {
+                e.target.value = '01';
+              }
+              this.dayInput.focus();
+            }
+          });
+        }
+
+        if (this.dayInput) {
+          this.dayInput.addEventListener('input', (e) => {
+            e.target.value = e.target.value.replace(/[^0-9]/g, '');
+            if (e.target.value.length === 2) {
+              const day = parseInt(e.target.value);
+              if (day > 31) {
+                e.target.value = '31';
+              }
+              if (day < 1 && e.target.value.length === 2) {
+                e.target.value = '01';
+              }
+              this.yearInput.focus();
+            }
+          });
+        }
+
+        if (this.yearInput) {
+          this.yearInput.addEventListener('input', (e) => {
+            e.target.value = e.target.value.replace(/[^0-9]/g, '');
+            if (e.target.value.length === 4) {
+              const year = parseInt(e.target.value);
+              const currentYear = new Date().getFullYear();
+              if (year > currentYear) {
+                e.target.value = currentYear.toString();
+              }
+              if (year < 1900) {
+                e.target.value = '1900';
+              }
+            }
+          });
+        }
+
+        if (this.form) {
+          this.form.addEventListener('submit', (e) => {
+            const month = this.monthInput.value;
+            const day = this.dayInput.value;
+            const year = this.yearInput.value;
+
+            if (month || day || year) {
+              if (!month || !day || !year) {
+                e.preventDefault();
+                alert('Por favor completa todos los campos de fecha de nacimiento o déjalos vacíos.');
+                return false;
+              }
+
+              const monthNum = parseInt(month);
+              const dayNum = parseInt(day);
+              const yearNum = parseInt(year);
+
+              if (monthNum < 1 || monthNum > 12) {
+                e.preventDefault();
+                alert('Por favor ingresa un mes válido (01-12).');
+                return false;
+              }
+
+              if (dayNum < 1 || dayNum > 31) {
+                e.preventDefault();
+                alert('Por favor ingresa un día válido (01-31).');
+                return false;
+              }
+
+              const currentYear = new Date().getFullYear();
+              if (yearNum < 1900 || yearNum > currentYear) {
+                e.preventDefault();
+                alert('Por favor ingresa un año válido.');
+                return false;
+              }
+            }
+          });
+        }
+      }
+    }
+
+    customElements.define('newsletter-popup-{{ ai_gen_id }}', NewsletterPopup{{ ai_gen_id }});
+  })();
+</script>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Newsletter con cumpleaños",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Contenido"
+    },
+    {
+      "type": "richtext",
+      "id": "heading",
+      "label": "Título",
+      "default": "<p>Suscríbete a nuestro newsletter</p>"
+    },
+    {
+      "type": "richtext",
+      "id": "subtext",
+      "label": "Subtítulo",
+      "default": "<p>Recibe ofertas exclusivas y un regalo especial en tu cumpleaños</p>"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "button_label",
+      "label": "Texto del botón",
+      "default": "Suscribir"
+    },
+    {
+      "type": "richtext",
+      "id": "success_message",
+      "label": "Mensaje de éxito",
+      "default": "<p>¡Gracias por suscribirte! Revisa tu correo para confirmar.</p>"
+    },
+    {
+      "type": "header",
+      "content": "Campo de correo electrónico"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_email_label",
+      "label": "Mostrar etiqueta de correo",
+      "default": true
+    },
+    {
+      "type": "inline_richtext",
+      "id": "email_label",
+      "label": "Etiqueta de correo",
+      "default": "Correo electrónico"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "email_placeholder",
+      "label": "Placeholder de correo",
+      "default": "tu@correo.com"
+    },
+    {
+      "type": "header",
+      "content": "Campo de fecha de nacimiento"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_birthdate_label",
+      "label": "Mostrar etiqueta de fecha",
+      "default": true
+    },
+    {
+      "type": "inline_richtext",
+      "id": "birthdate_label",
+      "label": "Etiqueta de fecha",
+      "default": "Fecha de nacimiento"
+    },
+    {
+      "type": "header",
+      "content": "Diseño"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Ancho en escritorio",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "range",
+      "id": "padding",
+      "label": "Espaciado interno",
+      "min": 20,
+      "max": 80,
+      "step": 5,
+      "unit": "px",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "label": "Radio de borde",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 8
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "label": "Alineación de texto",
+      "options": [
+        {
+          "value": "left",
+          "label": "Izquierda"
+        },
+        {
+          "value": "center",
+          "label": "Centro"
+        },
+        {
+          "value": "right",
+          "label": "Derecha"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "header",
+      "content": "Colores"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Fondo",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Color del título",
+      "default": "#1A1C1D"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Color del texto",
+      "default": "#2C2D2E"
+    },
+    {
+      "type": "color",
+      "id": "accent_color",
+      "label": "Color de acento",
+      "default": "#3F72E5"
+    },
+    {
+      "type": "color",
+      "id": "input_background_color",
+      "label": "Fondo de campos",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "input_border_color",
+      "label": "Borde de campos",
+      "default": "#D3D3D3"
+    },
+    {
+      "type": "color",
+      "id": "placeholder_color",
+      "label": "Color de placeholder",
+      "default": "#999999"
+    },
+    {
+      "type": "color",
+      "id": "button_color",
+      "label": "Color del botón",
+      "default": "#2C2D2E"
+    },
+    {
+      "type": "color",
+      "id": "button_hover_color",
+      "label": "Color del botón al pasar",
+      "default": "#3F72E5"
+    },
+    {
+      "type": "color",
+      "id": "button_text_color",
+      "label": "Color del texto del botón",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "success_color",
+      "label": "Color de éxito",
+      "default": "#279A4B"
+    },
+    {
+      "type": "color",
+      "id": "error_color",
+      "label": "Color de error",
+      "default": "#e11d48"
+    },
+    {
+      "type": "header",
+      "content": "Tipografía"
+    },
+    {
+      "type": "range",
+      "id": "heading_size",
+      "label": "Tamaño del título",
+      "min": 16,
+      "max": 48,
+      "step": 2,
+      "unit": "px",
+      "default": 28
+    },
+    {
+      "type": "range",
+      "id": "text_size",
+      "label": "Tamaño del texto",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 15
+    },
+    {
+      "type": "range",
+      "id": "button_text_size",
+      "label": "Tamaño del texto del botón",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "default": 16
+    },
+    {
+      "type": "header",
+      "content": "Estilo de campos"
+    },
+    {
+      "type": "range",
+      "id": "input_border_radius",
+      "label": "Radio de borde de campos",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 6
+    },
+    {
+      "type": "range",
+      "id": "input_border_thickness",
+      "label": "Grosor de borde de campos",
+      "min": 1,
+      "max": 3,
+      "step": 1,
+      "unit": "px",
+      "default": 1
+    },
+    {
+      "type": "range",
+      "id": "button_border_radius",
+      "label": "Radio de borde del botón",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "default": 24
+    }
+  ],
+  "presets": [
+    {
+      "name": "Newsletter con cumpleaños"
+    }
+  ]
+}
 {% endschema %}
