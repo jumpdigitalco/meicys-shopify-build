@@ -26,6 +26,7 @@
       "blocks": {
         "slide_nd9BD7": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-cpc-20dto-marzo-2026.jpg",
             "mobile_image": "shopify://shop_images/banner-cpc-20dto-marzo-2026-mobile.jpg",
