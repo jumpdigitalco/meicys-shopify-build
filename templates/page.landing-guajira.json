@@ -58,7 +58,6 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/banner-promo-guajira-abril.png",
-            "mobile_image": "shopify://shop_images/banner-bloqueador-guajira-20dto-marzo-2026-mobile_d81c6d9d-bbcf-4e6d-a289-662027642479.jpg",
             "slide_link": "shopify://collections/catalogo",
             "video_background": false,
             "content_width": 500,
