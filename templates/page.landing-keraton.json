@@ -27,6 +27,34 @@
         "slide_rftHt3": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/banner-promo-keraton-abril.png",
+            "slide_link": "shopify://collections/catalogo",
+            "video_background": false,
+            "content_width": 600,
+            "content_position": "middle-center",
+            "mobile_content_position": "bottom-right",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#ffffff",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0) 70%, rgba(0, 0, 0, 0.3) 100%)",
+            "button_text_1": "",
+            "button_link_1": "shopify://collections/kits-capilares",
+            "button_type_1": "primary-white",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "outline-white"
+          }
+        },
+        "slide_LCwt84": {
+          "type": "slide",
+          "settings": {
             "image": "shopify://shop_images/Banner-Kit-Keraton-Desktop.jpg",
             "mobile_image": "shopify://shop_images/Banner-Kit-Keraton-Mobile.jpg",
             "slide_link": "shopify://products/kit-keraton-supreme-aliss-1200ml",
@@ -232,6 +260,7 @@
       },
       "block_order": [
         "slide_rftHt3",
+        "slide_LCwt84",
         "slide_8RBCgp",
         "slide_3YCH3Q",
         "slide_BmcRrQ",
