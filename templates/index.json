@@ -102,6 +102,34 @@
             "button_type_2": "primary"
           }
         },
+        "slide_F883Ca": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/banner-promo-meicys-abril.png",
+            "slide_link": "shopify://collections/catalogo",
+            "video_background": false,
+            "content_width": 500,
+            "content_position": "middle-center",
+            "mobile_content_position": "middle-center",
+            "content_space": "gap-y-4",
+            "subheading": "",
+            "heading": "",
+            "heading_tag": "div",
+            "heading_size": "hxl",
+            "content": "",
+            "description_size": "medium",
+            "color_text": "#000000",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 100,
+            "overlay_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 40%, rgba(196, 196, 196, 0.3) 100%)",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_type_1": "primary",
+            "button_text_2": "",
+            "button_link_2": "",
+            "button_type_2": "primary"
+          }
+        },
         "slide_X7CJC9": {
           "type": "slide",
           "settings": {
@@ -284,6 +312,7 @@
         "slide_9pyT8r",
         "slide_ihNn9E",
         "slide_maKEtc",
+        "slide_F883Ca",
         "slide_X7CJC9",
         "slide_cwaDMJ",
         "slide_KNiVgm",
