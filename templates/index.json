@@ -74,6 +74,7 @@
         },
         "slide_maKEtc": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-nueva-imagen-hydromeicys.jpg",
             "mobile_image": "shopify://shop_images/banner-mobile-nueva-imagen-hydromeicys.jpg",
@@ -132,6 +133,7 @@
         },
         "slide_cwaDMJ": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-Removedor-Color-Desktop.jpg",
             "mobile_image": "shopify://shop_images/Banner-Removedor-Color-Mobile.jpg",
