@@ -58,6 +58,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/banner-promo-vizio-abril.png",
+            "mobile_image": "shopify://shop_images/banner-promo-vizio-abril-mobile.png",
             "slide_link": "shopify://collections/catalogo",
             "video_background": false,
             "content_width": 500,
