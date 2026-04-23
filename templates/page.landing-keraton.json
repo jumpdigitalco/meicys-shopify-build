@@ -55,6 +55,7 @@
         },
         "slide_LCwt84": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Banner-Kit-Keraton-Desktop.jpg",
             "mobile_image": "shopify://shop_images/Banner-Kit-Keraton-Mobile.jpg",
