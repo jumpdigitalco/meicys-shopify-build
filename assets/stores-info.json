@@ -263,7 +263,7 @@
                       "email": "",
                       "whatsapp": ""
                   }
-                  "MAYORISTA CÓRDOBA":{
+                  "MAYORISTA CORDOBA":{
                       "lat":3.4014011,"lng": -76.5104497,
                       "name": "MAYORISTA CÓRDOBA",
                       "address": "CRA 46 # 48 - 40, Cali, Valle del Cauca, Colombia",
@@ -923,4 +923,3 @@
             }
         }
     }
-}
