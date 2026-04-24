@@ -262,7 +262,7 @@
                       "phone": "57 4013849",
                       "email": "",
                       "whatsapp": ""
-                  }
+                  },
                   "MAYORISTA CORDOBA":{
                       "lat":3.4014011,"lng": -76.5104497,
                       "name": "MAYORISTA CORDOBA",
@@ -270,8 +270,7 @@
                       "phone": "57 3116326533",
                       "email": "",
                       "whatsapp": ""
-                  }
-                  }
+                  },
                   "MAYORISTA POPULAR":{
                       "lat":3.4740621,"lng": -76.5098883,
                       "name": "MAYORISTA POPULAR",
@@ -279,7 +278,7 @@
                       "phone": "57 3197082714",
                       "email": "",
                       "whatsapp": ""
-                  }
+                  },
               }
             },
             "Cartagena": {
@@ -923,3 +922,4 @@
             }
         }
     }
+}
