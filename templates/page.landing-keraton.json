@@ -270,6 +270,7 @@
         "slide_TpqDhK",
         "slide_iTGGcH"
       ],
+      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "slide_width": "w-full",

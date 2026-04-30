@@ -56,6 +56,7 @@
         },
         "slide_R8WWYa": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-promo-cpc-abril.png",
             "mobile_image": "shopify://shop_images/banner-promo-cpc-abril-mobile.png",

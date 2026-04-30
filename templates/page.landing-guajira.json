@@ -56,6 +56,7 @@
         },
         "slide_DUmw8P": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-promo-guajira-abril.png",
             "mobile_image": "shopify://shop_images/banner-promo-guajira-abril-mobile.png",
