@@ -26,6 +26,7 @@
       "blocks": {
         "slide_rftHt3": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-promo-keraton-abril.png",
             "mobile_image": "shopify://shop_images/banner-promo-keraton-abril-mobile.png",
@@ -270,7 +271,6 @@
         "slide_TpqDhK",
         "slide_iTGGcH"
       ],
-      "disabled": true,
       "name": "Slideshow",
       "settings": {
         "slide_width": "w-full",
