@@ -37,6 +37,12 @@
             "heading_size": "h2"
           }
         },
+        "klaviyo_reviews_average_rating_LQtWN4": {
+          "type": "shopify://apps/klaviyo-reviews/blocks/average-rating/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -267,6 +273,7 @@
       "block_order": [
         "vendor",
         "title",
+        "klaviyo_reviews_average_rating_LQtWN4",
         "price",
         "rich_text_gJV7TU",
         "sku_yqmVAY",
