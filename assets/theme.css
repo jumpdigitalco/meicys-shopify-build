@@ -7085,3 +7085,63 @@ volume-pricing show-more-button {
   }
 
 }
+
+/* ===== BRAND NAV MOBILE ===== */
+
+.brand-nav-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 16px;
+}
+
+.brand-nav-text {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #777;
+}
+
+.brand-nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.brand-selector__item img {
+  max-height: 30px;
+  width: auto;
+  opacity: 0.9;
+  transition: all 0.3s ease;
+}
+
+.brand-selector__item img:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+/* MOBILE */
+@media screen and (max-width: 768px) {
+
+  .brand-nav-wrapper {
+    padding: 10px 12px;
+  }
+
+  .brand-nav-list {
+    gap: 10px;
+  }
+
+  .brand-selector__item img {
+    max-height: 24px;
+  }
+
+}
