@@ -7038,3 +7038,13 @@ volume-pricing show-more-button {
     margin-left: calc(var(--wave-scale,0%) / -2);
   }
 }
+
+.brand-nav-label {
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+  opacity: .7;
+}
