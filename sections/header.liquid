@@ -231,7 +231,7 @@
           <ul class="hidden xl:flex pl-0 list-unstyled  items-center gap-x-10 header__icons--nav mr-4">
             {%- for link in block.settings.menu_next_icon.links -%}
               <li>
-                <a href="{{ link.url }}" class="link no-underline {% if block.settings.enable_style_menu %} header__menu-item {% else %} header__icons--nav-item {% endif %}">
+                <a href="{{ link.url }}" class="link no-underline {% if block.settings.enable_style_menu %}  {% else %} header__icons--nav-item {% endif %}">
                   {{ link.title }}
                 </a>
               </li>
