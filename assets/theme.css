@@ -7041,11 +7041,11 @@ volume-pricing show-more-button {
 
 .brand-nav-label {
   text-align: center;
-  font-size: 6px;
-  font-weight: 300;
+  font-size: 12px;
+  font-weight: 600;
   letter-spacing: .5px;
   text-transform: uppercase;
-  margin-bottom: 3px;
+  margin-bottom: 6px;
   opacity: .7;
 }
 
