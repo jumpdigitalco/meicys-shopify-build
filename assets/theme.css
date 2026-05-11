@@ -7048,3 +7048,40 @@ volume-pricing show-more-button {
   margin-bottom: 3px;
   opacity: .7;
 }
+
+/* ===== MOBILE BRAND NAV FIX ===== */
+
+@media screen and (max-width: 749px) {
+
+  .brand-nav-wrapper .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .brand-nav-label {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .brand-nav-wrapper ul,
+  .brand-nav-wrapper .brand-nav,
+  .brand-nav-wrapper .brand-selector {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 10px;
+    padding-bottom: 6px;
+  }
+
+  .brand-nav-wrapper ul::-webkit-scrollbar {
+    display: none;
+  }
+
+  .brand-selector__item {
+    flex: 0 0 auto;
+  }
+
+}
