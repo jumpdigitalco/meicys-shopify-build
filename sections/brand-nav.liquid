@@ -3,7 +3,10 @@
 {%- if brand_items and shop.metafields.custom.menu_de_marcas.list? -%}
 <div class="brand-nav-wrapper section-bg overflow-hidden scroll-trigger animate--fade-in"  {% render 'section-properties' %}>
   <div class="container flex mx-auto padding-x">
-      <ul
+    <p class="brand-nav-label">
+  Explora nuestras marcas
+    </p>  
+    <ul
         class="brand-nav list-menu list-menu--inline flex h-full items-center justify-center lg:justify-start w-full" role="list"
         aria-label="{{ 'sections.header.announcement' | t }}"
       >
