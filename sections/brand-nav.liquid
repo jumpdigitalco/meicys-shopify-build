@@ -8,27 +8,31 @@
   </div>
 
   <ul class="brand-nav-list" role="list">
-    {% for item in section.blocks %}
-      {% assign brand_link = item.settings.link %}
-      
-      <li class="brand-selector__item">
-        <a
-          href="{{ brand_link }}"
-          class="brand-selector__link"
-          aria-label="Ir a {{ item.settings.titulo }}"
-        >
-          {% if item.settings.logo %}
-            <img
-              src="{{ item.settings.logo | image_url: width: 160 }}"
-              alt="{{ item.settings.titulo }}"
-              width="80"
-              height="40"
-            >
-          {% endif %}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+
+  {% for item in section.blocks %}
+
+    <li class="brand-selector__item{% if activate_item %} active{% endif %}">
+      <a
+        href="{{ brand_link }}"
+        class="brand-selector__link"
+      >
+        <span class="sr-only brand-title">{{ item.titulo }}</span>
+
+        {%- if item.logo -%}
+          <img
+            src="{{ item.logo | image_url: width: 160 }}"
+            alt="{{ item.titulo }}"
+            width="80"
+            height="40"
+          >
+        {%- endif -%}
+
+      </a>
+    </li>
+
+  {% endfor %}
+
+</ul>
 
 </div>
 <style>
