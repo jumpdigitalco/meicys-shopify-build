@@ -7096,9 +7096,9 @@ volume-pricing show-more-button {
 }
 
 .brand-nav-text {
-  font-size: 140px;
+  font-size: 14px;
   font-weight: 700;
-  letter-spacing: 1px;
+  letter-spacing: 10px;
   text-transform: uppercase;
   color: #777;
   white-space: nowrap;
