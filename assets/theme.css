@@ -7091,8 +7091,9 @@ volume-pricing show-more-button {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 28px;
+  gap: 14px;
   padding: 12px 20px;
+  flex-wrap: nowrap;
 }
 
 .brand-nav-text {
