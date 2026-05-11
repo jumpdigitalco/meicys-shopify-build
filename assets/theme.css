@@ -7088,12 +7088,11 @@ volume-pricing show-more-button {
 /* ===== BRAND NAV MOBILE ===== */
 
 .brand-nav-wrapper {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto 1fr;
   align-items: center;
-  justify-content: center;
-  gap: 14px;
-  padding: 12px 20px;
-  flex-wrap: nowrap;
+  gap: 18px;
+  width: 100%;
 }
 
 .brand-nav-text {
@@ -7103,17 +7102,17 @@ volume-pricing show-more-button {
   text-transform: uppercase;
   color: #777;
   white-space: nowrap;
-  line-height: 1;
 }
 
 .brand-nav-list {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 18px;
   list-style: none;
   margin: 0;
   padding: 0;
+  flex-wrap: nowrap;
 }
 
 .brand-selector__item img {
@@ -7147,4 +7146,21 @@ volume-pricing show-more-button {
 
 .brand-nav-wrapper * {
   min-width: 0;
+}
+
+@media screen and (max-width: 768px) {
+
+  .brand-nav-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .brand-nav-list {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
 }
