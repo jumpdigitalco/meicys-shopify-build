@@ -14,14 +14,19 @@
                     assign brand_link = pages[item.pagina_principal].url
                 endif
             %}
-        <li class="brand-selector__item{% if activate_item %} active{% endif %}">
+        <li class="brand-selector__item{% if request.path contains brand_link %} active{% endif %}">
           <a
             href="{{ brand_link }}"
             class="brand-selector__link"
           >
             <span class="sr-only brand-title">{{ item.titulo }}</span>
             {%- if item.logo -%}
-              <img src="{{ item.logo | image_url: width: 160 }}" alt="{{ item.titulo }}" width="80">
+              <img 
+  src="{{ item.logo | image_url: width: 160 }}" 
+  alt="{{ item.titulo }}"
+  width="80"
+  height="auto"
+>
             {%- endif -%}
           </a>
         </li>
