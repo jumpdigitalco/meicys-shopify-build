@@ -75,7 +75,7 @@
         "slide_maKEtc": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/banner-rebajas-mes-madres-meicys.png",
+            "image": "shopify://shop_images/banner-rebajas-mes-madres-meicys-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-mobile-nueva-imagen-hydromeicys.jpg",
             "slide_link": "shopify://collections/hydro-meicys-leave-in-x300ml",
             "video_background": false,
