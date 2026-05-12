@@ -74,7 +74,6 @@
         },
         "slide_maKEtc": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-rebajas-mes-madres-meicys-desktop_6744dc54-3609-4987-ba1f-23bd446125df.jpg",
             "mobile_image": "shopify://shop_images/banner-mobile-nueva-imagen-hydromeicys.jpg",
