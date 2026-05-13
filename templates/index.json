@@ -44,10 +44,9 @@
         },
         "slide_ihNn9E": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/banner-promo-meicys-abril.png",
-            "mobile_image": "shopify://shop_images/banner-promo-meicys-abril-mobile.png",
+            "image": "shopify://shop_images/banner-mas-vendidos-meicys-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-mas-vendidos-meicys-mobile.jpg",
             "slide_link": "shopify://collections/catalogo",
             "video_background": false,
             "content_width": 600,
