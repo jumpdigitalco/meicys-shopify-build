@@ -7089,31 +7089,33 @@ volume-pricing show-more-button {
 
 .brand-nav-wrapper {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 14px;
-  padding: 12px 20px;
-  flex-wrap: nowrap;
+  width: 100%;
+  padding: 10px 20px;
 }
 
 .brand-nav-text {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
-  letter-spacing: .5px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   color: #777;
+  text-align: center;
   white-space: nowrap;
-  line-height: 1;
 }
 
 .brand-nav-list {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 18px;
+  gap: 24px;
   list-style: none;
   margin: 0;
   padding: 0;
+  flex-wrap: wrap;
 }
 
 .brand-selector__item img {
