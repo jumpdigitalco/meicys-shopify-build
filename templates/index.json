@@ -354,7 +354,7 @@
           "type": "collection",
           "disabled": true,
           "settings": {
-            "collection": "decolorante-meicys",
+            "collection": "decolorantes-meicys",
             "tab_heading": "Decolorantes"
           }
         }
