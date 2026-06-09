@@ -7138,7 +7138,7 @@ volume-pricing show-more-button {
   }
 
   .brand-nav-list {
-    gap: 10px;
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: center !important;
