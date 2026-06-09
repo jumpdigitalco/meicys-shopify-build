@@ -7142,8 +7142,8 @@ volume-pricing show-more-button {
 
   .brand-nav-wrapper {
     overflow: visible !important;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .brand-nav li {
