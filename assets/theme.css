@@ -7134,13 +7134,22 @@ volume-pricing show-more-button {
 @media screen and (max-width: 768px) {
 
   .brand-nav {
-    justify-content: center !important;
-    width: 100%;
-  }
+  justify-content: center !important;
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
+}
 
   .brand-nav-wrapper {
     text-align: center;
+    overflow: visible;
   }
+
+  .brand-nav-list,
+.brand-nav {
+  padding-left: 0;
+  padding-right: 0;
+}
 
   .brand-selector__item {
     display: flex;
