@@ -44,11 +44,10 @@
         },
         "slide_maKEtc": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/banner-rebajas-mes-madres-meicys-mobile_84d71cf6-80ce-42ea-b48e-c97ab663370c.jpg",
-            "mobile_image": "shopify://shop_images/banner-rebajas-mes-madres-meicys-mobile.jpg",
-            "slide_link": "shopify://collections/promo-del-mes",
+            "image": "shopify://shop_images/banner-nuevos-productos-junio-meicys-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-nuevos-productos-junio-meicys-mobile.jpg",
+            "slide_link": "shopify://collections/lanzamientos",
             "video_background": false,
             "content_width": 500,
             "content_position": "middle-center",
