@@ -7134,31 +7134,20 @@ volume-pricing show-more-button {
 @media screen and (max-width: 768px) {
 
   .brand-nav {
-  justify-content: center !important;
-  width: auto;
-  max-width: 100%;
-  margin: 0 auto;
-}
+    width: fit-content !important;
+    max-width: 100%;
+    margin: 0 auto !important;
+    justify-content: center !important;
+  }
 
   .brand-nav-wrapper {
-    text-align: center;
-    overflow: visible;
+    overflow: visible !important;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 
-  .brand-nav-list,
-.brand-nav {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-  .brand-selector__item {
-    display: flex;
-    justify-content: center;
-  }
-
-  .brand-selector__link:hover,
-  .brand-selector__item.active .brand-selector__link {
-    transform: none;
+  .brand-nav li {
+    flex-shrink: 0;
   }
 
 }
