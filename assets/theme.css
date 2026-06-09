@@ -7151,7 +7151,7 @@ volume-pricing show-more-button {
   }
 
   .brand-selector__item {
-  width: 120px;
+  width: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
