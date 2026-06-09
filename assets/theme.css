@@ -7138,6 +7138,8 @@ volume-pricing show-more-button {
     max-width: 100%;
     margin: 0 auto !important;
     justify-content: center !important;
+    align-items: center;
+    display: flex;
   }
 
   .brand-nav-wrapper {
@@ -7151,10 +7153,10 @@ volume-pricing show-more-button {
   }
 
   .brand-selector__item {
-  width: 100px;
+  flex: 1;
+  max-width: 140px;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 }
