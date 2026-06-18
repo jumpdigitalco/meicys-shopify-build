@@ -603,7 +603,7 @@
     "checkout": {
       "contact": {
         "company_label": "Documento de identificación",
-        "optional_company_label": "Tipo y número de documento (menor a 8 dígitos, agregar un 0 al final)"
+        "optional_company_label": "Ej: CC 12345678 o NIT 900123456"
       },
       "field_errors": {
         "address_company_blank": "Si tu documento tiene menos de 8 dígitos, agrega un 0 al final"
