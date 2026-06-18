@@ -602,7 +602,7 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "company_label": "Documento de identificación",
+        "company_label": "Tipo y número de documento - Ej: CC 12345678 o NIT 900123456",
         "optional_company_label": "Ej: CC 12345678 o NIT 900123456"
       },
       "field_errors": {
