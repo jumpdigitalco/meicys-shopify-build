@@ -606,7 +606,7 @@
         "optional_company_label": "Ej: CC 12345678 o NIT 900123456"
       },
       "field_errors": {
-        "address_company_blank": "Si tu documento tiene menos de 8 dígitos, agrega un 0 al final"
+        "address_company_blank": "Ingresa tu tipo y número de documento"
       }
     }
   }
