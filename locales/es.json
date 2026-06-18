@@ -602,8 +602,8 @@
   "shopify": {
     "checkout": {
       "contact": {
-        "company_label": "Cédula de Ciudadanía (menor a 8 dígitos, ingrese números del 1 al 8)",
-        "optional_company_label": "Cédula de Ciudadanía (menor a 8 dígitos, ingrese números del 1 al 8)"
+        "company_label": "Ingrese tipo y número de documento (menor a 8 dígitos, agregar un 0 al final)",
+        "optional_company_label": "Ingrese tipo y número de documento (menor a 8 dígitos, agregar un 0 al final)"
       },
       "field_errors": {
         "address_company_blank": "Ingresa un número o documento"
