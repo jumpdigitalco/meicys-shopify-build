@@ -120,21 +120,6 @@
                 </div>
               {%- else -%}
                 <div class="cart__ctas" {{ block.shopify_attributes }}>
-                  {% comment %} Campo personalizado para Tipo y Número de Documento {% endcomment %}
-<div class="cart-attribute-field" style="margin: 20px 0; display: flex; flex-direction: column; gap: 10px;">
-  
-  <label for="tipo-documento" style="font-weight: bold;">Tipo de Documento:</label>
-  <select id="tipo-documento" name="attributes[Tipo de Documento]" style="padding: 8px; width: 100%; max-width: 300px;">
-    <option value="Cedula de Ciudadania" {% if cart.attributes["Tipo de Documento"] == "Cedula de Ciudadania" %}selected{% endif %}>Cédula de Ciudadanía (CC)</option>
-    <option value="NIT / RUT" {% if cart.attributes["Tipo de Documento"] == "NIT / RUT" %}selected{% endif %}>NIT / RUT</option>
-    <option value="Cedula de Extranjeria" {% if cart.attributes["Tipo de Documento"] == "Cedula de Extranjeria" %}selected{% endif %}>Cédula de Extranjería (CE)</option>
-    <option value="Pasaporte" {% if cart.attributes["Tipo de Documento"] == "Pasaporte" %}selected{% endif %}>Pasaporte</option>
-  </select>
-
-  <label for="numero-documento" style="font-weight: bold;">Número de Documento:</label>
-  <input required id="numero-documento" type="text" name="attributes[Numero de Documento]" value="{{ cart.attributes['Numero de Documento'] }}" placeholder="Ej: 123456789" style="padding: 8px; width: 100%; max-width: 300px;">
-
-</div>
                   <button
                     type="submit"
                     id="checkout"
