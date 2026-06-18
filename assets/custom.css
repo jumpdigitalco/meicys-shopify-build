@@ -124,3 +124,8 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
 .additional-links-menu a:hover {
   opacity: 0.85;
 }
+
+/* Prueba logo Keraton */
+.header__heading-logo {
+  transform: scale(1.3);
+}
