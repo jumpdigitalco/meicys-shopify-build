@@ -83,7 +83,7 @@ body.template-page-landing-keraton
 @media (max-width: 768px) {
   body.template-page-landing-keraton 
   .header__heading-logo {
-    transform: scale(1.10) translateY(3px);
+    transform: scale(1.10) translateY(2px);
   }
 }
 
@@ -123,9 +123,4 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
 
 .additional-links-menu a:hover {
   opacity: 0.85;
-}
-
-/* Prueba logo Keraton */
-.header__heading-logo {
-  transform: scale(1.3);
 }
