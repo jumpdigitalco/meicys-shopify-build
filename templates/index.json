@@ -46,7 +46,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/banner-prima-mundialista-meicys-desktop.jpg",
-            "mobile_image": "shopify://shop_images/banner-mas-vendidos-meicys-mobile.jpg",
+            "mobile_image": "shopify://shop_images/banner-prima-mundialista-meicys-mobile.jpg",
             "slide_link": "shopify://collections/prima-mundialista-meicys",
             "video_background": false,
             "content_width": 600,
