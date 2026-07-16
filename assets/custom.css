@@ -137,7 +137,7 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
     width:0;
     height:2px;
     background:#D9277A;
-    transform:translateX(-50%);
+    transform:translateX(-10%);
     transition:width .25s ease;
 }
 
