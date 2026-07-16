@@ -110,10 +110,13 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
   opacity: 0.85;
 }
 
+/* Bloque del precio */
 .template-product .price {
+    display: inline-flex;
+    align-items: center;
+    padding: 12px 20px;
+    border-radius: 10px;
     margin: 16px 0 20px;
-    padding: 14px 18px;
-
 }
 
 .template-product .price-item {
