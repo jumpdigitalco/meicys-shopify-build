@@ -119,3 +119,32 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
     font-weight: 700;
     line-height: 1.2;
 }
+
+.brand-selector__link{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+    transition:all .25s ease;
+    cursor:pointer;
+}
+
+.brand-selector__link::after{
+    content:"";
+    position:absolute;
+    bottom:-8px;
+    left:50%;
+    width:0;
+    height:2px;
+    background:#D9277A;
+    transform:translateX(-50%);
+    transition:width .25s ease;
+}
+
+.brand-selector__link:hover{
+    transform:translateY(-4px);
+}
+
+.brand-selector__link:hover::after{
+    width:70%;
+}
