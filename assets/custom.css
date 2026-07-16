@@ -114,8 +114,13 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
     margin: 12px 0 18px;
 }
 
+/* Precio del producto */
 .template-product .price-item {
     font-size: 2.4rem;
     font-weight: 700;
-    line-height: 1.2;
+}
+
+/* Precio anterior */
+.template-product .price-item--regular {
+    font-size: 1.7rem;
 }
