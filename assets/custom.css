@@ -132,7 +132,7 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
 .brand-selector__link::after{
     content:"";
     position:absolute;
-    bottom:-2px;
+    bottom:-8px;
     left:50%;
     width:0;
     height:2px;
