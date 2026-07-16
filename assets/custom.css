@@ -146,5 +146,5 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
 }
 
 .brand-selector__link:hover::after{
-    width:70%;
+    width:30%;
 }
