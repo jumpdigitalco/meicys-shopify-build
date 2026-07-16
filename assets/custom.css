@@ -120,3 +120,23 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
     line-height: 1.2;
 }
 
+.contact-socials{
+  display:flex;
+  gap:18px;
+  margin-top:18px;
+}
+
+.contact-socials a{
+  color:rgb(var(--color-foreground));
+  transition:.25s;
+}
+
+.contact-socials a:hover{
+  color:#b86bd8;
+  transform:translateY(-2px);
+}
+
+.contact-socials svg{
+  width:24px;
+  height:24px;
+}

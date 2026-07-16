@@ -265,9 +265,29 @@
                     {{ block.settings.heading }}
                   </{{ heading_tag }}>
                 {%- when 'text' -%}
-                  <div class="image-with-text__text rte{% if block.settings.large_text %} body-1 {% endif %}" {{ block.shopify_attributes }}>
-                    {{ block.settings.text }}
-                  </div>
+  <div class="image-with-text__text rte{% if block.settings.large_text %} body-1 {% endif %}" {{ block.shopify_attributes }}>
+    {{ block.settings.text }}
+
+    {% if block.id == 'text_gaByTb' %}
+      <div class="contact-socials">
+        <a href="https://www.facebook.com/meicyscolombia" target="_blank" aria-label="Facebook">
+          {% render 'icon-facebook' %}
+        </a>
+
+        <a href="https://www.instagram.com/meicyscolombia" target="_blank" aria-label="Instagram">
+          {% render 'icon-instagram' %}
+        </a>
+
+        <a href="https://www.tiktok.com/@meicyscolombia" target="_blank" aria-label="TikTok">
+          {% render 'icon-tiktok' %}
+        </a>
+
+        <a href="https://www.youtube.com/@meicyscolombia" target="_blank" aria-label="YouTube">
+          {% render 'icon-youtube' %}
+        </a>
+      </div>
+    {% endif %}
+  </div>
                 {%- when 'button' -%}
                   {%- if block.settings.button_label != blank -%}
                     {%- render 'button',
