@@ -142,9 +142,9 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
 }
 
 .brand-selector__link:hover{
-    transform:translateY(-4px);
+    transform:translateY(-2px);
 }
 
 .brand-selector__link:hover::after{
-    width:30%;
+    width:70%;
 }
