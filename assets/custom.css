@@ -110,3 +110,12 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
   opacity: 0.85;
 }
 
+.template-product .price {
+    margin: 14px 0 20px;
+}
+
+.template-product .price-item {
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
