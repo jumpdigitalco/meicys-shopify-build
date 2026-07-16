@@ -111,7 +111,7 @@ body:has(a[href*="/collections/tienda-vizio"]) .additional-links-menu a {
 }
 
 .template-product .price {
-    margin: 20px 0 28px;
+    margin: 12px 0 18px;
 }
 
 .template-product .price-item {
