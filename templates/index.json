@@ -44,11 +44,10 @@
         },
         "slide_ihNn9E": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/banner-prima-mundialista-meicys-desktop.jpg",
-            "mobile_image": "shopify://shop_images/banner-prima-mundialista-meicys-mobile.jpg",
-            "slide_link": "shopify://collections/prima-mundialista-meicys",
+            "image": "shopify://shop_images/banner-20-de-julio-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-20-de-julio-mobile.jpg",
+            "slide_link": "shopify://collections/tintes-meicys",
             "video_background": false,
             "content_width": 600,
             "content_position": "middle-center",
