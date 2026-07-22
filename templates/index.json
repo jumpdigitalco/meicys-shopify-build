@@ -44,10 +44,9 @@
         },
         "slide_ihNn9E": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/banner-20-de-julio-desktop.jpg",
-            "mobile_image": "shopify://shop_images/banner-20-de-julio-mobile.jpg",
+            "image": "shopify://shop_images/banner-dcto-tinte-meicys-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-dcto-tinte-meicys-mobile.jpg",
             "slide_link": "shopify://collections/tintes-meicys",
             "video_background": false,
             "content_width": 600,
