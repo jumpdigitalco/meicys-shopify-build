@@ -549,6 +549,13 @@
             "tab_heading": "Metálicos y Mate"
           }
         },
+        "collection_awK3ei": {
+          "type": "collection",
+          "settings": {
+            "collection": "tintes-meicys-tonos-fantasia-meicys",
+            "tab_heading": "Fantasía"
+          }
+        },
         "collection_CKBAVg": {
           "type": "collection",
           "disabled": true,
@@ -574,6 +581,7 @@
         "collection_qRcexc",
         "collection_XfErCE",
         "collection_X3iKzK",
+        "collection_awK3ei",
         "collection_CKBAVg",
         "collection_QrrPJz"
       ],
