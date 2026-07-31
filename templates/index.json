@@ -45,9 +45,9 @@
         "slide_ihNn9E": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/banner-dcto-tinte-meicys-desktop.jpg",
-            "mobile_image": "shopify://shop_images/banner-dcto-tinte-meicys-mobile.jpg",
-            "slide_link": "shopify://collections/tintes-meicys",
+            "image": "shopify://shop_images/banner-promo-agosto-meicys-desktop.jpg",
+            "mobile_image": "shopify://shop_images/banner-promo-agosto-meicys-mobile.jpg",
+            "slide_link": "shopify://collections/promos-hasta-las-nubes-descuentos-de-agosto-en-meicys",
             "video_background": false,
             "content_width": 600,
             "content_position": "middle-center",
@@ -73,6 +73,7 @@
         },
         "slide_maKEtc": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner-nuevos-productos-junio-meicys-desktop.jpg",
             "mobile_image": "shopify://shop_images/banner-nuevos-productos-junio-meicys-mobile.jpg",
