@@ -594,7 +594,7 @@
         "description": "",
         "enable_uppercase": true,
         "tabs_font_family": "headings_font",
-        "layout": "horizontal",
+        "layout": "vertical",
         "enable_stack_products": false,
         "show_progress_bar": true,
         "enable_overflow_visible": true,
