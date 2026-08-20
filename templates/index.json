@@ -294,7 +294,7 @@
         "slide_width": "w-full",
         "desktop_height": "desktop-height-image",
         "mobile_height": "mobile-height-250",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 3,
         "transition": "fade",
         "controls": "filled-arrows",
