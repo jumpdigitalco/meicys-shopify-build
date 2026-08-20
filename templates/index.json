@@ -297,7 +297,7 @@
         "auto_rotate": true,
         "change_slides_speed": 3,
         "transition": "fade",
-        "controls": "filled-arrows",
+        "controls": "dots",
         "accessibility_info": "Slideshow about our brand",
         "bg_color": "",
         "controls_color": "#ffffff",
