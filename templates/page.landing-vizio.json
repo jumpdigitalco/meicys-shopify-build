@@ -218,11 +218,11 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/categoria-splash-vizio.jpg",
-            "link": "shopify://collections/splash-corporales-vizio",
+            "link": "shopify://collections/splash-corporales-for-women-vizio",
             "title": "",
             "text": "",
             "button_label": "Splash",
-            "button_link": "shopify://collections/splash-corporales-vizio",
+            "button_link": "shopify://collections/splash-corporales-for-women-vizio",
             "button_type": "underlined",
             "show_icon": false
           }
@@ -567,7 +567,7 @@
         "collection_L4Gk73": {
           "type": "collection",
           "settings": {
-            "collection": "splash-corporales-vizio",
+            "collection": "splash-corporales-for-women-vizio",
             "tab_heading": "Splash"
           }
         },
