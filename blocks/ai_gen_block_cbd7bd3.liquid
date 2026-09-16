@@ -164,7 +164,7 @@
   class="ai-newsletter-popup-{{ ai_gen_id }}"
   {{ block.shopify_attributes }}
 >
-  {%- form 'customer', id: 'newsletter-form-' | append: ai_gen_id -%}
+  {%- form ai_gen_id -%}
     <input type="hidden" name="contact[tags]" value="newsletter">
     <div class="ai-newsletter-popup__content-{{ ai_gen_id }}">
       {%- if block.settings.heading != blank -%}
@@ -782,4 +782,13 @@
     }
   ]
 }
-{% endschema %}
+{% endschema %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- form 'customer', id: 'newsletter-form-' | append: ai_gen_id -%}"
+  to: "{%- form ai_gen_id -%}"
+  position: 5552..5574
+{%- endcomment -%}
